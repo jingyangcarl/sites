@@ -1,29 +1,29 @@
 {
     "2024": {
         "main": {
-            "poster": 2272,
             "oral": 86,
+            "poster": 1820,
             "spotlight": 366
         }
     },
     "2023": {
         "main": {
-            "poster accept": 1213,
-            "top 5%": 91,
-            "top 25%": 280
+            "poster": 1213,
+            "top 25%": 280,
+            "top 5%": 91
         }
     },
     "2022": {
         "main": {
-            "poster": 1095,
-            "spotlight": 175,
-            "oral": 55
+            "oral": 55,
+            "poster": 865,
+            "spotlight": 175
         }
     },
     "2021": {
         "main": {
-            "poster": 860,
             "oral": 53,
+            "poster": 693,
             "spotlight": 114
         }
     },
@@ -32,14 +32,14 @@
     },
     "2019": {
         "main": {
-            "poster": 501,
-            "oral": 25
+            "oral": 25,
+            "poster": 478
         }
     },
     "2018": {
         "main": {
-            "poster": 336,
-            "oral": 23
+            "oral": 23,
+            "poster": 313
         }
     },
     "2017": {

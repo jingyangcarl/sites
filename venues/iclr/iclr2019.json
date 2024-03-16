@@ -62,12 +62,6 @@
     {
         "title": "A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs",
         "author": "Jack Lindsey, Samuel Ocko, Surya Ganguli, Stephane Deny",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs",
-        "author": "Jack Lindsey, Samuel Ocko, Surya Ganguli, Stephane Deny",
         "status": "oral",
         "track": "main"
     },
@@ -338,12 +332,6 @@
     {
         "title": "Auxiliary Variational MCMC",
         "author": "Raza Habib, David Barber",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "BA-Net: Dense Bundle Adjustment Networks",
-        "author": "Chengzhou Tang, Ping Tan",
         "status": "poster",
         "track": "main"
     },
@@ -692,12 +680,6 @@
     {
         "title": "Deterministic Variational Inference for Robust Bayesian Neural Networks",
         "author": "Anqi Wu, Sebastian Nowozin, Ted Meeds, Richard E Turner, Jos\u00e9 Miguel Hern\u00e1ndez Lobato, Alexander Gaunt",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Deterministic Variational Inference for Robust Bayesian Neural Networks",
-        "author": "Anqi Wu, Sebastian Nowozin, Ted Meeds, Richard E Turner, Jos\u00e9 Miguel Hern\u00e1ndez Lobato, Alexander Gaunt",
         "status": "oral",
         "track": "main"
     },
@@ -896,12 +878,6 @@
     {
         "title": "Enabling Factorized Piano Music Modeling and Generation with the MAESTRO Dataset",
         "author": "Curtis Hawthorne, Andriy Stasyuk, Adam Roberts, Ian Simon, Anna Huang, Sander Dieleman, Erich K Elsen, Jesse Engel, Douglas Eck",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Enabling Factorized Piano Music Modeling and Generation with the MAESTRO Dataset",
-        "author": "Curtis Hawthorne, Andriy Stasyuk, Adam Roberts, Ian Simon, Anna Huang, Sander Dieleman, Erich K Elsen, Jesse Engel, Douglas Eck",
         "status": "oral",
         "track": "main"
     },
@@ -962,12 +938,6 @@
     {
         "title": "Exploration by random network distillation",
         "author": "Yuri Burda, Harrison Edwards, Amos Storkey, Oleg Klimov",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "FFJORD: Free-Form Continuous Dynamics for Scalable Reversible Generative Models",
-        "author": "Will Grathwohl, Tian Qi Chen, Jesse Bettencourt, Ilya Sutskever, David Duvenaud",
         "status": "poster",
         "track": "main"
     },
@@ -1226,12 +1196,6 @@
     {
         "title": "How Powerful are Graph Neural Networks?",
         "author": "Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "How Powerful are Graph Neural Networks?",
-        "author": "Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka",
         "status": "oral",
         "track": "main"
     },
@@ -1268,12 +1232,6 @@
     {
         "title": "Identifying and Controlling Important Neurons in Neural Machine Translation",
         "author": "David A Bau, Yonatan Belinkov, Hassan Sajjad, Nadir Durrani, Fahim Dalvi, James R Glass",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness",
-        "author": "Robert Geirhos, Patricia Rubisch, Claudio Michaelis, Matthias Bethge, Felix Wichmann, Wieland Brendel",
         "status": "poster",
         "track": "main"
     },
@@ -1400,12 +1358,6 @@
     {
         "title": "KnockoffGAN: Generating Knockoffs for Feature Selection using Generative Adversarial Networks",
         "author": "James Jordon, Jinsung Yoon, Mihaela Schaar",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "KnockoffGAN: Generating Knockoffs for Feature Selection using Generative Adversarial Networks",
-        "author": "James Jordon, Jinsung Yoon, Mihaela Schaar",
         "status": "oral",
         "track": "main"
     },
@@ -1454,12 +1406,6 @@
     {
         "title": "LanczosNet: Multi-Scale Deep Graph Convolutional Networks",
         "author": "Renjie Liao, Zhizhen Zhao, Raquel Urtasun, Richard Zemel",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Large Scale GAN Training for High Fidelity Natural Image Synthesis",
-        "author": "Andrew Brock, Jeff Donahue, Karen Simonyan",
         "status": "poster",
         "track": "main"
     },
@@ -1610,12 +1556,6 @@
     {
         "title": "Learning Protein Structure with a Differentiable Simulator",
         "author": "John Ingraham, Adam J Riesselman, Chris Sander, Debora Marks",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Learning Protein Structure with a Differentiable Simulator",
-        "author": "John Ingraham, Adam J Riesselman, Chris Sander, Debora Marks",
         "status": "oral",
         "track": "main"
     },
@@ -1628,12 +1568,6 @@
     {
         "title": "Learning Representations of Sets through Optimized Permutations",
         "author": "Yan Zhang, Jonathon Hare, Adam Prugel-Bennett",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Learning Robust Representations by Projecting Superficial Statistics Out",
-        "author": "Haohan Wang, Zexue He, Zachary Lipton, Eric P Xing",
         "status": "poster",
         "track": "main"
     },
@@ -1682,12 +1616,6 @@
     {
         "title": "Learning concise representations for regression by evolving networks of trees",
         "author": "William La Cava, Tilak Raj Singh, Srinivas Suri, Srinivas Suri",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Learning deep representations by mutual information estimation and maximization",
-        "author": "R Devon Hjelm, Alex Fedorov, Samuel Lavoie, Karan Grewal, Philip Bachman, Adam Trischler, Yoshua Bengio",
         "status": "poster",
         "track": "main"
     },
@@ -1760,12 +1688,6 @@
     {
         "title": "Learning to Navigate the Web",
         "author": "Izzeddin Gur, Ulrich Rueckert, Aleksandra Faust, Dilek Hakkani-Tur",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Learning to Remember More with Less Memorization",
-        "author": "Hung Le, Truyen Tran, Svetha Venkatesh",
         "status": "poster",
         "track": "main"
     },
@@ -1886,12 +1808,6 @@
     {
         "title": "Meta-Learning Probabilistic Inference for Prediction",
         "author": "Jonathan Gordon, John Bronskill, Matthias Bauer, Sebastian Nowozin, Richard E Turner",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Meta-Learning Update Rules for Unsupervised Representation Learning",
-        "author": "Luke Metz, Niru Maheswaranathan, Brian Cheung, Jascha Sohl-Dickstein",
         "status": "poster",
         "track": "main"
     },
@@ -2102,12 +2018,6 @@
     {
         "title": "On Random Deep Weight-Tied Autoencoders: Exact Asymptotic Analysis, Phase Transitions, and Implications to Training",
         "author": "Ping Li, Phan-Minh Nguyen",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "On Random Deep Weight-Tied Autoencoders: Exact Asymptotic Analysis, Phase Transitions, and Implications to Training",
-        "author": "Ping Li, Phan-Minh Nguyen",
         "status": "oral",
         "track": "main"
     },
@@ -2192,12 +2102,6 @@
     {
         "title": "Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks",
         "author": "Yikang Shen, Shawn Tan, Alessandro Sordoni, Aaron Courville",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks",
-        "author": "Yikang Shen, Shawn Tan, Alessandro Sordoni, Aaron Courville",
         "status": "oral",
         "track": "main"
     },
@@ -2216,12 +2120,6 @@
     {
         "title": "PATE-GAN: Generating Synthetic Data with Differential Privacy Guarantees",
         "author": "James Jordon, Jinsung Yoon, Mihaela Schaar",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Pay Less Attention with Lightweight and Dynamic Convolutions",
-        "author": "Felix Wu, Angela Fan, Alexei Baevski, Yann Dauphin, Michael Auli",
         "status": "poster",
         "track": "main"
     },
@@ -2576,12 +2474,6 @@
     {
         "title": "Slalom: Fast, Verifiable and Private Execution of Neural Networks in Trusted Hardware",
         "author": "Florian Tramer, Dan Boneh",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Slalom: Fast, Verifiable and Private Execution of Neural Networks in Trusted Hardware",
-        "author": "Florian Tramer, Dan Boneh",
         "status": "oral",
         "track": "main"
     },
@@ -2600,12 +2492,6 @@
     {
         "title": "Small nonlinearities in activation functions create bad local minima in neural networks",
         "author": "Chulhee Yun, Suvrit Sra, Ali Jadbabaie",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Smoothing the Geometry of Probabilistic Box Embeddings",
-        "author": "Xiang Li, Luke Vilnis, Dongxu Zhang, Michael Boratko, Andrew McCallum",
         "status": "poster",
         "track": "main"
     },
@@ -2732,12 +2618,6 @@
     {
         "title": "Temporal Difference Variational Auto-Encoder",
         "author": "Karol Gregor, George Papamakarios, Frederic Besse, Lars Buesing, Theophane Weber",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Temporal Difference Variational Auto-Encoder",
-        "author": "Karol Gregor, George Papamakarios, Frederic Besse, Lars Buesing, Theophane Weber",
         "status": "oral",
         "track": "main"
     },
@@ -2768,19 +2648,7 @@
     {
         "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks",
         "author": "Jonathan Frankle, Michael Carbin",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks",
-        "author": "Jonathan Frankle, Michael Carbin",
         "status": "oral",
-        "track": "main"
-    },
-    {
-        "title": "The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision",
-        "author": "Jiayuan Mao, Chuang Gan, Pushmeet Kohli, Joshua B Tenenbaum, Jiajun Wu",
-        "status": "poster",
         "track": "main"
     },
     {
@@ -2894,12 +2762,6 @@
     {
         "title": "Transfer Learning for Sequences via Learning to Collocate",
         "author": "Wanyun Cui, Guangyu Zheng, Zhiqiang Shen, Sihang Jiang, Wei Wang",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Transferring Knowledge across Learning Processes",
-        "author": "Sebastian Flennerhag, Pablo Moreno, Neil D Lawrence, Andreas Damianou",
         "status": "poster",
         "track": "main"
     },

@@ -122,12 +122,6 @@
     {
         "title": "AmbientGAN: Generative models from lossy measurements",
         "author": "Ashish Bora, Eric Price, Alexandros Dimakis",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "AmbientGAN: Generative models from lossy measurements",
-        "author": "Ashish Bora, Eric Price, Alexandros Dimakis",
         "status": "oral",
         "track": "main"
     },
@@ -152,12 +146,6 @@
     {
         "title": "Apprentice: Using Knowledge Distillation Techniques To Improve Low-Precision Network Accuracy",
         "author": "Asit Mishra, Debbie Marr",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Ask the Right Questions: Active Question Reformulation with Reinforcement Learning",
-        "author": "Christian Buck, Jannis Bulian, Massimiliano Ciaramita, Wojciech Gajewski, Andrea Gesmundo, Neil Houlsby, Wei Wang.",
         "status": "poster",
         "track": "main"
     },
@@ -206,24 +194,12 @@
     {
         "title": "Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs",
         "author": "William Murdoch, Peter J Liu, Bin Yu",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs",
-        "author": "William Murdoch, Peter J Liu, Bin Yu",
         "status": "oral",
         "track": "main"
     },
     {
         "title": "Bi-Directional Block Self-Attention for Fast and Memory-Efficient Sequence Modeling",
         "author": "Tao Shen, Tianyi Zhou, Guodong Long, Jing Jiang, Chengqi Zhang",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Boosting Dilated Convolutional Networks with Mixed Tensor Decompositions",
-        "author": "Nadav Cohen, Ronen Tamari, Amnon Shashua",
         "status": "poster",
         "track": "main"
     },
@@ -242,12 +218,6 @@
     {
         "title": "Boundary Seeking GANs",
         "author": "R Devon Hjelm, Athul Paul Jacob, Adam Trischler, Tong Che, Kyunghyun Cho, Yoshua Bengio",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Breaking the Softmax Bottleneck: A High-Rank RNN Language Model",
-        "author": "Zhilin Yang, Zihang Dai, Ruslan Salakhutdinov, William W Cohen",
         "status": "poster",
         "track": "main"
     },
@@ -290,19 +260,7 @@
     {
         "title": "Certifying Some Distributional Robustness with Principled Adversarial Training",
         "author": "Aman Sinha, Hong Namkoong, John Duchi",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Certifying Some Distributional Robustness with Principled Adversarial Training",
-        "author": "Aman Sinha, Hong Namkoong, John Duchi",
         "status": "oral",
-        "track": "main"
-    },
-    {
-        "title": "Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality",
-        "author": "Xingjun Ma, Bo Li, Yisen Wang, Sarah Erfani, Sudanthi Wijewickrema, Grant Schoenebeck, Dawn Song, Michael E Houle, James Bailey",
-        "status": "poster",
         "track": "main"
     },
     {
@@ -344,12 +302,6 @@
     {
         "title": "Consequentialist conditional cooperation in social dilemmas with imperfect information",
         "author": "Alex Peysakhovich, Adam Lerer",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments",
-        "author": "Maruan Al-Shedivat, Trapit Bansal, Yuri Burda, Ilya Sutskever, Igor Mordatch, Pieter Abbeel",
         "status": "poster",
         "track": "main"
     },
@@ -590,12 +542,6 @@
     {
         "title": "Eigenoption Discovery through the Deep Successor Representation",
         "author": "Marlos C. Machado, Clemens Rosenbaum, Xiaoxiao Guo, Miao Liu, Gerald Tesauro, Murray Campbell",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Emergence of Linguistic Communication from Referential Games with Symbolic and Pixel Input",
-        "author": "Angeliki Lazaridou, Karl M Hermann, Karl Tuyls, Stephen Clark",
         "status": "poster",
         "track": "main"
     },
@@ -980,12 +926,6 @@
     {
         "title": "Learning Deep Mean Field Games for Modeling Large Population Behavior",
         "author": "Jiachen Yang, Xiaojing Ye, Rakshit Trivedi, huan xu, Hongyuan Zha",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Learning Deep Mean Field Games for Modeling Large Population Behavior",
-        "author": "Jiachen Yang, Xiaojing Ye, Rakshit Trivedi, huan xu, Hongyuan Zha",
         "status": "oral",
         "track": "main"
     },
@@ -1106,12 +1046,6 @@
     {
         "title": "Learning to Multi-Task by Active Sampling",
         "author": "Sahil Sharma, Ashutosh Kumar Jha, Parikshit Hegde, Balaraman Ravindran",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Learning to Represent Programs with Graphs",
-        "author": "Miltiadis Allamanis, Marc Brockschmidt, Mahmoud Khademi",
         "status": "poster",
         "track": "main"
     },
@@ -1304,12 +1238,6 @@
     {
         "title": "Multi-Scale Dense Networks for Resource Efficient Image Classification",
         "author": "Gao Huang, Danlu Chen, Tianhong Li, Felix Wu, Laurens van der Maaten, Kilian Weinberger",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Multi-Scale Dense Networks for Resource Efficient Image Classification",
-        "author": "Gao Huang, Danlu Chen, Tianhong Li, Felix Wu, Laurens van der Maaten, Kilian Weinberger",
         "status": "oral",
         "track": "main"
     },
@@ -1370,12 +1298,6 @@
     {
         "title": "Neural Sketch Learning for Conditional Program Generation",
         "author": "Vijayaraghavan Murali, Letao Qi, Swarat Chaudhuri, Chris Jermaine",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Neural Sketch Learning for Conditional Program Generation",
-        "author": "Vijayaraghavan Murali, Letao Qi, Swarat Chaudhuri, Chris Jermaine",
         "status": "oral",
         "track": "main"
     },
@@ -1418,12 +1340,6 @@
     {
         "title": "On the Convergence of Adam and Beyond",
         "author": "Sashank Reddi, Satyen Kale, Sanjiv Kumar",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "On the Convergence of Adam and Beyond",
-        "author": "Sashank Reddi, Satyen Kale, Sanjiv Kumar",
         "status": "oral",
         "track": "main"
     },
@@ -1454,12 +1370,6 @@
     {
         "title": "On the importance of single directions for generalization",
         "author": "Ari Morcos, David Barrett, Neil C Rabinowitz, Matthew Botvinick",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "On the insufficiency of existing momentum schemes for Stochastic Optimization",
-        "author": "Rahul Kidambi, Praneeth Netrapalli, Prateek Jain, Sham M Kakade",
         "status": "poster",
         "track": "main"
     },
@@ -1532,12 +1442,6 @@
     {
         "title": "Predicting Floor-Level for 911 Calls with Neural Networks and Smartphone Sensor Data",
         "author": "William A Falcon, Henning Schulzrinne",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Progressive Growing of GANs for Improved Quality, Stability, and Variation",
-        "author": "Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen",
         "status": "poster",
         "track": "main"
     },
@@ -1736,24 +1640,12 @@
     {
         "title": "Spectral Normalization for Generative Adversarial Networks",
         "author": "Takeru Miyato, Toshiki Kataoka, Masanori Koyama, Yuichi Yoshida",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Spectral Normalization for Generative Adversarial Networks",
-        "author": "Takeru Miyato, Toshiki Kataoka, Masanori Koyama, Yuichi Yoshida",
         "status": "oral",
         "track": "main"
     },
     {
         "title": "SpectralNet: Spectral Clustering using Deep Neural Networks",
         "author": "Uri Shaham, Kelly Stanton, Henry Li, Ronen Basri, Boaz Nadler, Yuval Kluger",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Spherical CNNs",
-        "author": "Taco Cohen, Mario Geiger, Jonas Koehler, Max Welling",
         "status": "poster",
         "track": "main"
     },
@@ -1796,12 +1688,6 @@
     {
         "title": "Synthesizing realistic neural population activity patterns using Generative Adversarial Networks",
         "author": "Manuel Molano-Mazon, Arno Onken, Eugenio Piasini, Stefano Panzeri",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Synthetic and Natural Noise Both Break Neural Machine Translation",
-        "author": "Yonatan Belinkov, Yonatan Bisk",
         "status": "poster",
         "track": "main"
     },
@@ -1934,12 +1820,6 @@
     {
         "title": "Training and Inference with Integers in Deep Neural Networks",
         "author": "Shuang Wu, Guoqi Li, Feng Chen, Luping Shi",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Training and Inference with Integers in Deep Neural Networks",
-        "author": "Shuang Wu, Guoqi Li, Feng Chen, Luping Shi",
         "status": "oral",
         "track": "main"
     },
@@ -2030,12 +1910,6 @@
     {
         "title": "Variance Reduction for Policy Gradient with Action-Dependent Factorized Baselines",
         "author": "Cathy Wu, Aravind Rajeswaran, Yan Duan, Vikash Kumar, Alexandre M Bayen, Sham M Kakade, Igor Mordatch, Pieter Abbeel",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Variance Reduction for Policy Gradient with Action-Dependent Factorized Baselines",
-        "author": "Cathy Wu, Aravind Rajeswaran, Yan Duan, Vikash Kumar, Alexandre M Bayen, Sham M Kakade, Igor Mordatch, Pieter Abbeel",
         "status": "oral",
         "track": "main"
     },
@@ -2096,12 +1970,6 @@
     {
         "title": "Wasserstein Auto-Encoders",
         "author": "Ilya Tolstikhin, Olivier Bousquet, Sylvain Gelly, Bernhard Schoelkopf",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Wasserstein Auto-Encoders",
-        "author": "Ilya Tolstikhin, Olivier Bousquet, Sylvain Gelly, Bernhard Schoelkopf",
         "status": "oral",
         "track": "main"
     },
@@ -2120,12 +1988,6 @@
     {
         "title": "Word translation without parallel data",
         "author": "Guillaume Lample,  , Marc'Aurelio Ranzato,  , Herv\u00e9 J\u00e9gou",
-        "status": "poster",
-        "track": "main"
-    },
-    {
-        "title": "Zero-Shot Visual Imitation",
-        "author": "Deepak Pathak, Parsa Mahmoudieh, Guanghao Luo, Pulkit Agrawal, Dian Chen, Fred Shentu, Evan Shelhamer, Jitendra Malik, Alexei Efros, Trevor Darrell",
         "status": "poster",
         "track": "main"
     },
