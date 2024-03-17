@@ -2192,12 +2192,6 @@
     {
         "title": "Fully Understanding The Hashing Trick",
         "author": "Lior Kamma, Casper B. Freksen, Kasper Green Larsen",
-        "status": "Poster",
-        "track": "main"
-    },
-    {
-        "title": "Fully Understanding The Hashing Trick",
-        "author": "Casper B. Freksen, Lior Kamma, Kasper Green Larsen",
         "status": "Spotlight",
         "track": "main"
     },

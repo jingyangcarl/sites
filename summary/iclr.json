@@ -1,9 +1,9 @@
 {
     "2024": {
         "main": {
-            "oral": 86,
-            "poster": 1820,
-            "spotlight": 366
+            "Oral": 86,
+            "Poster": 1820,
+            "Spotlight": 366
         }
     },
     "2023": {
@@ -15,16 +15,16 @@
     },
     "2022": {
         "main": {
-            "oral": 55,
-            "poster": 865,
-            "spotlight": 175
+            "Oral": 55,
+            "Poster": 865,
+            "Spotlight": 175
         }
     },
     "2021": {
         "main": {
-            "oral": 53,
-            "poster": 693,
-            "spotlight": 114
+            "Oral": 53,
+            "Poster": 693,
+            "Spotlight": 114
         }
     },
     "2020": {
@@ -32,19 +32,21 @@
     },
     "2019": {
         "main": {
-            "oral": 25,
-            "poster": 478
+            "Oral": 25,
+            "Poster": 478
         }
     },
     "2018": {
         "main": {
-            "oral": 23,
-            "poster": 313
+            "Oral": 23,
+            "Poster": 313
         }
     },
     "2017": {
         "main": {}
     },
+    "2016": {},
+    "2015": {},
     "2014": {
         "main": {}
     },
