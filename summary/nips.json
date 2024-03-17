@@ -1,0 +1,92 @@
+{
+    "2024": {},
+    "2023": {
+        "main": {
+            "Oral": 67,
+            "Poster": 2773,
+            "Spotlight": 378
+        },
+        "Datasets & Benchmarks": {
+            "Oral": 10,
+            "Poster": 290,
+            "Spotlight": 22
+        },
+        "Journal": {
+            "Poster": 44
+        }
+    },
+    "2022": {
+        "main": {
+            "Highlighted": 183,
+            "Poster": 2488
+        },
+        "Datasets & Benchmarks": {
+            "Highlighted": 16,
+            "Poster": 147
+        },
+        "Journal": {
+            "Journal": 70
+        }
+    },
+    "2021": {
+        "main": {
+            "Oral": 55,
+            "Poster": 2019,
+            "Spotlight": 260
+        }
+    },
+    "2020": {
+        "main": {
+            "Oral": 106,
+            "Poster": 1794
+        }
+    },
+    "2019": {
+        "main": {
+            "Oral": 36,
+            "Poster": 1227,
+            "Spotlight": 164
+        }
+    },
+    "2018": {
+        "main": {
+            "Oral": 30,
+            "Poster": 813,
+            "Spotlight": 167
+        }
+    },
+    "2017": {
+        "main": {
+            "Oral": 41,
+            "Poster": 538,
+            "Spotlight": 112
+        }
+    },
+    "2016": {
+        "main": {
+            "Oral": 45,
+            "Poster": 524
+        }
+    },
+    "2015": {
+        "main": {
+            "Oral": 15,
+            "Poster": 321,
+            "Spotlight": 67
+        }
+    },
+    "2014": {
+        "main": {
+            "Oral": 20,
+            "Poster": 329,
+            "Spotlight": 62
+        }
+    },
+    "2013": {
+        "main": {
+            "Oral": 20,
+            "Poster": 288,
+            "Spotlight": 52
+        }
+    }
+}
