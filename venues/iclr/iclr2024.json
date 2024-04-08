@@ -204,7 +204,7 @@
     },
     {
         "title": "A Framework and Benchmark for Deep Batch Active Learning for Regression",
-        "author": "",
+        "author": "David Holzm\u00fcller, Viktor Zaverkin, Johannes K\u00e4stner, Ingo Steinwart",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/20667"
@@ -215,6 +215,13 @@
         "status": "Spotlight",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18774"
+    },
+    {
+        "title": "A Generalist Agent",
+        "author": "Jackie Kay, Sergio G\u00f3mez Colmenarejo, Mahyar Bordbar, Mai Gim\u00e9nez, Oriol Vinyals, Scott Reed, Tom Eccles, Ali Razavi, Yury Sulsky, Ashley Edwards, Raia Hadsell, Nando Freitas, Alexander Novikov, Yutian Chen, Jake Bruce, Emilio Parisotto, Konrad Zolna, Jost Springenberg, Nicolas Heess, Gabriel Barth-maron",
+        "status": "Poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/21748"
     },
     {
         "title": "A Generative Pre-Training Framework for Spatio-Temporal Graph Transfer Learning",
@@ -414,7 +421,7 @@
     },
     {
         "title": "A Simple and Effective Pruning Approach for Large Language Models",
-        "author": "Mingjie Sun, Zhuang Liu, Anna Bair, Zico Kolter",
+        "author": "Mingjie Sun, Zhuang Liu, Anna Bair, J Kolter",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18687"
@@ -498,7 +505,7 @@
     },
     {
         "title": "A Unified Experiment Design Approach for Cyclic and Acyclic Causal Models",
-        "author": "",
+        "author": "Ehsan Mokhtarian, Saber Salehkaleybar, AmirEmad Ghassami, Negar Kiyavash",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/20661"
@@ -728,6 +735,13 @@
         "site": "https://iclr.cc/virtual/2024/poster/18823"
     },
     {
+        "title": "Achieving the Pareto Frontier of Regret Minimization and Best Arm Identification in Multi-Armed Bandits",
+        "author": "Wang Chi Cheung, Vincent Tan, Zixin Zhong",
+        "status": "Poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/21749"
+    },
+    {
         "title": "Active Retrosynthetic Planning Aware of Route Quality",
         "author": "Luotian Yuan, Yemin Yu, Ying Wei, Yongwei Wang, Zhihua Wang, Fei Wu",
         "status": "Poster",
@@ -757,7 +771,7 @@
     },
     {
         "title": "Adapting and Evaluating Influence-Estimation Methods for Gradient-Boosted Decision Trees",
-        "author": "",
+        "author": "Jonathan Brophy, Zayd Hammoudeh, Daniel Lowd",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/20659"
@@ -1170,7 +1184,7 @@
     },
     {
         "title": "Analytically Tractable Hidden-States Inference in Bayesian Neural Networks",
-        "author": "",
+        "author": "Luong-Ha Nguyen, James-A. Goulet",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/20657"
@@ -1314,6 +1328,13 @@
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19046"
+    },
+    {
+        "title": "Attacking Perceptual Similarity Metrics",
+        "author": "Abhijay Ghildyal, Feng Liu",
+        "status": "Poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/21750"
     },
     {
         "title": "Attention Satisfies: A Constraint-Satisfaction Lens on Factual Errors of Language Models",
@@ -1611,7 +1632,7 @@
     },
     {
         "title": "Be Aware of the Neighborhood Effect: Modeling Selection Bias under Interference for Recommendation",
-        "author": "Haoxuan Li, Chunyuan Zheng, Sihao Ding, Peng Wu, Zhi Geng, Fuli Feng, Xiangnan He",
+        "author": "Chunyuan Zheng, Chunyuan Zheng, Sihao Ding, Peng Wu, Zhi Geng, Fuli Feng, Xiangnan He",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19441"
@@ -1625,7 +1646,7 @@
     },
     {
         "title": "Be More Active! Understanding the Differences Between Mean and Sampled Representations of Variational Autoencoders",
-        "author": "",
+        "author": "Lisa Bonheme, Marek Grzes",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/20662"
@@ -3192,6 +3213,13 @@
         "site": "https://iclr.cc/virtual/2024/poster/18226"
     },
     {
+        "title": "DIG In: Evaluating Disparities in Image Generations with Indicators for Geographic Diversity",
+        "author": "Candace Ross, Melissa Hall, Nicolas Carion, Adriana Romero-Soriano, Michal Drozdzal, Adina Williams",
+        "status": "Poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/21751"
+    },
+    {
         "title": "DMBP: Diffusion model-based predictor for robust offline reinforcement learning against state observation perturbations",
         "author": "Zhihe Yang, Yunjian Xu",
         "status": "Poster",
@@ -3333,7 +3361,7 @@
     },
     {
         "title": "Debiased Collaborative Filtering with Kernel-based Causal Balancing",
-        "author": "Haoxuan Li, Yanghao Xiao, Chunyuan Zheng, Peng Wu, Zhi Geng, Xu Chen, Peng Cui",
+        "author": "Chunyuan Zheng, Yanghao Xiao, Chunyuan Zheng, Peng Wu, Zhi Geng, Xu Chen, Peng Cui",
         "status": "Spotlight",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19055"
@@ -5055,7 +5083,7 @@
     },
     {
         "title": "FairVLM: Mitigating Bias In Pre-Trained Vision-Language Models",
-        "author": "Sepehr Dehdashtian, Lan Wang, Vishnu Naresh Boddeti",
+        "author": "Sepehr Dehdashtian, Lan Wang, Vishnu Boddeti",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18989"
@@ -5880,6 +5908,13 @@
         "site": "https://iclr.cc/virtual/2024/poster/19245"
     },
     {
+        "title": "Generalizability of Adversarial Robustness Under Distribution Shifts",
+        "author": "Bernard Ghanem, Kumail Alhamoud, Hasan Hammoud, Motasem Alfarra",
+        "status": "Poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/21752"
+    },
+    {
         "title": "Generalization error of spectral algorithms",
         "author": "Maksim Velikanov, Maxim Panov, Dmitry Yarotsky",
         "status": "Spotlight",
@@ -6343,7 +6378,7 @@
     },
     {
         "title": "Hard-Constrained Deep Learning for Climate Downscaling",
-        "author": "",
+        "author": "Paula Harder, Alex Hernandez-Garcia, Venkatesh Ramesh, Qidong Yang, Prasanna Sattigeri, Daniela Szwarcman, Campbell Watson, David Rolnick",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/20665"
@@ -6419,6 +6454,13 @@
         "site": "https://iclr.cc/virtual/2024/poster/18636"
     },
     {
+        "title": "High Fidelity Neural Audio Compression",
+        "author": "Yossi Adi, Gabriel Synnaeve, Jade Copet, Alexandre D\u00e9fossez",
+        "status": "Poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/21753"
+    },
+    {
         "title": "High-dimensional SGD aligns with emerging outlier eigenspaces",
         "author": "Gerard Ben Arous, Reza Gheissari, Jiaoyang Huang, Aukosh Jagannath",
         "status": "Spotlight",
@@ -6431,6 +6473,13 @@
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18790"
+    },
+    {
+        "title": "Holistic Evaluation of Language Models",
+        "author": "Jue Wang, Lucia Zheng, Nathan Kim, Keshav Santhanam, Qian Huang, Ryan Chi, Percy Liang, William Wang, Yian Zhang, Yifan Mai, Tianyi Zhang, Yuta Koreeda, Eric Zelikman, Shibani Santurkar, Thomas Icard, Benjamin Newman, Rishi Bommasani, Laurel Orr, Surya Ganguli, Ce Zhang, Yuhui Zhang, Hongyu Ren, Neel Guha, Esin Durmus, Yuhuai Wu, Huaxiu Yao, Tatsunori Hashimoto, Peter Henderson, Vishrav Chaudhary, Dimitris Tsipras, Sang Michael Xie, Mert Yuksekgonul, Tony Lee, Michihiro Yasunaga, Faisal Ladhak, Mirac Suzgun, Frieda Rong, Christopher Re, Ananya Kumar, Binhang Yuan, Bobby Yan, Deepak Narayanan, Christian Cosgrove, Dilara Soylu, Drew Hudson, Diana Acosta-Navas, Niladri Chatterji, Omar Khattab, Christopher Manning, Xuechen Li",
+        "status": "Poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/21754"
     },
     {
         "title": "HoloNets: Spectral Convolutions do extend to Directed Graphs",
@@ -6895,6 +6944,13 @@
         "site": "https://iclr.cc/virtual/2024/poster/19016"
     },
     {
+        "title": "Improved baselines for vision-language pre-training",
+        "author": "Jakob Verbeek, Enrico Fini, Michal Drozdzal, Pietro Astolfi, Adriana Romero-Soriano",
+        "status": "Poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/21755"
+    },
+    {
         "title": "Improved sampling via learned diffusions",
         "author": "Lorenz Richter, Julius Berner",
         "status": "Poster",
@@ -7315,6 +7371,13 @@
         "site": "https://iclr.cc/virtual/2024/poster/17424"
     },
     {
+        "title": "Inversion by Direct Iteration: An Alternative to Denoising Diffusion for Image Restoration",
+        "author": "Peyman Milanfar, Mauricio Delbracio",
+        "status": "Poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/21756"
+    },
+    {
         "title": "Investigating the Benefits of Projection Head for Representation Learning",
         "author": "Yihao Xue, Eric Gan, Jiayi Ni, Siddharth Joshi, Baharan Mirzasoleiman",
         "status": "Poster",
@@ -7504,6 +7567,13 @@
         "site": "https://iclr.cc/virtual/2024/poster/17811"
     },
     {
+        "title": "LEAD: Min-Max Optimization from a Physical Perspective",
+        "author": "Guillaume Lajoie, Amartya Mitra, Reyhane Askari Hemmat, Ioannis Mitliagkas",
+        "status": "Poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/21757"
+    },
+    {
         "title": "LEAP: Liberate Sparse-View 3D Modeling from Camera Poses",
         "author": "Hanwen Jiang, Zhenyu Jiang, Yue Zhao, Qixing Huang",
         "status": "Poster",
@@ -7638,7 +7708,7 @@
     },
     {
         "title": "LUT-GEMM: Quantized Matrix Multiplication based on LUTs for Efficient Inference in Large-Scale Generative Language Models",
-        "author": "Gunho Park, baeseong park, Minsub Kim, Sungjae Lee, Jeonghoon Kim, Beomseok Kwon, Se Jung Kwon, Byeonguk Kim, Youngjoo Lee, Dongsoo Lee",
+        "author": "Gunho Park, baeseong park, Minsub Kim, Sungjae Lee, Jeonghoon Kim, Beomseok Kwon, Se Jung Kwon, Byeongwook Kim, Youngjoo Lee, Dongsoo Lee",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18146"
@@ -8205,7 +8275,7 @@
     },
     {
         "title": "Learning interpretable control inputs and dynamics underlying animal locomotion",
-        "author": "Thomas Mullen, Marine Schimel, Guillaume Hennequin, Christian Machens, Michael B. Orger, Adrien Jouary",
+        "author": "Thomas Soares Mullen, Marine Schimel, Guillaume Hennequin, Christian Machens, Michael B. Orger, Adrien Jouary",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18835"
@@ -8314,6 +8384,13 @@
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18635"
+    },
+    {
+        "title": "Learning to reconstruct signals from binary measurements alone",
+        "author": "Laurent Jacques, Juli\u00e1n Tachella",
+        "status": "Poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/21758"
     },
     {
         "title": "Learning to solve Class-Constrained Bin Packing Problems via Encoder-Decoder Model",
@@ -8982,7 +9059,7 @@
     },
     {
         "title": "Manifold Preserving Guided Diffusion",
-        "author": "Yutong He, Naoki Murata, Chieh-Hsin Lai, Yuhta Takida, Toshimitsu Uesaka, Dongjun Kim, WeiHsiang Liao, Yuki Mitsufuji, Zico Kolter, Ruslan Salakhutdinov, Stefano Ermon",
+        "author": "Yutong He, Naoki Murata, Chieh-Hsin Lai, Yuhta Takida, Toshimitsu Uesaka, Dongjun Kim, WeiHsiang Liao, Yuki Mitsufuji, J Kolter, Ruslan Salakhutdinov, Stefano Ermon",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/17837"
@@ -9248,7 +9325,7 @@
     },
     {
         "title": "MetaCoCo: A New Few-Shot Classification Benchmark with Spurious Correlation",
-        "author": "Min Zhang, Haoxuan Li, Fei Wu, Kun Kuang",
+        "author": "Min Zhang, Chunyuan Zheng, Fei Wu, Kun Kuang",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19133"
@@ -9427,6 +9504,13 @@
         "status": "Spotlight",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/17520"
+    },
+    {
+        "title": "ModuLoRA: Finetuning 2-Bit LLMs on Consumer GPUs by Integrating with Modular Quantizers",
+        "author": "Junjie Yin, Yingheng Wang, Volodymyr Kuleshov, Christopher De Sa, Jiahao Dong",
+        "status": "Poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/21759"
     },
     {
         "title": "Modulate Your Spectrum in Self-Supervised Learning",
@@ -9842,6 +9926,13 @@
         "site": "https://iclr.cc/virtual/2024/poster/18222"
     },
     {
+        "title": "Neural Monge Map estimation and its applications",
+        "author": "Shaojun Ma, Yongxin Chen, Hao-Min Zhou, Jiaojiao Fan, Shu Liu",
+        "status": "Poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/21760"
+    },
+    {
         "title": "Neural Neighborhood Search for Multi-agent Path Finding",
         "author": "Zhongxia Yan, Cathy Wu",
         "status": "Poster",
@@ -9861,6 +9952,13 @@
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18148"
+    },
+    {
+        "title": "Neural Ordinary Differential Equations for Modeling Epidemic Spreading",
+        "author": "Michalis Vazirgiannis, Chrysoula Kosma, George Panagopoulos, Jean-Marc Steyaert, Giannis Nikolentzos",
+        "status": "Poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/21761"
     },
     {
         "title": "Neural Polynomial Gabor Fields for Macro Motion Analysis",
@@ -9976,7 +10074,7 @@
     },
     {
         "title": "Nevis'22: A Stream of 100 Tasks Sampled from 30 Years of Computer Vision Research",
-        "author": "",
+        "author": "Jorg Bornschein, Alexandre Galashov, Ross Hemsley, Amal Rannen-Triki, Yutian Chen, Arslan Chaudhry, Owen He, Arthur Douillard, Massimo Caccia, Qixuan Feng, Jiajun Shen, Sylvestre-Alvise Rebuffi, Kitty Stacpoole, Diego de las Casas, Will Hawkins, Angeliki Lazaridou, Yee Whye Teh, Andrei A. Rusu, Razvan Pascanu, Marc\u2019Aurelio Ranzato",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/20663"
@@ -10043,6 +10141,13 @@
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18983"
+    },
+    {
+        "title": "Numerical Accounting in the Shuffle Model of Differential Privacy",
+        "author": "Antti Koskela, Antti Honkela, Mikko Heikkil\u00e4",
+        "status": "Poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/21762"
     },
     {
         "title": "NuwaDynamics: Discovering and Updating in Causal Spatio-Temporal Modeling",
@@ -10199,6 +10304,13 @@
         "site": "https://iclr.cc/virtual/2024/poster/18078"
     },
     {
+        "title": "On Characterizing the Trade-off in Invariant Representation Learning",
+        "author": "Vishnu Boddeti, Sepehr Dehdashtian, Bashir Sadeghi",
+        "status": "Poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/21763"
+    },
+    {
         "title": "On Differentially Private Federated Linear Contextual Bandits",
         "author": "Xingyu Zhou, Sayak Ray Chowdhury",
         "status": "Poster",
@@ -10340,7 +10452,7 @@
     },
     {
         "title": "On the Joint Interaction of Models, Data, and Features",
-        "author": "Yiding Jiang, Christina Baek, Zico Kolter",
+        "author": "Yiding Jiang, Christina Baek, J Kolter",
         "status": "Oral",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/17375"
@@ -10421,6 +10533,13 @@
         "status": "Spotlight",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18941"
+    },
+    {
+        "title": "On the Sample Complexity of Lipschitz Constant Estimation",
+        "author": "Stephen Roberts, Julien Huang, Jan-Peter Calliess",
+        "status": "Poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/21764"
     },
     {
         "title": "On the Scalability and Memory Efficiency of Semidefinite Programs for Lipschitz Constant Estimation of Neural Networks",
@@ -10683,7 +10802,7 @@
     },
     {
         "title": "Outlier-Robust Subsampling Techniques for Persistent Homology",
-        "author": "",
+        "author": "Bernadette J. Stolz",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/20666"
@@ -10913,11 +11032,25 @@
         "site": "https://iclr.cc/virtual/2024/poster/18564"
     },
     {
+        "title": "Patches Are All You Need?",
+        "author": "Asher Trockman, J Kolter",
+        "status": "Poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/21765"
+    },
+    {
         "title": "Path Choice Matters for Clear Attributions in Path Methods",
         "author": "Borui Zhang, Wenzhao Zheng, Jie Zhou, Jiwen Lu",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18120"
+    },
+    {
+        "title": "Pathologies of Predictive Diversity in Deep Ensembles",
+        "author": "Geoff Pleiss, Taiga Abe, E. Kelly Buchanan, John Cunningham",
+        "status": "Poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/21766"
     },
     {
         "title": "PeFLL: Personalized Federated Learning by Learning to Learn",
@@ -11586,7 +11719,7 @@
     },
     {
         "title": "Quantifying Network Similarity using Graph Cumulants",
-        "author": "",
+        "author": "Gecia Bravo-Hermsdorff, Lee M. Gunderson, Pierre-Andr\u00e9 Maugis, Carey E. Priebe",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/20664"
@@ -11761,7 +11894,7 @@
     },
     {
         "title": "Random Feature Amplification: Feature Learning and Generalization in Neural Networks",
-        "author": "",
+        "author": "Spencer Frei, Niladri Chatterji, Peter L. Bartlett",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/20660"
@@ -12013,7 +12146,7 @@
     },
     {
         "title": "Rethinking Channel Dimensions to Isolate Outliers for Low-bit Weight Quantization of Large Language Models",
-        "author": "Jung Hwan Heo, Jeonghoon Kim, Beomseok Kwon, Byeonguk Kim, Se Jung Kwon, Dongsoo Lee",
+        "author": "Jung Hwan Heo, Jeonghoon Kim, Beomseok Kwon, Byeongwook Kim, Se Jung Kwon, Dongsoo Lee",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18921"
@@ -12516,6 +12649,13 @@
         "site": "https://iclr.cc/virtual/2024/poster/17897"
     },
     {
+        "title": "SPADE: Semi-supervised Anomaly Detection under Distribution Mismatch",
+        "author": "Chun-Liang Li, Tomas Pfister, Kihyuk Sohn, Jinsung Yoon, Sercan Arik",
+        "status": "Poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/21769"
+    },
+    {
         "title": "SPDER: Semiperiodic Damping-Enabled Object Representation",
         "author": "Kathan Shah, Chawin Sitawarin",
         "status": "Poster",
@@ -12552,7 +12692,7 @@
     },
     {
         "title": "STanHop: Sparse Tandem Hopfield Model for Memory-Enhanced Time Series Prediction",
-        "author": "Dennis Wu, Jerry Hu, Weijian Li, Bo-Yu Chen, Han Liu",
+        "author": "Yu-Hsuan Wu, Jerry Hu, Weijian Li, Bo-Yu Chen, Han Liu",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19385"
@@ -12741,7 +12881,7 @@
     },
     {
         "title": "Scalable Real-Time Recurrent Learning Using Columnar-Constructive Networks",
-        "author": "",
+        "author": "Khurram Javed, Haseeb Shah, Richard Sutton, Martha White",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/20658"
@@ -12766,6 +12906,13 @@
         "status": "Spotlight",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/17589"
+    },
+    {
+        "title": "Scaling Autoregressive Models for Content-Rich Text-to-Image Generation",
+        "author": "Xin Li, Jing Yu Koh, Alexander Ku, Burcu Karagol Ayan, Han Zhang, Thang Luong, Yonghui Wu, Zarana Parekh, Yinfei Yang, Wei Han, Zirui Wang, Vijay Vasudevan, Jiahui Yu, Ben Hutchinson, Yuanzhong Xu, Jason Baldridge, Gunjan Baid",
+        "status": "Poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/21767"
     },
     {
         "title": "Scaling Convex Neural Networks with Burer-Monteiro Factorization",
@@ -13207,6 +13354,13 @@
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18364"
+    },
+    {
+        "title": "SolidGen: An Autoregressive Model for Direct B-rep Synthesis",
+        "author": "Karl Willis, Joseph Lambourne, Nigel Morris, Nishkrit Desai, Aditya Sanghi, Pradeep Kumar Jayaraman",
+        "status": "Poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/21768"
     },
     {
         "title": "Solving Challenging Math Word Problems Using GPT-4 Code Interpreter with Code-based Self-Verification",
@@ -13693,7 +13847,7 @@
     },
     {
         "title": "T-MARS: Improving Visual Representations by Circumventing Text Feature Learning",
-        "author": "Pratyush Maini, Sachin Goyal, Zachary Lipton, Zico Kolter, Aditi Raghunathan",
+        "author": "Pratyush Maini, Sachin Goyal, Zachary Lipton, J Kolter, Aditi Raghunathan",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18497"
@@ -14183,7 +14337,7 @@
     },
     {
         "title": "The Update Equivalence Framework for Decision-Time Planning",
-        "author": "Samuel Sokota, Gabriele Farina, David Wu, Hengyuan Hu, Kevin A. Wang, Zico Kolter, Noam Brown",
+        "author": "Samuel Sokota, Gabriele Farina, David Wu, Hengyuan Hu, Kevin A. Wang, J Kolter, Noam Brown",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18938"
@@ -15009,7 +15163,7 @@
     },
     {
         "title": "Understanding Augmentation-based Self-Supervised Representation Learning via RKHS Approximation and Regression",
-        "author": "Runtian Zhai, Bingbin Liu, Andrej Risteski, Zico Kolter, Pradeep K Ravikumar",
+        "author": "Runtian Zhai, Bingbin Liu, Andrej Risteski, J Kolter, Pradeep K Ravikumar",
         "status": "Spotlight",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19234"
@@ -15093,7 +15247,7 @@
     },
     {
         "title": "Understanding prompt engineering may not require rethinking generalization",
-        "author": "Victor Akinwande, Yiding Jiang, Dylan Sam, Zico Kolter",
+        "author": "Victor Akinwande, Yiding Jiang, Dylan Sam, J Kolter",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18377"
@@ -15118,6 +15272,13 @@
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/17528"
+    },
+    {
+        "title": "Understanding the robustness difference between stochastic gradient descent and adaptive gradient methods",
+        "author": "Amir-massoud Farahmand, Yangchen Pan, Avery Ma",
+        "status": "Poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/21770"
     },
     {
         "title": "Understanding when Dynamics-Invariant Data Augmentations Benefit Model-free Reinforcement Learning Updates",
@@ -15254,7 +15415,7 @@
     },
     {
         "title": "Unleashing the Power of Pre-trained Language Models for Offline Reinforcement Learning",
-        "author": "SHI RUIZHE, Yuyao Liu, Yanjie Ze, Simon Du, Huazhe Xu",
+        "author": "Ruizhe Shi, Yuyao Liu, Yanjie Ze, Simon Du, Huazhe Xu",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19257"
@@ -15561,6 +15722,13 @@
         "site": "https://iclr.cc/virtual/2024/poster/17530"
     },
     {
+        "title": "WOODS: Benchmarks for Out-of-Distribution Generalization in Time Series",
+        "author": "Irina Rish, Kartik Ahuja, Mohammad Javad Darvishi Bayazi, Pooneh Mousavi, Guillaume Dumas, Jean-Christophe Gagnon-Audet",
+        "status": "Poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/21771"
+    },
+    {
         "title": "Waxing-and-Waning: a Generic Similarity-based Framework for Efficient Self-Supervised Learning",
         "author": "Sheng Li, Chao Wu, Ao Li, Yanzhi Wang, Xulong Tang, Geng Yuan",
         "status": "Poster",
@@ -15716,7 +15884,7 @@
     },
     {
         "title": "Why is SAM Robust to Label Noise?",
-        "author": "Christina Baek, Zico Kolter, Aditi Raghunathan",
+        "author": "Christina Baek, J Kolter, Aditi Raghunathan",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19504"
@@ -15757,8 +15925,15 @@
         "site": "https://iclr.cc/virtual/2024/poster/19164"
     },
     {
+        "title": "Workflow Discovery from Dialogues in the Low Data Regime",
+        "author": "David Vazquez, Stefania Raimondo, Christopher Pal, Pau Rodriguez, Amine El hattami, Issam Laradji",
+        "status": "Poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/21772"
+    },
+    {
         "title": "W\u00fcrstchen: An Efficient Architecture for Large-Scale Text-to-Image Diffusion Models",
-        "author": "Pablo Pernias, Dominic Rampas, Mats Richter, Chris J Pal, Marc Aubreville",
+        "author": "Pablo Pernias, Dominic Rampas, Mats L. Richter, Christopher Pal, Marc Aubreville",
         "status": "Oral",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18142"
