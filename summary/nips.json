@@ -1,92 +1,280 @@
 {
     "2023": {
         "main": {
-            "Oral": 67,
-            "Poster": 2773,
-            "Spotlight": 378
+            "src": {
+                "site": {
+                    "name": "nips.cc",
+                    "url": "https://nips.cc/virtual/2023"
+                }
+            },
+            "tname": {
+                "0": "Poster",
+                "1": "Spotlight",
+                "2": "Oral"
+            },
+            "tnum": {
+                "0": 2773,
+                "1": 378,
+                "2": 67
+            }
         },
         "Datasets & Benchmarks": {
-            "Oral": 10,
-            "Poster": 290,
-            "Spotlight": 22
+            "src": {
+                "site": {
+                    "name": "nips.cc",
+                    "url": "https://nips.cc/virtual/2023"
+                }
+            },
+            "tname": {
+                "0": "Poster",
+                "1": "Spotlight",
+                "2": "Oral"
+            },
+            "tnum": {
+                "0": 290,
+                "1": 22,
+                "2": 10
+            }
         },
         "Journal": {
-            "Poster": 44
+            "src": {
+                "site": {
+                    "name": "nips.cc",
+                    "url": "https://nips.cc/virtual/2023"
+                }
+            },
+            "tname": {
+                "0": "Poster"
+            },
+            "tnum": {
+                "0": 44
+            }
         }
     },
     "2022": {
         "main": {
-            "Highlighted": 183,
-            "Poster": 2488
+            "src": {
+                "site": {
+                    "name": "nips.cc",
+                    "url": "https://nips.cc/virtual/2022"
+                }
+            },
+            "tname": {
+                "0": "Poster",
+                "1": "Highlighted"
+            },
+            "tnum": {
+                "0": 2488,
+                "1": 183
+            }
         },
         "Datasets & Benchmarks": {
-            "Highlighted": 16,
-            "Poster": 147
+            "src": {
+                "site": {
+                    "name": "nips.cc",
+                    "url": "https://nips.cc/virtual/2022"
+                }
+            },
+            "tname": {
+                "0": "Poster",
+                "1": "Highlighted"
+            },
+            "tnum": {
+                "0": 147,
+                "1": 16
+            }
         },
         "Journal": {
-            "Journal": 70
+            "src": {
+                "site": {
+                    "name": "nips.cc",
+                    "url": "https://nips.cc/virtual/2022"
+                }
+            },
+            "tname": {
+                "0": "Journal"
+            },
+            "tnum": {
+                "0": 70
+            }
         }
     },
     "2021": {
         "main": {
-            "Oral": 55,
-            "Poster": 2019,
-            "Spotlight": 260
+            "src": {
+                "site": {
+                    "name": "nips.cc",
+                    "url": "https://nips.cc/virtual/2021"
+                }
+            },
+            "tname": {
+                "0": "Poster",
+                "1": "Spotlight",
+                "2": "Oral"
+            },
+            "tnum": {
+                "0": 2019,
+                "1": 260,
+                "2": 55
+            }
         }
     },
     "2020": {
         "main": {
-            "Oral": 106,
-            "Poster": 1513,
-            "Spotlight": 280
+            "src": {
+                "site": {
+                    "name": "nips.cc",
+                    "url": "https://nips.cc/virtual/2020"
+                }
+            },
+            "tname": {
+                "0": "Poster",
+                "1": "Spotlight",
+                "2": "Oral"
+            },
+            "tnum": {
+                "0": 1513,
+                "1": 280,
+                "2": 106
+            }
         }
     },
     "2019": {
         "main": {
-            "Oral": 36,
-            "Poster": 1227,
-            "Spotlight": 164
+            "src": {
+                "site": {
+                    "name": "nips.cc",
+                    "url": "https://nips.cc/virtual/2019"
+                }
+            },
+            "tname": {
+                "0": "Poster",
+                "1": "Spotlight",
+                "2": "Oral"
+            },
+            "tnum": {
+                "0": 1227,
+                "1": 164,
+                "2": 36
+            }
         }
     },
     "2018": {
         "main": {
-            "Oral": 30,
-            "Poster": 812,
-            "Spotlight": 167
+            "src": {
+                "site": {
+                    "name": "nips.cc",
+                    "url": "https://nips.cc/virtual/2018"
+                }
+            },
+            "tname": {
+                "0": "Poster",
+                "1": "Spotlight",
+                "2": "Oral"
+            },
+            "tnum": {
+                "0": 812,
+                "1": 167,
+                "2": 30
+            }
         }
     },
     "2017": {
         "main": {
-            "Oral": 41,
-            "Poster": 538,
-            "Spotlight": 112
+            "src": {
+                "site": {
+                    "name": "nips.cc",
+                    "url": "https://nips.cc/virtual/2017"
+                }
+            },
+            "tname": {
+                "0": "Poster",
+                "1": "Spotlight",
+                "2": "Oral"
+            },
+            "tnum": {
+                "0": 538,
+                "1": 112,
+                "2": 41
+            }
         }
     },
     "2016": {
         "main": {
-            "Oral": 45,
-            "Poster": 523
+            "src": {
+                "site": {
+                    "name": "nips.cc",
+                    "url": "https://nips.cc/virtual/2016"
+                }
+            },
+            "tname": {
+                "0": "Poster",
+                "1": "Oral"
+            },
+            "tnum": {
+                "0": 523,
+                "1": 45
+            }
         }
     },
     "2015": {
         "main": {
-            "Oral": 15,
-            "Poster": 321,
-            "Spotlight": 67
+            "src": {
+                "site": {
+                    "name": "nips.cc",
+                    "url": "https://nips.cc/virtual/2015"
+                }
+            },
+            "tname": {
+                "0": "Poster",
+                "1": "Oral",
+                "2": "Spotlight"
+            },
+            "tnum": {
+                "0": 321,
+                "1": 15,
+                "2": 67
+            }
         }
     },
     "2014": {
         "main": {
-            "Oral": 20,
-            "Poster": 329,
-            "Spotlight": 62
+            "src": {
+                "site": {
+                    "name": "nips.cc",
+                    "url": "https://nips.cc/virtual/2014"
+                }
+            },
+            "tname": {
+                "0": "Oral",
+                "1": "Spotlight",
+                "2": "Poster"
+            },
+            "tnum": {
+                "0": 20,
+                "1": 62,
+                "2": 329
+            }
         }
     },
     "2013": {
         "main": {
-            "Oral": 20,
-            "Poster": 288,
-            "Spotlight": 52
+            "src": {
+                "site": {
+                    "name": "nips.cc",
+                    "url": "https://nips.cc/virtual/2013"
+                }
+            },
+            "tname": {
+                "0": "Poster",
+                "1": "Oral",
+                "2": "Spotlight"
+            },
+            "tnum": {
+                "0": 288,
+                "1": 20,
+                "2": 52
+            }
         }
     }
 }

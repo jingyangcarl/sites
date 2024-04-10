@@ -1,16 +1,54 @@
 {
     "2024": {
         "main": {
-            "Poster": 2694
+            "src": {
+                "site": {
+                    "name": "cvpr.thecvf.com",
+                    "url": "https://cvpr.thecvf.com/virtual/2024"
+                }
+            },
+            "tname": {
+                "0": "Poster"
+            },
+            "tnum": {
+                "0": 2694
+            }
         }
     },
     "2023": {
         "main": {
-            "Highlight": 223,
-            "Poster": 2136
+            "src": {
+                "site": {
+                    "name": "cvpr.thecvf.com",
+                    "url": "https://cvpr.thecvf.com/virtual/2023"
+                }
+            },
+            "tname": {
+                "0": "Poster",
+                "1": "Highlight"
+            },
+            "tnum": {
+                "0": 2136,
+                "1": 223
+            }
         }
     },
     "2022": {
-        "main": {}
+        "main": {
+            "src": {
+                "site": {
+                    "name": "cvpr2022.thecvf.com",
+                    "url": "https://cvpr2022.thecvf.com/"
+                }
+            },
+            "tname": {
+                "0": "Poster",
+                "1": "Oral"
+            },
+            "tnum": {
+                "0": 1720,
+                "1": 342
+            }
+        }
     }
 }

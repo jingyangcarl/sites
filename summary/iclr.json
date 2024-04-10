@@ -1,54 +1,166 @@
 {
     "2024": {
         "main": {
-            "Oral": 86,
-            "Poster": 1845,
-            "Spotlight": 366
+            "src": {
+                "site": {
+                    "name": "iclr.cc",
+                    "url": "https://iclr.cc/virtual/2024"
+                }
+            },
+            "tname": {
+                "0": "Oral",
+                "1": "Poster",
+                "2": "Spotlight"
+            },
+            "tnum": {
+                "0": 86,
+                "1": 1845,
+                "2": 366
+            }
         }
     },
     "2023": {
         "main": {
-            "poster": 1213,
-            "top 25%": 280,
-            "top 5%": 91
+            "src": {
+                "site": {
+                    "name": "iclr.cc",
+                    "url": "https://iclr.cc/virtual/2023"
+                }
+            },
+            "tname": {
+                "0": "poster",
+                "1": "top 5%",
+                "2": "top 25%"
+            },
+            "tnum": {
+                "0": 1213,
+                "1": 91,
+                "2": 280
+            }
         }
     },
     "2022": {
         "main": {
-            "Oral": 55,
-            "Poster": 865,
-            "Spotlight": 175
+            "src": {
+                "site": {
+                    "name": "iclr.cc",
+                    "url": "https://iclr.cc/virtual/2022"
+                }
+            },
+            "tname": {
+                "0": "Poster",
+                "1": "Spotlight",
+                "2": "Oral"
+            },
+            "tnum": {
+                "0": 865,
+                "1": 175,
+                "2": 55
+            }
         }
     },
     "2021": {
         "main": {
-            "Oral": 53,
-            "Poster": 693,
-            "Spotlight": 114
+            "src": {
+                "site": {
+                    "name": "iclr.cc",
+                    "url": "https://iclr.cc/virtual/2021"
+                }
+            },
+            "tname": {
+                "0": "Poster",
+                "1": "Oral",
+                "2": "Spotlight"
+            },
+            "tnum": {
+                "0": 693,
+                "1": 53,
+                "2": 114
+            }
         }
     },
     "2020": {
-        "main": {}
+        "main": {
+            "src": {
+                "site": {
+                    "name": "iclr.cc",
+                    "url": "https://iclr.cc/virtual/2020"
+                }
+            },
+            "tname": {},
+            "tnum": {}
+        }
     },
     "2019": {
         "main": {
-            "Oral": 25,
-            "Poster": 478
+            "src": {
+                "site": {
+                    "name": "iclr.cc",
+                    "url": "https://iclr.cc/virtual/2019"
+                }
+            },
+            "tname": {
+                "0": "Poster",
+                "1": "Oral"
+            },
+            "tnum": {
+                "0": 478,
+                "1": 25
+            }
         }
     },
     "2018": {
         "main": {
-            "Oral": 23,
-            "Poster": 313
+            "src": {
+                "site": {
+                    "name": "iclr.cc",
+                    "url": "https://iclr.cc/virtual/2018"
+                }
+            },
+            "tname": {
+                "0": "Poster",
+                "1": "Oral"
+            },
+            "tnum": {
+                "0": 313,
+                "1": 23
+            }
         }
     },
     "2017": {
-        "main": {}
+        "main": {
+            "src": {
+                "site": {
+                    "name": "iclr.cc",
+                    "url": "https://iclr.cc/virtual/2017"
+                }
+            },
+            "tname": {},
+            "tnum": {}
+        }
     },
     "2014": {
-        "main": {}
+        "main": {
+            "src": {
+                "site": {
+                    "name": "iclr.cc",
+                    "url": "https://iclr.cc/virtual/2014"
+                }
+            },
+            "tname": {},
+            "tnum": {}
+        }
     },
     "2013": {
-        "main": {}
+        "main": {
+            "src": {
+                "site": {
+                    "name": "iclr.cc",
+                    "url": "https://iclr.cc/virtual/2013"
+                }
+            },
+            "tname": {},
+            "tnum": {}
+        }
     }
 }

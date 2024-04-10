@@ -1,11 +1,54 @@
 {
     "2023": {
-        "main": {}
+        "main": {
+            "src": {
+                "site": {
+                    "name": "iccv2023.thecvf.com",
+                    "url": "https://iccv2023.thecvf.com/"
+                }
+            },
+            "tname": {
+                "0": "Poster",
+                "1": "Oral"
+            },
+            "tnum": {
+                "0": 2155,
+                "1": 145
+            }
+        }
     },
     "2021": {
-        "main": {}
+        "main": {
+            "src": {
+                "site": {
+                    "name": "iccv2021.thecvf.com",
+                    "url": "https://iccv2021.thecvf.com/"
+                }
+            },
+            "tname": {
+                "0": "Poster"
+            },
+            "tnum": {
+                "0": 1612
+            }
+        }
     },
     "2019": {
-        "main": {}
+        "main": {
+            "src": {
+                "site": {
+                    "name": "iccv2019.thecvf.com",
+                    "url": "https://iccv2019.thecvf.com/"
+                }
+            },
+            "tname": {
+                "0": "Poster",
+                "1": "Oral"
+            },
+            "tnum": {
+                "0": 862,
+                "1": 200
+            }
+        }
     }
 }
