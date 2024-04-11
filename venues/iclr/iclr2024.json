@@ -2962,7 +2962,7 @@
     },
     {
         "title": "Continuous Invariance Learning",
-        "author": "LIN Yong, Fan Zhou, Lu Tan, Lintao Ma, Jianmeng Liu, Yansu HE, Yuan Yuan, Yu Liu, james zhang, Yujiu Yang, Hao Wang",
+        "author": "LIN Yong, Fan Zhou, Lu Tan, Lintao Ma, Jianmeng Liu, Yansu HE, Yuan Yuan, Yu Liu, James Zhang, Yujiu Yang, Hao Wang",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19376"
@@ -7596,7 +7596,7 @@
     },
     {
         "title": "LILO: Learning Interpretable Libraries by Compressing and Documenting Code",
-        "author": "Gabriel Grand, Catherine Wong, Maddy Bowers, Theo X. Olausson, Muxin Liu, Joshua B Tenenbaum, Jacob Andreas",
+        "author": "Gabriel Grand, Lio Wong, Maddy Bowers, Theo X. Olausson, Muxin Liu, Joshua B Tenenbaum, Jacob Andreas",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18550"
