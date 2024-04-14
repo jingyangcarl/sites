@@ -880,7 +880,7 @@
         "pid": "22"
     },
     {
-        "title": "D",
+        "title": "D3: Deep Dual-Domain Based Fast Restoration of JPEG-Compressed Images",
         "session": "Image Enhancement, Restoration, and Texture",
         "author": "Zhangyang Wang, Ding Liu, Shiyu Chang, Qing Ling, Yingzhen Yang, Thomas S. Huang",
         "status": "Poster",
@@ -2208,7 +2208,7 @@
         "pid": "26"
     },
     {
-        "title": "Joint Probabilistic Matching Using",
+        "title": "Joint Probabilistic Matching Using m-Best Solutions",
         "session": "Matching and Alignment",
         "author": "Seyed Hamid Rezatofighi, Anton Milan, Zhen Zhang, Qinfeng Shi, Anthony Dick, Ian Reid",
         "status": "Oral",
@@ -3328,7 +3328,7 @@
         "pid": "58"
     },
     {
-        "title": "Predicting the",
+        "title": "Predicting the Where and What of Actors and Actions Through Online Action Localization",
         "session": "Events, Actions, and Activity Recognition",
         "author": "Khurram Soomro, Haroon Idrees, Mubarak Shah",
         "status": "Poster",
@@ -4016,7 +4016,7 @@
         "pid": "54"
     },
     {
-        "title": "Shortlist Selection With Residual-Aware Distance Estimator for",
+        "title": "Shortlist Selection With Residual-Aware Distance Estimator for K-Nearest Neighbor Search",
         "session": "Image Indexing and Retrieval",
         "author": "Jae-Pil Heo, Zhe Lin, Xiaohui Shen, Jonathan Brandt, Sung-eui Yoon",
         "status": "Poster",
@@ -4104,7 +4104,7 @@
         "pid": "26"
     },
     {
-        "title": "Sketch Me",
+        "title": "Sketch Me That Shoe",
         "session": "Object Recognition and Detection",
         "author": "Qian Yu, Feng Liu, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales, Chen-Change Loy",
         "status": "Oral",
@@ -4432,7 +4432,7 @@
         "pid": "10"
     },
     {
-        "title": "TI-",
+        "title": "TI-POOLING: Transformation-Invariant Pooling for Feature Learning in Convolutional Neural Networks",
         "session": "Feature Extraction and Description",
         "author": "Dmitry Laptev, Nikolay Savinov, Joachim M. Buhmann, Marc Pollefeys",
         "status": "Poster",
@@ -4776,7 +4776,7 @@
         "pid": "34"
     },
     {
-        "title": "VLAD",
+        "title": "VLAD3: Encoding Dynamics of Deep Features for Action Recognition",
         "session": "Events, Actions, and Activity Recognition",
         "author": "Yingwei Li, Weixin Li, Vijay Mahadevan, Nuno Vasconcelos",
         "status": "Poster",
@@ -4848,7 +4848,7 @@
         "pid": "57"
     },
     {
-        "title": "Visual Word2Vec (",
+        "title": "Visual Word2Vec (vis-w2v): Learning Visually Grounded Word Embeddings Using Abstract Scenes",
         "session": "Images and Language",
         "author": "Satwik Kottur, Ramakrishna Vedantam, Jos\u00e9 M. F. Moura, Devi Parikh",
         "status": "Poster",
