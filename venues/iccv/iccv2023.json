@@ -43,14 +43,6 @@
         "title": "3D Implicit Transporter for Temporally Consistent Keypoint Discovery",
         "session": "Vision, Graphics, and Robotics",
         "author": "Chengliang Zhong, Yuhang Zheng, Yupeng Zheng, Hao Zhao, Li Yi, Xiaodong Mu, Ling Wang, Pengfei Li, Guyue Zhou, Chao Yang, Xinliang Zhang, Jian Zhao",
-        "status": "Oral",
-        "track": "main",
-        "pid": "6967"
-    },
-    {
-        "title": "3D Implicit Transporter for Temporally Consistent Keypoint Discovery",
-        "session": "Vision, Graphics, and Robotics",
-        "author": "Chengliang Zhong, Yuhang Zheng, Yupeng Zheng, Hao Zhao, Li Yi, Xiaodong Mu, Ling Wang, Pengfei Li, Guyue Zhou, Chao Yang, Xinliang Zhang, Jian Zhao",
         "status": "Poster",
         "track": "main",
         "pid": "6967"
@@ -211,14 +203,6 @@
         "title": "A 5-Point Minimal Solver for Event Camera Relative Motion Estimation",
         "session": "Low-level vision and theory",
         "author": "Ling Gao, Hang Su, Daniel Gehrig, Marco Cannici, Davide Scaramuzza, Laurent Kneip",
-        "status": "Oral",
-        "track": "main",
-        "pid": "12412"
-    },
-    {
-        "title": "A 5-Point Minimal Solver for Event Camera Relative Motion Estimation",
-        "session": "Low-level vision and theory",
-        "author": "Ling Gao, Hang Su, Daniel Gehrig, Marco Cannici, Davide Scaramuzza, Laurent Kneip",
         "status": "Poster",
         "track": "main",
         "pid": "12412"
@@ -230,14 +214,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "4925"
-    },
-    {
-        "title": "A Complete Recipe for Diffusion Generative Models",
-        "session": "Generative AI 1",
-        "author": "Kushagra Pandey, Stephan Mandt",
-        "status": "Poster",
-        "track": "main",
-        "pid": "11115"
     },
     {
         "title": "A Complete Recipe for Diffusion Generative Models",
@@ -387,14 +363,6 @@
         "title": "A Soft Nearest-Neighbor Framework for Continual Semi-Supervised Learning",
         "session": "Transfer, low-shot, and continual learning",
         "author": "Zhiqi Kang, Enrico Fini, Moin Nabi, Elisa Ricci, Karteek Alahari",
-        "status": "Poster",
-        "track": "main",
-        "pid": "3960"
-    },
-    {
-        "title": "A Soft Nearest-Neighbor Framework for Continual Semi-Supervised Learning",
-        "session": "Transfer, low-shot, and continual learning",
-        "author": "Zhiqi Kang, Enrico Fini, Moin Nabi, Elisa Ricci, Karteek Alahari",
         "status": "Oral",
         "track": "main",
         "pid": "3960"
@@ -438,14 +406,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "10137"
-    },
-    {
-        "title": "ACLS: Adaptive and Conditional Label Smoothing for Network Calibration",
-        "session": "Privacy, Security, Fairness, Explainability and Datasets",
-        "author": "Hyekang Park, Jongyoun Noh, Youngmin Oh, Donghyeon Baek, Bumsub Ham",
-        "status": "Oral",
-        "track": "main",
-        "pid": "10410"
     },
     {
         "title": "ACLS: Adaptive and Conditional Label Smoothing for Network Calibration",
@@ -542,14 +502,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "9530"
-    },
-    {
-        "title": "ASIC: Aligning Sparse in-the-wild Image Collections",
-        "session": "Recognition, segmentation, and shape analysis",
-        "author": "Kamal Gupta, Varun Jampani, Carlos Esteves, Abhinav Shrivastava, Ameesh Makadia, Noah Snavely, Abhishek Kar",
-        "status": "Poster",
-        "track": "main",
-        "pid": "4552"
     },
     {
         "title": "ASIC: Aligning Sparse in-the-wild Image Collections",
@@ -811,14 +763,6 @@
         "title": "Adaptive Testing of Computer Vision Models",
         "session": "Privacy, Security, Fairness, Explainability and Datasets",
         "author": "Irena Gao, Gabriel Ilharco, Scott Lundberg, Marco Tulio Ribeiro",
-        "status": "Oral",
-        "track": "main",
-        "pid": "10972"
-    },
-    {
-        "title": "Adaptive Testing of Computer Vision Models",
-        "session": "Privacy, Security, Fairness, Explainability and Datasets",
-        "author": "Irena Gao, Gabriel Ilharco, Scott Lundberg, Marco Tulio Ribeiro",
         "status": "Poster",
         "track": "main",
         "pid": "10972"
@@ -846,14 +790,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "7043"
-    },
-    {
-        "title": "Advancing Example Exploitation Can Alleviate Critical Challenges in Adversarial Training",
-        "session": "Adversarial attack and defense",
-        "author": "Yao Ge, Yun Li, Keji Han, Junyi Zhu, Xianzhong Long",
-        "status": "Oral",
-        "track": "main",
-        "pid": "10737"
     },
     {
         "title": "Advancing Example Exploitation Can Alleviate Critical Challenges in Adversarial Training",
@@ -995,14 +931,6 @@
         "title": "All in Tokens: Unifying Output Space of Visual Tasks via Soft Token",
         "session": "Machine learning and dataset",
         "author": "Jia Ning, Chen Li, Zheng Zhang, Chunyu Wang, Zigang Geng, Qi Dai, Kun He, Han Hu",
-        "status": "Poster",
-        "track": "main",
-        "pid": "11582"
-    },
-    {
-        "title": "All in Tokens: Unifying Output Space of Visual Tasks via Soft Token",
-        "session": "Machine learning and dataset",
-        "author": "Jia Ning, Chen Li, Zheng Zhang, Chunyu Wang, Zigang Geng, Qi Dai, Kun He, Han Hu",
         "status": "Oral",
         "track": "main",
         "pid": "11582"
@@ -1054,14 +982,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "9337"
-    },
-    {
-        "title": "Anatomical Invariance Modeling and Semantic Alignment for Self-supervised Learning in 3D Medical Image Analysis",
-        "session": "Self-, semi-, and unsupervised learning",
-        "author": "Yankai Jiang, Mingze Sun, Heng Guo, Xiaoyu Bai, Ke Yan, Le Lu, Minfeng Xu",
-        "status": "Oral",
-        "track": "main",
-        "pid": "9413"
     },
     {
         "title": "Anatomical Invariance Modeling and Semantic Alignment for Self-supervised Learning in 3D Medical Image Analysis",
@@ -1182,14 +1102,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "9751"
-    },
-    {
-        "title": "Audio-Enhanced Text-to-Video Retrieval using Text-Conditioned Feature Alignment",
-        "session": "Vision and language",
-        "author": "Sarah Ibrahimi, Xiaohang Sun, Pichao Wang, Amanmeet Garg, Ashutosh Sanan, Mohamed Omar",
-        "status": "Poster",
-        "track": "main",
-        "pid": "1061"
     },
     {
         "title": "Audio-Enhanced Text-to-Video Retrieval using Text-Conditioned Feature Alignment",
@@ -1499,14 +1411,6 @@
         "title": "Beyond One-to-One: Rethinking the Referring Image Segmentation",
         "session": "Recognition, segmentation, and shape analysis",
         "author": "Yutao Hu, Qixiong Wang, Wenqi Shao, Enze Xie, Zhenguo Li, Jungong Han, Ping Luo",
-        "status": "Poster",
-        "track": "main",
-        "pid": "3892"
-    },
-    {
-        "title": "Beyond One-to-One: Rethinking the Referring Image Segmentation",
-        "session": "Recognition, segmentation, and shape analysis",
-        "author": "Yutao Hu, Qixiong Wang, Wenqi Shao, Enze Xie, Zhenguo Li, Jungong Han, Ping Luo",
         "status": "Oral",
         "track": "main",
         "pid": "3892"
@@ -1534,14 +1438,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "2486"
-    },
-    {
-        "title": "Beyond the Pixel: a Photometrically Calibrated HDR Dataset for Luminance and Color Prediction",
-        "session": "Low-level vision and theory",
-        "author": "Christophe Bolduc, Justine Giroux, Marc H\u00e9bert, Claude Demers, Jean-Fran\u00e7ois Lalonde",
-        "status": "Oral",
-        "track": "main",
-        "pid": "6978"
     },
     {
         "title": "Beyond the Pixel: a Photometrically Calibrated HDR Dataset for Luminance and Color Prediction",
@@ -1694,14 +1590,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "11499"
-    },
-    {
-        "title": "Boosting Novel Category Discovery Over Domains with Soft Contrastive Learning and All in One Classifier",
-        "session": "Transfer, low-shot, and continual learning",
-        "author": "Zelin Zang, Lei Shang, Senqiao Yang, Fei Wang, Baigui Sun, Xuansong Xie, Stan Z. Li",
-        "status": "Poster",
-        "track": "main",
-        "pid": "3912"
     },
     {
         "title": "Boosting Novel Category Discovery Over Domains with Soft Contrastive Learning and All in One Classifier",
@@ -1979,14 +1867,6 @@
         "title": "CGBA: Curvature-aware Geometric Black-box Attack",
         "session": "Adversarial attack and defense",
         "author": "Md Farhamdur Reza, Ali Rahmati, Tianfu Wu, Huaiyu Dai",
-        "status": "Oral",
-        "track": "main",
-        "pid": "11128"
-    },
-    {
-        "title": "CGBA: Curvature-aware Geometric Black-box Attack",
-        "session": "Adversarial attack and defense",
-        "author": "Md Farhamdur Reza, Ali Rahmati, Tianfu Wu, Huaiyu Dai",
         "status": "Poster",
         "track": "main",
         "pid": "11128"
@@ -2006,14 +1886,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "2362"
-    },
-    {
-        "title": "CHORUS : Learning Canonicalized 3D Human-Object Spatial Relations from Unbounded Synthesized Images",
-        "session": "Self-, semi-, and unsupervised learning",
-        "author": "Sookwan Han, Hanbyul Joo",
-        "status": "Oral",
-        "track": "main",
-        "pid": "6785"
     },
     {
         "title": "CHORUS : Learning Canonicalized 3D Human-Object Spatial Relations from Unbounded Synthesized Images",
@@ -2086,14 +1958,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "4253"
-    },
-    {
-        "title": "CLIPascene: Scene Sketching with Different Types and Levels of Abstraction",
-        "session": "Generative AI 1",
-        "author": "Yael Vinker, Yuval Alaluf, Daniel Cohen-Or, Ariel Shamir",
-        "status": "Poster",
-        "track": "main",
-        "pid": "9884"
     },
     {
         "title": "CLIPascene: Scene Sketching with Different Types and Levels of Abstraction",
@@ -2387,14 +2251,6 @@
         "title": "Chasing Clouds: Differentiable Volumetric Rasterisation of Point Clouds as a Highly Efficient and Accurate Loss for Large-Scale Deformable 3D Registration",
         "session": "Humans, 3D modeling, and driving",
         "author": "Mattias P. Heinrich, Alexander Bigalke, Christoph Gro\u00dfbr\u00f6hmer, Lasse Hansen",
-        "status": "Oral",
-        "track": "main",
-        "pid": "10213"
-    },
-    {
-        "title": "Chasing Clouds: Differentiable Volumetric Rasterisation of Point Clouds as a Highly Efficient and Accurate Loss for Large-Scale Deformable 3D Registration",
-        "session": "Humans, 3D modeling, and driving",
-        "author": "Mattias P. Heinrich, Alexander Bigalke, Christoph Gro\u00dfbr\u00f6hmer, Lasse Hansen",
         "status": "Poster",
         "track": "main",
         "pid": "10213"
@@ -2419,14 +2275,6 @@
         "title": "Chinese Text Recognition with A Pre-Trained CLIP-Like Model Through Image-IDS Aligning",
         "session": "Vision and language",
         "author": "Haiyang Yu, Xiaocong Wang, Bin Li, Xiangyang Xue",
-        "status": "Poster",
-        "track": "main",
-        "pid": "3709"
-    },
-    {
-        "title": "Chinese Text Recognition with A Pre-Trained CLIP-Like Model Through Image-IDS Aligning",
-        "session": "Vision and language",
-        "author": "Haiyang Yu, Xiaocong Wang, Bin Li, Xiangyang Xue",
         "status": "Oral",
         "track": "main",
         "pid": "3709"
@@ -2443,25 +2291,9 @@
         "title": "Chordal Averaging on Flag Manifolds and Its Applications",
         "session": "Vision, Graphics, and Robotics",
         "author": "Nathan Mankovich, Tolga Birdal",
-        "status": "Oral",
-        "track": "main",
-        "pid": "3293"
-    },
-    {
-        "title": "Chordal Averaging on Flag Manifolds and Its Applications",
-        "session": "Vision, Graphics, and Robotics",
-        "author": "Nathan Mankovich, Tolga Birdal",
         "status": "Poster",
         "track": "main",
         "pid": "3293"
-    },
-    {
-        "title": "Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models",
-        "session": "Generative AI 2",
-        "author": "Byungjun Kim, Patrick Kwon, Kwangho Lee, Myunggi Lee, Sookwan Han, Daesik Kim, Hanbyul Joo",
-        "status": "Oral",
-        "track": "main",
-        "pid": "6782"
     },
     {
         "title": "Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models",
@@ -2531,14 +2363,6 @@
         "title": "CleanCLIP: Mitigating Data Poisoning Attacks in Multimodal Contrastive Learning",
         "session": "Adversarial attack and defense",
         "author": "Hritik Bansal, Nishad Singhi, Yu Yang, Fan Yin, Aditya Grover, Kai-Wei Chang",
-        "status": "Oral",
-        "track": "main",
-        "pid": "12297"
-    },
-    {
-        "title": "CleanCLIP: Mitigating Data Poisoning Attacks in Multimodal Contrastive Learning",
-        "session": "Adversarial attack and defense",
-        "author": "Hritik Bansal, Nishad Singhi, Yu Yang, Fan Yin, Aditya Grover, Kai-Wei Chang",
         "status": "Poster",
         "track": "main",
         "pid": "12297"
@@ -2558,14 +2382,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "10105"
-    },
-    {
-        "title": "ClothPose: A Real-world Benchmark for Visual Analysis of Garment Pose via An Indirect Recording Solution",
-        "session": "3D from multi-view and sensors 1",
-        "author": "Wenqiang Xu, Wenxin Du, Han Xue, Yutong Li, Ruolin Ye, Yan-Feng Wang, Cewu Lu",
-        "status": "Oral",
-        "track": "main",
-        "pid": "8592"
     },
     {
         "title": "ClothPose: A Real-world Benchmark for Visual Analysis of Garment Pose via An Indirect Recording Solution",
@@ -2758,14 +2574,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "11236"
-    },
-    {
-        "title": "Computational 3D Imaging with Position Sensors",
-        "session": "Low-level vision and theory",
-        "author": "Jeremy Klotz, Mohit Gupta, Aswin C. Sankaranarayanan",
-        "status": "Oral",
-        "track": "main",
-        "pid": "5459"
     },
     {
         "title": "Computational 3D Imaging with Position Sensors",
@@ -3115,14 +2923,6 @@
         "title": "Cross-Ray Neural Radiance Fields for Novel-View Synthesis from Unconstrained Image Collections",
         "session": "Generative AI 2",
         "author": "Yifan Yang, Shuhai Zhang, Zixiong Huang, Yubing Zhang, Mingkui Tan",
-        "status": "Oral",
-        "track": "main",
-        "pid": "2468"
-    },
-    {
-        "title": "Cross-Ray Neural Radiance Fields for Novel-View Synthesis from Unconstrained Image Collections",
-        "session": "Generative AI 2",
-        "author": "Yifan Yang, Shuhai Zhang, Zixiong Huang, Yubing Zhang, Mingkui Tan",
         "status": "Poster",
         "track": "main",
         "pid": "2468"
@@ -3267,14 +3067,6 @@
         "title": "DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion",
         "session": "Low-level vision and theory",
         "author": "Zixiang Zhao, Haowen Bai, Yuanzhi Zhu, Jiangshe Zhang, Shuang Xu, Yulun Zhang, Kai Zhang, Deyu Meng, Radu Timofte, Luc Van Gool",
-        "status": "Oral",
-        "track": "main",
-        "pid": "1997"
-    },
-    {
-        "title": "DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion",
-        "session": "Low-level vision and theory",
-        "author": "Zixiang Zhao, Haowen Bai, Yuanzhi Zhu, Jiangshe Zhang, Shuang Xu, Yulun Zhang, Kai Zhang, Deyu Meng, Radu Timofte, Luc Van Gool",
         "status": "Poster",
         "track": "main",
         "pid": "1997"
@@ -3310,14 +3102,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "6280"
-    },
-    {
-        "title": "DECO: Dense Estimation of 3D Human-Scene Contact In The Wild",
-        "session": "Humans, 3D modeling, and driving",
-        "author": "Shashank Tripathi, Agniv Chatterjee, Jean-Claude Passy, Hongwei Yi, Dimitrios Tzionas, Michael J. Black",
-        "status": "Oral",
-        "track": "main",
-        "pid": "1035"
     },
     {
         "title": "DECO: Dense Estimation of 3D Human-Scene Contact In The Wild",
@@ -3707,14 +3491,6 @@
         "title": "Decoupled Iterative Refinement Framework for Interacting Hands Reconstruction from a Single RGB Image",
         "session": "Humans, 3D modeling, and driving",
         "author": "Pengfei Ren, Chao Wen, Xiaozheng Zheng, Zhou Xue, Haifeng Sun, Qi Qi, Jingyu Wang, Jianxin Liao",
-        "status": "Oral",
-        "track": "main",
-        "pid": "1444"
-    },
-    {
-        "title": "Decoupled Iterative Refinement Framework for Interacting Hands Reconstruction from a Single RGB Image",
-        "session": "Humans, 3D modeling, and driving",
-        "author": "Pengfei Ren, Chao Wen, Xiaozheng Zheng, Zhou Xue, Haifeng Sun, Qi Qi, Jingyu Wang, Jianxin Liao",
         "status": "Poster",
         "track": "main",
         "pid": "1444"
@@ -3814,14 +3590,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "4671"
-    },
-    {
-        "title": "Deep Multitask Learning with Progressive Parameter Sharing",
-        "session": "Machine learning and dataset",
-        "author": "Haosen Shi, Shen Ren, Tianwei Zhang, Sinno Jialin Pan",
-        "status": "Poster",
-        "track": "main",
-        "pid": "11482"
     },
     {
         "title": "Deep Multitask Learning with Progressive Parameter Sharing",
@@ -3934,14 +3702,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "4723"
-    },
-    {
-        "title": "Denoising Diffusion Autoencoders are Unified Self-supervised Learners",
-        "session": "Self-, semi-, and unsupervised learning",
-        "author": "Weilai Xiang, Hongyu Yang, Di Huang, Yunhong Wang",
-        "status": "Oral",
-        "track": "main",
-        "pid": "2247"
     },
     {
         "title": "Denoising Diffusion Autoencoders are Unified Self-supervised Learners",
@@ -4083,14 +3843,6 @@
         "title": "DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-efficient Fine-Tuning",
         "session": "Generative AI 1",
         "author": "Enze Xie, Lewei Yao, Han Shi, Zhili Liu, Daquan Zhou, Zhaoqiang Liu, Jiawei Li, Zhenguo Li",
-        "status": "Poster",
-        "track": "main",
-        "pid": "5559"
-    },
-    {
-        "title": "DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-efficient Fine-Tuning",
-        "session": "Generative AI 1",
-        "author": "Enze Xie, Lewei Yao, Han Shi, Zhili Liu, Daquan Zhou, Zhaoqiang Liu, Jiawei Li, Zhenguo Li",
         "status": "Oral",
         "track": "main",
         "pid": "5559"
@@ -4102,14 +3854,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "4536"
-    },
-    {
-        "title": "DiffPose: Multi-hypothesis Human Pose Estimation using Diffusion Models",
-        "session": "Generative AI 2",
-        "author": "Karl Holmquist, Bastian Wandt",
-        "status": "Oral",
-        "track": "main",
-        "pid": "6049"
     },
     {
         "title": "DiffPose: Multi-hypothesis Human Pose Estimation using Diffusion Models",
@@ -4219,14 +3963,6 @@
         "title": "Diffusion-Guided Reconstruction of Everyday Hand-Object Interaction Clips",
         "session": "3D from multi-view and sensors 2",
         "author": "Yufei Ye, Poorvi Hebbar, Abhinav Gupta, Shubham Tulsiani",
-        "status": "Poster",
-        "track": "main",
-        "pid": "7185"
-    },
-    {
-        "title": "Diffusion-Guided Reconstruction of Everyday Hand-Object Interaction Clips",
-        "session": "3D from multi-view and sensors 2",
-        "author": "Yufei Ye, Poorvi Hebbar, Abhinav Gupta, Shubham Tulsiani",
         "status": "Oral",
         "track": "main",
         "pid": "7185"
@@ -4246,14 +3982,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "9192"
-    },
-    {
-        "title": "DiffusionDet: Diffusion Model for Object Detection",
-        "session": "Machine learning and dataset",
-        "author": "Shoufa Chen, Peize Sun, Yibing Song, Ping Luo",
-        "status": "Poster",
-        "track": "main",
-        "pid": "5600"
     },
     {
         "title": "DiffusionDet: Diffusion Model for Object Detection",
@@ -4571,14 +4299,6 @@
         "title": "Doppelgangers: Learning to Disambiguate Images of Similar Structures",
         "session": "3D from multi-view and sensors 1",
         "author": "Ruojin Cai, Joseph Tung, Qianqian Wang, Hadar Averbuch-Elor, Bharath Hariharan, Noah Snavely",
-        "status": "Oral",
-        "track": "main",
-        "pid": "2049"
-    },
-    {
-        "title": "Doppelgangers: Learning to Disambiguate Images of Similar Structures",
-        "session": "3D from multi-view and sensors 1",
-        "author": "Ruojin Cai, Joseph Tung, Qianqian Wang, Hadar Averbuch-Elor, Bharath Hariharan, Noah Snavely",
         "status": "Poster",
         "track": "main",
         "pid": "2049"
@@ -4622,14 +4342,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "6420"
-    },
-    {
-        "title": "DriveAdapter: Breaking the Coupling Barrier of Perception and Planning in End-to-End Autonomous Driving",
-        "session": "Humans, 3D modeling, and driving",
-        "author": "Xiaosong Jia, Yulu Gao, Li Chen, Junchi Yan, Patrick Langechuan Liu, Hongyang Li",
-        "status": "Oral",
-        "track": "main",
-        "pid": "2403"
     },
     {
         "title": "DriveAdapter: Breaking the Coupling Barrier of Perception and Planning in End-to-End Autonomous Driving",
@@ -4731,14 +4443,6 @@
         "title": "Dynamic Point Fields",
         "session": "Humans, 3D modeling, and driving",
         "author": "Sergey Prokudin, Qianli Ma, Maxime Raafat, Julien Valentin, Siyu Tang",
-        "status": "Oral",
-        "track": "main",
-        "pid": "9234"
-    },
-    {
-        "title": "Dynamic Point Fields",
-        "session": "Humans, 3D modeling, and driving",
-        "author": "Sergey Prokudin, Qianli Ma, Maxime Raafat, Julien Valentin, Siyu Tang",
         "status": "Poster",
         "track": "main",
         "pid": "9234"
@@ -4835,14 +4539,6 @@
         "title": "ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation",
         "session": "Generative AI 2",
         "author": "Yuxiang Wei, Yabo Zhang, Zhilong Ji, Jinfeng Bai, Lei Zhang, Wangmeng Zuo",
-        "status": "Oral",
-        "track": "main",
-        "pid": "4185"
-    },
-    {
-        "title": "ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation",
-        "session": "Generative AI 2",
-        "author": "Yuxiang Wei, Yabo Zhang, Zhilong Ji, Jinfeng Bai, Lei Zhang, Wangmeng Zuo",
         "status": "Poster",
         "track": "main",
         "pid": "4185"
@@ -4875,14 +4571,6 @@
         "title": "EMR-MSF: Self-Supervised Recurrent Monocular Scene Flow Exploiting Ego-Motion Rigidity",
         "session": "3D from multi-view and sensors 1",
         "author": "Zijie Jiang, Masatoshi Okutomi",
-        "status": "Oral",
-        "track": "main",
-        "pid": "6318"
-    },
-    {
-        "title": "EMR-MSF: Self-Supervised Recurrent Monocular Scene Flow Exploiting Ego-Motion Rigidity",
-        "session": "3D from multi-view and sensors 1",
-        "author": "Zijie Jiang, Masatoshi Okutomi",
         "status": "Poster",
         "track": "main",
         "pid": "6318"
@@ -4894,14 +4582,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "10212"
-    },
-    {
-        "title": "ENVIDR: Implicit Differentiable Renderer with Neural Environment Lighting",
-        "session": "3D from multi-view and sensors 1",
-        "author": "Ruofan Liang, Huiting Chen, Chunlin Li, Fan Chen, Selvakumar Panneer, Nandita Vijaykumar",
-        "status": "Oral",
-        "track": "main",
-        "pid": "3285"
     },
     {
         "title": "ENVIDR: Implicit Differentiable Renderer with Neural Environment Lighting",
@@ -4990,14 +4670,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "9476"
-    },
-    {
-        "title": "Effective Real Image Editing with Accelerated Iterative Diffusion Inversion",
-        "session": "Generative AI 2",
-        "author": "Zhihong Pan, Riccardo Gherardi, Xiufeng Xie, Stephen Huang",
-        "status": "Oral",
-        "track": "main",
-        "pid": "8609"
     },
     {
         "title": "Effective Real Image Editing with Accelerated Iterative Diffusion Inversion",
@@ -5203,14 +4875,6 @@
         "title": "Ego-Humans: An Ego-Centric 3D Multi-Human Benchmark",
         "session": "3D from multi-view and sensors 2",
         "author": "Rawal Khirodkar, Aayush Bansal, Lingni Ma, Richard Newcombe, Minh Vo, Kris Kitani",
-        "status": "Poster",
-        "track": "main",
-        "pid": "3277"
-    },
-    {
-        "title": "Ego-Humans: An Ego-Centric 3D Multi-Human Benchmark",
-        "session": "3D from multi-view and sensors 2",
-        "author": "Rawal Khirodkar, Aayush Bansal, Lingni Ma, Richard Newcombe, Minh Vo, Kris Kitani",
         "status": "Oral",
         "track": "main",
         "pid": "3277"
@@ -5222,14 +4886,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "1054"
-    },
-    {
-        "title": "EgoLoc: Revisiting 3D Object Localization from Egocentric Videos with Visual Queries",
-        "session": "3D from multi-view and sensors 1",
-        "author": "Jinjie Mai, Abdullah Hamdi, Silvio Giancola, Chen Zhao, Bernard Ghanem",
-        "status": "Oral",
-        "track": "main",
-        "pid": "5299"
     },
     {
         "title": "EgoLoc: Revisiting 3D Object Localization from Egocentric Videos with Visual Queries",
@@ -5443,14 +5099,6 @@
         "title": "Enhancing Sample Utilization through Sample Adaptive Augmentation in Semi-Supervised Learning",
         "session": "Self-, semi-, and unsupervised learning",
         "author": "Guan Gui, Zhen Zhao, Lei Qi, Luping Zhou, Lei Wang, Yinghuan Shi",
-        "status": "Oral",
-        "track": "main",
-        "pid": "11378"
-    },
-    {
-        "title": "Enhancing Sample Utilization through Sample Adaptive Augmentation in Semi-Supervised Learning",
-        "session": "Self-, semi-, and unsupervised learning",
-        "author": "Guan Gui, Zhen Zhao, Lei Qi, Luping Zhou, Lei Wang, Yinghuan Shi",
         "status": "Poster",
         "track": "main",
         "pid": "11378"
@@ -5470,14 +5118,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "3072"
-    },
-    {
-        "title": "Equivariant Similarity for Vision-Language Foundation Models",
-        "session": "Vision and language",
-        "author": "Tan Wang, Kevin Lin, Linjie Li, Chung-Ching Lin, Zhengyuan Yang, Hanwang Zhang, Zicheng Liu, Lijuan Wang",
-        "status": "Poster",
-        "track": "main",
-        "pid": "3736"
     },
     {
         "title": "Equivariant Similarity for Vision-Language Foundation Models",
@@ -5899,14 +5539,6 @@
         "title": "Factorized Inverse Path Tracing for Efficient and Accurate Material-Lighting Estimation",
         "session": "Vision, Graphics, and Robotics",
         "author": "Liwen Wu, Rui Zhu, Mustafa B. Yaldiz, Yinhao Zhu, Hong Cai, Janarbek Matai, Fatih Porikli, Tzu-Mao Li, Manmohan Chandraker, Ravi Ramamoorthi",
-        "status": "Oral",
-        "track": "main",
-        "pid": "5648"
-    },
-    {
-        "title": "Factorized Inverse Path Tracing for Efficient and Accurate Material-Lighting Estimation",
-        "session": "Vision, Graphics, and Robotics",
-        "author": "Liwen Wu, Rui Zhu, Mustafa B. Yaldiz, Yinhao Zhu, Hong Cai, Janarbek Matai, Fatih Porikli, Tzu-Mao Li, Manmohan Chandraker, Ravi Ramamoorthi",
         "status": "Poster",
         "track": "main",
         "pid": "5648"
@@ -5998,14 +5630,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "9078"
-    },
-    {
-        "title": "FateZero: Fusing Attentions for Zero-shot Text-based Video Editing",
-        "session": "Generative AI 2",
-        "author": "Chenyang QI, Xiaodong Cun, Yong Zhang, Chenyang Lei, Xintao Wang, Ying Shan, Qifeng Chen",
-        "status": "Oral",
-        "track": "main",
-        "pid": "5929"
     },
     {
         "title": "FateZero: Fusing Attentions for Zero-shot Text-based Video Editing",
@@ -6315,14 +5939,6 @@
         "title": "Forward Flow for Novel View Synthesis of Dynamic Scenes",
         "session": "Generative AI 2",
         "author": "Xiang Guo, Jiadai Sun, Yuchao Dai, Guanying Chen, Xiaoqing Ye, Xiao Tan, Errui Ding, Yumeng Zhang, Jingdong Wang",
-        "status": "Oral",
-        "track": "main",
-        "pid": "10050"
-    },
-    {
-        "title": "Forward Flow for Novel View Synthesis of Dynamic Scenes",
-        "session": "Generative AI 2",
-        "author": "Xiang Guo, Jiadai Sun, Yuchao Dai, Guanying Chen, Xiaoqing Ye, Xiao Tan, Errui Ding, Yumeng Zhang, Jingdong Wang",
         "status": "Poster",
         "track": "main",
         "pid": "10050"
@@ -6411,25 +6027,9 @@
         "title": "FunnyBirds: A Synthetic Vision Dataset for a Part-Based Analysis of Explainable AI Methods",
         "session": "Privacy, Security, Fairness, Explainability and Datasets",
         "author": "Robin Hesse, Simone Schaub-Meyer, Stefan Roth",
-        "status": "Oral",
-        "track": "main",
-        "pid": "6214"
-    },
-    {
-        "title": "FunnyBirds: A Synthetic Vision Dataset for a Part-Based Analysis of Explainable AI Methods",
-        "session": "Privacy, Security, Fairness, Explainability and Datasets",
-        "author": "Robin Hesse, Simone Schaub-Meyer, Stefan Roth",
         "status": "Poster",
         "track": "main",
         "pid": "6214"
-    },
-    {
-        "title": "G2L: Semantically Aligned and Uniform Video Grounding via Geodesic and Game Theory",
-        "session": "Vision and language",
-        "author": "Hongxiang Li, Meng Cao, Xuxin Cheng, Yaowei Li, Zhihong Zhu, Yuexian Zou",
-        "status": "Poster",
-        "track": "main",
-        "pid": "1601"
     },
     {
         "title": "G2L: Semantically Aligned and Uniform Video Grounding via Geodesic and Game Theory",
@@ -6571,14 +6171,6 @@
         "title": "GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving",
         "session": "Vision, Graphics, and Robotics",
         "author": "Zhiyu Huang, Haochen Liu, Chen Lv",
-        "status": "Oral",
-        "track": "main",
-        "pid": "9889"
-    },
-    {
-        "title": "GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving",
-        "session": "Vision, Graphics, and Robotics",
-        "author": "Zhiyu Huang, Haochen Liu, Chen Lv",
         "status": "Poster",
         "track": "main",
         "pid": "9889"
@@ -6622,14 +6214,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "12241"
-    },
-    {
-        "title": "General Planar Motion from a Pair of 3D Correspondences",
-        "session": "Low-level vision and theory",
-        "author": "Juan Carlos Dibene, Zhixiang Min, Enrique Dunn",
-        "status": "Oral",
-        "track": "main",
-        "pid": "10124"
     },
     {
         "title": "General Planar Motion from a Pair of 3D Correspondences",
@@ -6699,14 +6283,6 @@
         "title": "Generalizing Neural Human Fitting to Unseen Poses With Articulated SE(3) Equivariance",
         "session": "Humans, 3D modeling, and driving",
         "author": "Haiwen Feng, Peter Kulits, Shichen Liu, Michael J. Black, Victoria Fernandez Abrevaya",
-        "status": "Oral",
-        "track": "main",
-        "pid": "6846"
-    },
-    {
-        "title": "Generalizing Neural Human Fitting to Unseen Poses With Articulated SE(3) Equivariance",
-        "session": "Humans, 3D modeling, and driving",
-        "author": "Haiwen Feng, Peter Kulits, Shichen Liu, Michael J. Black, Victoria Fernandez Abrevaya",
         "status": "Poster",
         "track": "main",
         "pid": "6846"
@@ -6718,14 +6294,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "5800"
-    },
-    {
-        "title": "Generating Instance-level Prompts for Rehearsal-free Continual Learning",
-        "session": "Transfer, low-shot, and continual learning",
-        "author": "Dahuin Jung, Dongyoon Han, Jihwan Bang, Hwanjun Song",
-        "status": "Poster",
-        "track": "main",
-        "pid": "5966"
     },
     {
         "title": "Generating Instance-level Prompts for Rehearsal-free Continual Learning",
@@ -6774,14 +6342,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "11039"
-    },
-    {
-        "title": "Generative Novel View Synthesis with 3D-Aware Diffusion Models",
-        "session": "Generative AI 1",
-        "author": "Eric R. Chan, Koki Nagano, Matthew A. Chan, Alexander W. Bergman, Jeong Joon Park, Axel Levy, Miika Aittala, Shalini De Mello, Tero Karras, Gordon Wetzstein",
-        "status": "Poster",
-        "track": "main",
-        "pid": "10260"
     },
     {
         "title": "Generative Novel View Synthesis with 3D-Aware Diffusion Models",
@@ -7003,14 +6563,6 @@
         "title": "GraphEcho: Graph-Driven Unsupervised Domain Adaptation for Echocardiogram Video Segmentation",
         "session": "Transfer, low-shot, and continual learning",
         "author": "Jiewen Yang, Xinpeng Ding, Ziyang Zheng, Xiaowei Xu, Xiaomeng Li",
-        "status": "Poster",
-        "track": "main",
-        "pid": "2623"
-    },
-    {
-        "title": "GraphEcho: Graph-Driven Unsupervised Domain Adaptation for Echocardiogram Video Segmentation",
-        "session": "Transfer, low-shot, and continual learning",
-        "author": "Jiewen Yang, Xinpeng Ding, Ziyang Zheng, Xiaowei Xu, Xiaomeng Li",
         "status": "Oral",
         "track": "main",
         "pid": "2623"
@@ -7038,14 +6590,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "3404"
-    },
-    {
-        "title": "Grounded Entity-Landmark Adaptive Pre-Training for Vision-and-Language Navigation",
-        "session": "Vision and language",
-        "author": "Yibo Cui, Liang Xie, Yakun Zhang, Meishan Zhang, Ye Yan, Erwei Yin",
-        "status": "Poster",
-        "track": "main",
-        "pid": "6312"
     },
     {
         "title": "Grounded Entity-Landmark Adaptive Pre-Training for Vision-and-Language Navigation",
@@ -7419,14 +6963,6 @@
         "title": "High Quality Entity Segmentation",
         "session": "Recognition, segmentation, and shape analysis",
         "author": "Lu Qi, Jason Kuen, Tiancheng Shen, Jiuxiang Gu, Wenbo Li, Weidong Guo, Jiaya Jia, Zhe Lin, Ming-Hsuan Yang",
-        "status": "Poster",
-        "track": "main",
-        "pid": "4808"
-    },
-    {
-        "title": "High Quality Entity Segmentation",
-        "session": "Recognition, segmentation, and shape analysis",
-        "author": "Lu Qi, Jason Kuen, Tiancheng Shen, Jiuxiang Gu, Wenbo Li, Weidong Guo, Jiaya Jia, Zhe Lin, Ming-Hsuan Yang",
         "status": "Oral",
         "track": "main",
         "pid": "4808"
@@ -7595,14 +7131,6 @@
         "title": "HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation",
         "session": "Generative AI 2",
         "author": "Xuan Ju, Ailing Zeng, Chenchen Zhao, Jianan Wang, Lei Zhang, Qiang Xu",
-        "status": "Oral",
-        "track": "main",
-        "pid": "2350"
-    },
-    {
-        "title": "HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation",
-        "session": "Generative AI 2",
-        "author": "Xuan Ju, Ailing Zeng, Chenchen Zhao, Jianan Wang, Lei Zhang, Qiang Xu",
         "status": "Poster",
         "track": "main",
         "pid": "2350"
@@ -7755,14 +7283,6 @@
         "title": "IOMatch: Simplifying Open-Set Semi-Supervised Learning with Joint Inliers and Outliers Utilization",
         "session": "Self-, semi-, and unsupervised learning",
         "author": "Zekun Li, Lei Qi, Yinghuan Shi, Yang Gao",
-        "status": "Oral",
-        "track": "main",
-        "pid": "7376"
-    },
-    {
-        "title": "IOMatch: Simplifying Open-Set Semi-Supervised Learning with Joint Inliers and Outliers Utilization",
-        "session": "Self-, semi-, and unsupervised learning",
-        "author": "Zekun Li, Lei Qi, Yinghuan Shi, Yang Gao",
         "status": "Poster",
         "track": "main",
         "pid": "7376"
@@ -7774,14 +7294,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "2776"
-    },
-    {
-        "title": "ITI-GEN: Inclusive Text-to-Image Generation",
-        "session": "Privacy, Security, Fairness, Explainability and Datasets",
-        "author": "Cheng Zhang, Xuanbai Chen, Siqi Chai, Chen Henry Wu, Dmitry Lagun, Thabo Beeler, Fernando De la Torre",
-        "status": "Oral",
-        "track": "main",
-        "pid": "10327"
     },
     {
         "title": "ITI-GEN: Inclusive Text-to-Image Generation",
@@ -7806,14 +7318,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "6661"
-    },
-    {
-        "title": "Identity-Seeking Self-Supervised Representation Learning for Generalizable Person Re-Identification",
-        "session": "Self-, semi-, and unsupervised learning",
-        "author": "Zhaopeng Dou, Zhongdao Wang, Yali Li, Shengjin Wang",
-        "status": "Oral",
-        "track": "main",
-        "pid": "5628"
     },
     {
         "title": "Identity-Seeking Self-Supervised Representation Learning for Generalizable Person Re-Identification",
@@ -7883,14 +7387,6 @@
         "title": "Implicit Temporal Modeling with Learnable Alignment for Video Recognition",
         "session": "Machine learning and dataset",
         "author": "Shuyuan Tu, Qi Dai, Zuxuan Wu, Zhi-Qi Cheng, Han Hu, Yu-Gang Jiang",
-        "status": "Poster",
-        "track": "main",
-        "pid": "5785"
-    },
-    {
-        "title": "Implicit Temporal Modeling with Learnable Alignment for Video Recognition",
-        "session": "Machine learning and dataset",
-        "author": "Shuyuan Tu, Qi Dai, Zuxuan Wu, Zhi-Qi Cheng, Han Hu, Yu-Gang Jiang",
         "status": "Oral",
         "track": "main",
         "pid": "5785"
@@ -7902,14 +7398,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "5017"
-    },
-    {
-        "title": "Improved Visual Fine-tuning with Natural Language Supervision",
-        "session": "Transfer, low-shot, and continual learning",
-        "author": "Junyang Wang, Yuanhong Xu, Juhua Hu, Ming Yan, Jitao Sang, Qi Qian",
-        "status": "Poster",
-        "track": "main",
-        "pid": "10523"
     },
     {
         "title": "Improved Visual Fine-tuning with Natural Language Supervision",
@@ -8035,14 +7523,6 @@
         "title": "Improving Unsupervised Visual Program Inference with Code Rewriting Families",
         "session": "Self-, semi-, and unsupervised learning",
         "author": "Aditya Ganeshan, R. Kenny Jones, Daniel Ritchie",
-        "status": "Oral",
-        "track": "main",
-        "pid": "3261"
-    },
-    {
-        "title": "Improving Unsupervised Visual Program Inference with Code Rewriting Families",
-        "session": "Self-, semi-, and unsupervised learning",
-        "author": "Aditya Ganeshan, R. Kenny Jones, Daniel Ritchie",
         "status": "Poster",
         "track": "main",
         "pid": "3261"
@@ -8155,14 +7635,6 @@
         "title": "Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions",
         "session": "3D from multi-view and sensors 2",
         "author": "Ayaan Haque, Matthew Tancik, Alexei A. Efros, Aleksander Holynski, Angjoo Kanazawa",
-        "status": "Poster",
-        "track": "main",
-        "pid": "6612"
-    },
-    {
-        "title": "Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions",
-        "session": "3D from multi-view and sensors 2",
-        "author": "Ayaan Haque, Matthew Tancik, Alexei A. Efros, Aleksander Holynski, Angjoo Kanazawa",
         "status": "Oral",
         "track": "main",
         "pid": "6612"
@@ -8182,14 +7654,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "8750"
-    },
-    {
-        "title": "IntentQA: Context-aware Video Intent Reasoning",
-        "session": "Vision and language",
-        "author": "Jiapeng Li, Ping Wei, Wenjuan Han, Lifeng Fan",
-        "status": "Poster",
-        "track": "main",
-        "pid": "3185"
     },
     {
         "title": "IntentQA: Context-aware Video Intent Reasoning",
@@ -8310,14 +7774,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "4662"
-    },
-    {
-        "title": "Iterative Prompt Learning for Unsupervised Backlit Image Enhancement",
-        "session": "Low-level vision and theory",
-        "author": "Zhexin Liang, Chongyi Li, Shangchen Zhou, Ruicheng Feng, Chen Change Loy",
-        "status": "Oral",
-        "track": "main",
-        "pid": "3791"
     },
     {
         "title": "Iterative Prompt Learning for Unsupervised Backlit Image Enhancement",
@@ -8499,14 +7955,6 @@
         "title": "LATR: 3D Lane Detection from Monocular Images with Transformer",
         "session": "Humans, 3D modeling, and driving",
         "author": "Yueru Luo, Chaoda Zheng, Xu Yan, Tang Kun, Chao Zheng, Shuguang Cui, Zhen Li",
-        "status": "Oral",
-        "track": "main",
-        "pid": "6680"
-    },
-    {
-        "title": "LATR: 3D Lane Detection from Monocular Images with Transformer",
-        "session": "Humans, 3D modeling, and driving",
-        "author": "Yueru Luo, Chaoda Zheng, Xu Yan, Tang Kun, Chao Zheng, Shuguang Cui, Zhen Li",
         "status": "Poster",
         "track": "main",
         "pid": "6680"
@@ -8518,14 +7966,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "9315"
-    },
-    {
-        "title": "LD-ZNet: A Latent Diffusion Approach for Text-Based Image Segmentation",
-        "session": "Generative AI 1",
-        "author": "Koutilya PNVR, Bharat Singh, Pallabi Ghosh, Behjat Siddiquie, David Jacobs",
-        "status": "Poster",
-        "track": "main",
-        "pid": "12703"
     },
     {
         "title": "LD-ZNet: A Latent Diffusion Approach for Text-Based Image Segmentation",
@@ -8558,14 +7998,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "7184"
-    },
-    {
-        "title": "LERF: Language Embedded Radiance Fields",
-        "session": "3D from multi-view and sensors 2",
-        "author": "Justin Kerr, Chung Min Kim, Ken Goldberg, Angjoo Kanazawa, Matthew Tancik",
-        "status": "Poster",
-        "track": "main",
-        "pid": "9040"
     },
     {
         "title": "LERF: Language Embedded Radiance Fields",
@@ -8699,14 +8131,6 @@
         "title": "Label-Free Event-based Object Recognition via Joint Learning with Image Reconstruction from Events",
         "session": "Machine learning and dataset",
         "author": "Hoonhee Cho, Hyeonseong Kim, Yujeong Chae, Kuk-Jin Yoon",
-        "status": "Poster",
-        "track": "main",
-        "pid": "5805"
-    },
-    {
-        "title": "Label-Free Event-based Object Recognition via Joint Learning with Image Reconstruction from Events",
-        "session": "Machine learning and dataset",
-        "author": "Hoonhee Cho, Hyeonseong Kim, Yujeong Chae, Kuk-Jin Yoon",
         "status": "Oral",
         "track": "main",
         "pid": "5805"
@@ -8750,14 +8174,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "11265"
-    },
-    {
-        "title": "Large-Scale Person Detection and Localization Using Overhead Fisheye Cameras",
-        "session": "Machine learning and dataset",
-        "author": "Lu Yang, Liulei Li, Xueshi Xin, Yifan Sun, Qing Song, Wenguan Wang",
-        "status": "Poster",
-        "track": "main",
-        "pid": "4528"
     },
     {
         "title": "Large-Scale Person Detection and Localization Using Overhead Fisheye Cameras",
@@ -9331,14 +8747,6 @@
         "title": "LiDAR-UDA: Self-ensembling Through Time for Unsupervised LiDAR Domain Adaptation",
         "session": "3D from multi-view and sensors 2",
         "author": "Amirreza Shaban, JoonHo Lee, Sanghun Jung, Xiangyun Meng, Byron Boots",
-        "status": "Poster",
-        "track": "main",
-        "pid": "1257"
-    },
-    {
-        "title": "LiDAR-UDA: Self-ensembling Through Time for Unsupervised LiDAR Domain Adaptation",
-        "session": "3D from multi-view and sensors 2",
-        "author": "Amirreza Shaban, JoonHo Lee, Sanghun Jung, Xiangyun Meng, Byron Boots",
         "status": "Oral",
         "track": "main",
         "pid": "1257"
@@ -9430,14 +8838,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "10096"
-    },
-    {
-        "title": "LivePose: Online 3D Reconstruction from Monocular Video with Dynamic Camera Poses",
-        "session": "Humans, 3D modeling, and driving",
-        "author": "Noah Stier, Baptiste Angles, Liang Yang, Yajie Yan, Alex Colburn, Ming Chuang",
-        "status": "Oral",
-        "track": "main",
-        "pid": "12458"
     },
     {
         "title": "LivePose: Online 3D Reconstruction from Monocular Video with Dynamic Camera Poses",
@@ -9563,14 +8963,6 @@
         "title": "LogicSeg: Parsing Visual Semantics with Neural Logic Learning and Reasoning",
         "session": "Recognition, segmentation, and shape analysis",
         "author": "Liulei Li, Wenguan Wang, Yi Yang",
-        "status": "Poster",
-        "track": "main",
-        "pid": "5876"
-    },
-    {
-        "title": "LogicSeg: Parsing Visual Semantics with Neural Logic Learning and Reasoning",
-        "session": "Recognition, segmentation, and shape analysis",
-        "author": "Liulei Li, Wenguan Wang, Yi Yang",
         "status": "Oral",
         "track": "main",
         "pid": "5876"
@@ -9670,14 +9062,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "8602"
-    },
-    {
-        "title": "MAP: Towards Balanced Generalization of IID and OOD through Model-Agnostic Adapters",
-        "session": "Transfer, low-shot, and continual learning",
-        "author": "Min Zhang, Junkun Yuan, Yue He, Wenbin Li, Zhengyu Chen, Kun Kuang",
-        "status": "Poster",
-        "track": "main",
-        "pid": "10439"
     },
     {
         "title": "MAP: Towards Balanced Generalization of IID and OOD through Model-Agnostic Adapters",
@@ -9819,14 +9203,6 @@
         "title": "MMVP: Motion-Matrix-Based Video Prediction",
         "session": "Generative AI 1",
         "author": "Yiqi Zhong, Luming Liang, Ilya Zharkov, Ulrich Neumann",
-        "status": "Poster",
-        "track": "main",
-        "pid": "4215"
-    },
-    {
-        "title": "MMVP: Motion-Matrix-Based Video Prediction",
-        "session": "Generative AI 1",
-        "author": "Yiqi Zhong, Luming Liang, Ilya Zharkov, Ulrich Neumann",
         "status": "Oral",
         "track": "main",
         "pid": "4215"
@@ -9846,14 +9222,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "2023"
-    },
-    {
-        "title": "MOST: Multiple Object Localization with Self-Supervised Transformers for Object Discovery",
-        "session": "Self-, semi-, and unsupervised learning",
-        "author": "Sai Saketh Rambhatla, Ishan Misra, Rama Chellappa, Abhinav Shrivastava",
-        "status": "Oral",
-        "track": "main",
-        "pid": "9594"
     },
     {
         "title": "MOST: Multiple Object Localization with Self-Supervised Transformers for Object Discovery",
@@ -9998,14 +9366,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "1648"
-    },
-    {
-        "title": "Manipulate by Seeing: Creating Manipulation Controllers from Pre-Trained Representations",
-        "session": "Vision, Graphics, and Robotics",
-        "author": "Jianren Wang, Sudeep Dasari, Mohan Kumar Srirama, Shubham Tulsiani, Abhinav Gupta",
-        "status": "Oral",
-        "track": "main",
-        "pid": "11166"
     },
     {
         "title": "Manipulate by Seeing: Creating Manipulation Controllers from Pre-Trained Representations",
@@ -10283,14 +9643,6 @@
         "title": "Minimal Solutions to Generalized Three-View Relative Pose Problem",
         "session": "Low-level vision and theory",
         "author": "Yaqing Ding, Chiang-Heng Chien, Viktor Larsson, Karl \u00c5str\u00f6m, Benjamin Kimia",
-        "status": "Oral",
-        "track": "main",
-        "pid": "4934"
-    },
-    {
-        "title": "Minimal Solutions to Generalized Three-View Relative Pose Problem",
-        "session": "Low-level vision and theory",
-        "author": "Yaqing Ding, Chiang-Heng Chien, Viktor Larsson, Karl \u00c5str\u00f6m, Benjamin Kimia",
         "status": "Poster",
         "track": "main",
         "pid": "4934"
@@ -10334,14 +9686,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "5956"
-    },
-    {
-        "title": "Mitigating and Evaluating Static Bias of Action Representations in the Background and the Foreground",
-        "session": "Machine learning and dataset",
-        "author": "Haoxin Li, Yuan Liu, Hanwang Zhang, Boyang Li",
-        "status": "Poster",
-        "track": "main",
-        "pid": "3792"
     },
     {
         "title": "Mitigating and Evaluating Static Bias of Action Representations in the Background and the Foreground",
@@ -10398,14 +9742,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "11007"
-    },
-    {
-        "title": "Mixed Neural Voxels for Fast Multi-view Video Synthesis",
-        "session": "3D from multi-view and sensors 2",
-        "author": "Feng Wang, Sinan Tan, Xinghang Li, Zeyue Tian, Yafei Song, Huaping Liu",
-        "status": "Poster",
-        "track": "main",
-        "pid": "5238"
     },
     {
         "title": "Mixed Neural Voxels for Fast Multi-view Video Synthesis",
@@ -10723,14 +10059,6 @@
         "title": "Multi-interactive Feature Learning and a Full-time Multi-modality Benchmark for Image Fusion and Segmentation",
         "session": "Low-level vision and theory",
         "author": "Jinyuan Liu, Zhu Liu, Guanyao Wu, Long Ma, Risheng Liu, Wei Zhong, Zhongxuan Luo, Xin Fan",
-        "status": "Oral",
-        "track": "main",
-        "pid": "5799"
-    },
-    {
-        "title": "Multi-interactive Feature Learning and a Full-time Multi-modality Benchmark for Image Fusion and Segmentation",
-        "session": "Low-level vision and theory",
-        "author": "Jinyuan Liu, Zhu Liu, Guanyao Wu, Long Ma, Risheng Liu, Wei Zhong, Zhongxuan Luo, Xin Fan",
         "status": "Poster",
         "track": "main",
         "pid": "5799"
@@ -10835,14 +10163,6 @@
         "title": "Multiple Instance Learning Framework with Masked Hard Instance Mining for Whole Slide Image Classification",
         "session": "Recognition, segmentation, and shape analysis",
         "author": "Wenhao Tang, Sheng Huang, Xiaoxian Zhang, Fengtao Zhou, Yi Zhang, Bo Liu",
-        "status": "Poster",
-        "track": "main",
-        "pid": "6302"
-    },
-    {
-        "title": "Multiple Instance Learning Framework with Masked Hard Instance Mining for Whole Slide Image Classification",
-        "session": "Recognition, segmentation, and shape analysis",
-        "author": "Wenhao Tang, Sheng Huang, Xiaoxian Zhang, Fengtao Zhou, Yi Zhang, Bo Liu",
         "status": "Oral",
         "track": "main",
         "pid": "6302"
@@ -10907,14 +10227,6 @@
         "title": "NDDepth: Normal-Distance Assisted Monocular Depth Estimation",
         "session": "Humans, 3D modeling, and driving",
         "author": "Shuwei Shao, Zhongcai Pei, Weihai Chen, Xingming Wu, Zhengguo Li",
-        "status": "Oral",
-        "track": "main",
-        "pid": "1992"
-    },
-    {
-        "title": "NDDepth: Normal-Distance Assisted Monocular Depth Estimation",
-        "session": "Humans, 3D modeling, and driving",
-        "author": "Shuwei Shao, Zhongcai Pei, Weihai Chen, Xingming Wu, Zhengguo Li",
         "status": "Poster",
         "track": "main",
         "pid": "1992"
@@ -10958,14 +10270,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "1052"
-    },
-    {
-        "title": "Name Your Colour For the Task: Artificially Discover Colour Naming via Colour Quantisation Transformer",
-        "session": "Vision and language",
-        "author": "Shenghan Su, Lin Gu, Yue Yang, Zenghui Zhang, Tatsuya Harada",
-        "status": "Poster",
-        "track": "main",
-        "pid": "9201"
     },
     {
         "title": "Name Your Colour For the Task: Artificially Discover Colour Naming via Colour Quantisation Transformer",
@@ -11107,14 +10411,6 @@
         "title": "NeuRBF: A Neural Fields Representation with Adaptive Radial Basis Functions",
         "session": "Generative AI 1",
         "author": "Zhang Chen, Zhong Li, Liangchen Song, Lele Chen, Jingyi Yu, Junsong Yuan, Yi Xu",
-        "status": "Poster",
-        "track": "main",
-        "pid": "5223"
-    },
-    {
-        "title": "NeuRBF: A Neural Fields Representation with Adaptive Radial Basis Functions",
-        "session": "Generative AI 1",
-        "author": "Zhang Chen, Zhong Li, Liangchen Song, Lele Chen, Jingyi Yu, Junsong Yuan, Yi Xu",
         "status": "Oral",
         "track": "main",
         "pid": "5223"
@@ -11158,14 +10454,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "7575"
-    },
-    {
-        "title": "Neural Haircut: Prior-Guided Strand-Based Hair Reconstruction",
-        "session": "3D from multi-view and sensors 2",
-        "author": "Vanessa Sklyarova, Jenya Chelishev, Andreea Dogaru, Igor Medvedev, Victor Lempitsky, Egor Zakharov",
-        "status": "Poster",
-        "track": "main",
-        "pid": "2685"
     },
     {
         "title": "Neural Haircut: Prior-Guided Strand-Based Hair Reconstruction",
@@ -11315,14 +10603,6 @@
         "title": "Novel Scenes & Classes: Towards Adaptive Open-set Object Detection",
         "session": "Self-, semi-, and unsupervised learning",
         "author": "Wuyang Li, Xiaoqing Guo, Yixuan Yuan",
-        "status": "Oral",
-        "track": "main",
-        "pid": "3348"
-    },
-    {
-        "title": "Novel Scenes & Classes: Towards Adaptive Open-set Object Detection",
-        "session": "Self-, semi-, and unsupervised learning",
-        "author": "Wuyang Li, Xiaoqing Guo, Yixuan Yuan",
         "status": "Poster",
         "track": "main",
         "pid": "3348"
@@ -11435,14 +10715,6 @@
         "title": "OmniLabel: A Challenging Benchmark for Language-Based Object Detection",
         "session": "Vision and language",
         "author": "Samuel Schulter, Vijay Kumar B G, Yumin Suh, Konstantinos M. Dafnis, Zhixing Zhang, Shiyu Zhao, Dimitris Metaxas",
-        "status": "Poster",
-        "track": "main",
-        "pid": "7127"
-    },
-    {
-        "title": "OmniLabel: A Challenging Benchmark for Language-Based Object Detection",
-        "session": "Vision and language",
-        "author": "Samuel Schulter, Vijay Kumar B G, Yumin Suh, Konstantinos M. Dafnis, Zhixing Zhang, Shiyu Zhao, Dimitris Metaxas",
         "status": "Oral",
         "track": "main",
         "pid": "7127"
@@ -11499,25 +10771,9 @@
         "title": "On the Robustness of Open-World Test-Time Training: Self-Training with Dynamic Prototype Expansion",
         "session": "Transfer, low-shot, and continual learning",
         "author": "Yushu Li, Xun Xu, Yongyi Su, Kui Jia",
-        "status": "Poster",
-        "track": "main",
-        "pid": "4446"
-    },
-    {
-        "title": "On the Robustness of Open-World Test-Time Training: Self-Training with Dynamic Prototype Expansion",
-        "session": "Transfer, low-shot, and continual learning",
-        "author": "Yushu Li, Xun Xu, Yongyi Su, Kui Jia",
         "status": "Oral",
         "track": "main",
         "pid": "4446"
-    },
-    {
-        "title": "Once Detected, Never Lost: Surpassing Human Performance in Offline LiDAR based 3D Object Detection",
-        "session": "3D from multi-view and sensors 2",
-        "author": "Lue Fan, Yuxue Yang, Yiming Mao, Feng Wang, Yuntao Chen, Naiyan Wang, Zhaoxiang Zhang",
-        "status": "Poster",
-        "track": "main",
-        "pid": "2093"
     },
     {
         "title": "Once Detected, Never Lost: Surpassing Human Performance in Offline LiDAR based 3D Object Detection",
@@ -11622,14 +10878,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "3421"
-    },
-    {
-        "title": "Open-domain Visual Entity Recognition: Towards Recognizing Millions of Wikipedia Entities",
-        "session": "Vision and language",
-        "author": "Hexiang Hu, Yi Luan, Yang Chen, Urvashi Khandelwal, Mandar Joshi, Kenton Lee, Kristina Toutanova, Ming-Wei Chang",
-        "status": "Poster",
-        "track": "main",
-        "pid": "3031"
     },
     {
         "title": "Open-domain Visual Entity Recognition: Towards Recognizing Millions of Wikipedia Entities",
@@ -11755,14 +11003,6 @@
         "title": "Overwriting Pretrained Bias with Finetuning Data",
         "session": "Privacy, Security, Fairness, Explainability and Datasets",
         "author": "Angelina Wang, Olga Russakovsky",
-        "status": "Oral",
-        "track": "main",
-        "pid": "3956"
-    },
-    {
-        "title": "Overwriting Pretrained Bias with Finetuning Data",
-        "session": "Privacy, Security, Fairness, Explainability and Datasets",
-        "author": "Angelina Wang, Olga Russakovsky",
         "status": "Poster",
         "track": "main",
         "pid": "3956"
@@ -11774,14 +11014,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "18"
-    },
-    {
-        "title": "P1AC: Revisiting Absolute Pose From a Single Affine Correspondence",
-        "session": "3D from multi-view and sensors 2",
-        "author": "Jonathan Ventura, Zuzana Kukelova, Torsten Sattler, D\u00e1niel Bar\u00e1th",
-        "status": "Poster",
-        "track": "main",
-        "pid": "10244"
     },
     {
         "title": "P1AC: Revisiting Absolute Pose From a Single Affine Correspondence",
@@ -11899,14 +11131,6 @@
         "title": "PGFed: Personalize Each Client's Global Objective for Federated Learning",
         "session": "Privacy, Security, Fairness, Explainability and Datasets",
         "author": "Jun Luo, Matias Mendieta, Chen Chen, Shandong Wu",
-        "status": "Oral",
-        "track": "main",
-        "pid": "7061"
-    },
-    {
-        "title": "PGFed: Personalize Each Client's Global Objective for Federated Learning",
-        "session": "Privacy, Security, Fairness, Explainability and Datasets",
-        "author": "Jun Luo, Matias Mendieta, Chen Chen, Shandong Wu",
         "status": "Poster",
         "track": "main",
         "pid": "7061"
@@ -11950,14 +11174,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "9566"
-    },
-    {
-        "title": "PPR: Physically Plausible Reconstruction from Monocular Videos",
-        "session": "Vision, Graphics, and Robotics",
-        "author": "Gengshan Yang, Shuo Yang, John Z. Zhang, Zachary Manchester, Deva Ramanan",
-        "status": "Oral",
-        "track": "main",
-        "pid": "5133"
     },
     {
         "title": "PPR: Physically Plausible Reconstruction from Monocular Videos",
@@ -12099,14 +11315,6 @@
         "title": "Passive Ultra-Wideband Single-Photon Imaging",
         "session": "Low-level vision and theory",
         "author": "Mian Wei, Sotiris Nousias, Rahul Gulve, David B. Lindell, Kiriakos N. Kutulakos",
-        "status": "Oral",
-        "track": "main",
-        "pid": "6608"
-    },
-    {
-        "title": "Passive Ultra-Wideband Single-Photon Imaging",
-        "session": "Low-level vision and theory",
-        "author": "Mian Wei, Sotiris Nousias, Rahul Gulve, David B. Lindell, Kiriakos N. Kutulakos",
         "status": "Poster",
         "track": "main",
         "pid": "6608"
@@ -12198,14 +11406,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "3844"
-    },
-    {
-        "title": "PhysDiff: Physics-Guided Human Motion Diffusion Model",
-        "session": "Generative AI 2",
-        "author": "Ye Yuan, Jiaming Song, Umar Iqbal, Arash Vahdat, Jan Kautz",
-        "status": "Oral",
-        "track": "main",
-        "pid": "1917"
     },
     {
         "title": "PhysDiff: Physics-Guided Human Motion Diffusion Model",
@@ -12395,14 +11595,6 @@
         "title": "PointOdyssey: A Large-Scale Synthetic Dataset for Long-Term Point Tracking",
         "session": "Machine learning and dataset",
         "author": "Yang Zheng, Adam W. Harley, Bokui Shen, Gordon Wetzstein, Leonidas J. Guibas",
-        "status": "Poster",
-        "track": "main",
-        "pid": "1985"
-    },
-    {
-        "title": "PointOdyssey: A Large-Scale Synthetic Dataset for Long-Term Point Tracking",
-        "session": "Machine learning and dataset",
-        "author": "Yang Zheng, Adam W. Harley, Bokui Shen, Gordon Wetzstein, Leonidas J. Guibas",
         "status": "Oral",
         "track": "main",
         "pid": "1985"
@@ -12507,14 +11699,6 @@
         "title": "Preparing the Future for Continual Semantic Segmentation",
         "session": "Transfer, low-shot, and continual learning",
         "author": "Zihan Lin, Zilei Wang, Yixin Zhang",
-        "status": "Poster",
-        "track": "main",
-        "pid": "4800"
-    },
-    {
-        "title": "Preparing the Future for Continual Semantic Segmentation",
-        "session": "Transfer, low-shot, and continual learning",
-        "author": "Zihan Lin, Zilei Wang, Yixin Zhang",
         "status": "Oral",
         "track": "main",
         "pid": "4800"
@@ -12611,14 +11795,6 @@
         "title": "Probabilistic Human Mesh Recovery in 3D Scenes from Egocentric Views",
         "session": "Humans, 3D modeling, and driving",
         "author": "Siwei Zhang, Qianli Ma, Yan Zhang, Sadegh Aliakbarian, Darren Cosker, Siyu Tang",
-        "status": "Oral",
-        "track": "main",
-        "pid": "2208"
-    },
-    {
-        "title": "Probabilistic Human Mesh Recovery in 3D Scenes from Egocentric Views",
-        "session": "Humans, 3D modeling, and driving",
-        "author": "Siwei Zhang, Qianli Ma, Yan Zhang, Sadegh Aliakbarian, Darren Cosker, Siyu Tang",
         "status": "Poster",
         "track": "main",
         "pid": "2208"
@@ -12646,14 +11822,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "9754"
-    },
-    {
-        "title": "Progressive Spatio-Temporal Prototype Matching for Text-Video Retrieval",
-        "session": "Recognition, segmentation, and shape analysis",
-        "author": "Pandeng Li, Chen-Wei Xie, Liming Zhao, Hongtao Xie, Jiannan Ge, Yun Zheng, Deli Zhao, Yongdong Zhang",
-        "status": "Poster",
-        "track": "main",
-        "pid": "3879"
     },
     {
         "title": "Progressive Spatio-Temporal Prototype Matching for Text-Video Retrieval",
@@ -13259,14 +12427,6 @@
         "title": "Ref-NeuS: Ambiguity-Reduced Neural Implicit Surface Learning for Multi-View Reconstruction with Reflection",
         "session": "Generative AI 1",
         "author": "Wenhang Ge, Tao Hu, Haoyu Zhao, Shu Liu, Ying-Cong Chen",
-        "status": "Poster",
-        "track": "main",
-        "pid": "9385"
-    },
-    {
-        "title": "Ref-NeuS: Ambiguity-Reduced Neural Implicit Surface Learning for Multi-View Reconstruction with Reflection",
-        "session": "Generative AI 1",
-        "author": "Wenhang Ge, Tao Hu, Haoyu Zhao, Shu Liu, Ying-Cong Chen",
         "status": "Oral",
         "track": "main",
         "pid": "9385"
@@ -13318,14 +12478,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "11957"
-    },
-    {
-        "title": "Rehearsal-Free Domain Continual Face Anti-Spoofing: Generalize More and Forget Less",
-        "session": "Humans, 3D modeling, and driving",
-        "author": "Rizhao Cai, Yawen Cui, Zhi Li, Zitong Yu, Haoliang Li, Yongjian Hu, Alex Kot",
-        "status": "Oral",
-        "track": "main",
-        "pid": "9753"
     },
     {
         "title": "Rehearsal-Free Domain Continual Face Anti-Spoofing: Generalize More and Forget Less",
@@ -13587,14 +12739,6 @@
         "title": "Revisiting Vision Transformer from the View of Path Ensemble",
         "session": "Machine learning and dataset",
         "author": "Shuning Chang, Pichao Wang, Hao Luo, Fan Wang, Mike Zheng Shou",
-        "status": "Poster",
-        "track": "main",
-        "pid": "5458"
-    },
-    {
-        "title": "Revisiting Vision Transformer from the View of Path Ensemble",
-        "session": "Machine learning and dataset",
-        "author": "Shuning Chang, Pichao Wang, Hao Luo, Fan Wang, Mike Zheng Shou",
         "status": "Oral",
         "track": "main",
         "pid": "5458"
@@ -13627,14 +12771,6 @@
         "title": "Robust Evaluation of Diffusion-Based Adversarial Purification",
         "session": "Adversarial attack and defense",
         "author": "Minjong Lee, Dongwoo Kim",
-        "status": "Oral",
-        "track": "main",
-        "pid": "11381"
-    },
-    {
-        "title": "Robust Evaluation of Diffusion-Based Adversarial Purification",
-        "session": "Adversarial attack and defense",
-        "author": "Minjong Lee, Dongwoo Kim",
         "status": "Poster",
         "track": "main",
         "pid": "11381"
@@ -13662,14 +12798,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "9551"
-    },
-    {
-        "title": "Robust Mixture-of-Expert Training for Convolutional Neural Networks",
-        "session": "Adversarial attack and defense",
-        "author": "Yihua Zhang, Ruisi Cai, Tianlong Chen, Guanhua Zhang, Huan Zhang, Pin-Yu Chen, Shiyu Chang, Zhangyang Wang, Sijia Liu",
-        "status": "Oral",
-        "track": "main",
-        "pid": "5132"
     },
     {
         "title": "Robust Mixture-of-Expert Training for Convolutional Neural Networks",
@@ -13718,14 +12846,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "2423"
-    },
-    {
-        "title": "Role-Aware Interaction Generation from Textual Description",
-        "session": "Generative AI 2",
-        "author": "Mikihiro Tanaka, KentFujiwara",
-        "status": "Oral",
-        "track": "main",
-        "pid": "4796"
     },
     {
         "title": "Role-Aware Interaction Generation from Textual Description",
@@ -14219,14 +13339,6 @@
         "title": "Scalable Diffusion Models with Transformers",
         "session": "Generative AI 1",
         "author": "William Peebles, Saining Xie",
-        "status": "Poster",
-        "track": "main",
-        "pid": "6705"
-    },
-    {
-        "title": "Scalable Diffusion Models with Transformers",
-        "session": "Generative AI 1",
-        "author": "William Peebles, Saining Xie",
         "status": "Oral",
         "track": "main",
         "pid": "6705"
@@ -14259,14 +13371,6 @@
         "title": "Scale-MAE: A Scale-Aware Masked Autoencoder for Multiscale Geospatial Representation Learning",
         "session": "Recognition, segmentation, and shape analysis",
         "author": "Colorado J Reed, Ritwik Gupta, Shufan Li, Sarah Brockman, Christopher Funk, Brian Clipp, Kurt Keutzer, Salvatore Candido, Matt Uyttendaele, Trevor Darrell",
-        "status": "Poster",
-        "track": "main",
-        "pid": "6763"
-    },
-    {
-        "title": "Scale-MAE: A Scale-Aware Masked Autoencoder for Multiscale Geospatial Representation Learning",
-        "session": "Recognition, segmentation, and shape analysis",
-        "author": "Colorado J Reed, Ritwik Gupta, Shufan Li, Sarah Brockman, Christopher Funk, Brian Clipp, Kurt Keutzer, Salvatore Candido, Matt Uyttendaele, Trevor Darrell",
         "status": "Oral",
         "track": "main",
         "pid": "6763"
@@ -14275,25 +13379,9 @@
         "title": "Scaling Data Generation in Vision-and-Language Navigation",
         "session": "Vision and language",
         "author": "Zun Wang, Jialu Li, Yicong Hong, Yi Wang, Qi Wu, Mohit Bansal, Stephen Gould, Hao Tan, Yu Qiao",
-        "status": "Poster",
-        "track": "main",
-        "pid": "4534"
-    },
-    {
-        "title": "Scaling Data Generation in Vision-and-Language Navigation",
-        "session": "Vision and language",
-        "author": "Zun Wang, Jialu Li, Yicong Hong, Yi Wang, Qi Wu, Mohit Bansal, Stephen Gould, Hao Tan, Yu Qiao",
         "status": "Oral",
         "track": "main",
         "pid": "4534"
-    },
-    {
-        "title": "ScanNet++: A High-Fidelity Dataset of 3D Indoor Scenes",
-        "session": "3D from multi-view and sensors 1",
-        "author": "Chandan Yeshwanth, Yueh-Cheng Liu, Matthias Nie\u00dfner, Angela Dai",
-        "status": "Oral",
-        "track": "main",
-        "pid": "9268"
     },
     {
         "title": "ScanNet++: A High-Fidelity Dataset of 3D Indoor Scenes",
@@ -14539,14 +13627,6 @@
         "title": "Self-Ordering Point Clouds",
         "session": "Self-, semi-, and unsupervised learning",
         "author": "Pengwan Yang, Cees G. M. Snoek, Yuki M. Asano",
-        "status": "Oral",
-        "track": "main",
-        "pid": "7483"
-    },
-    {
-        "title": "Self-Ordering Point Clouds",
-        "session": "Self-, semi-, and unsupervised learning",
-        "author": "Pengwan Yang, Cees G. M. Snoek, Yuki M. Asano",
         "status": "Poster",
         "track": "main",
         "pid": "7483"
@@ -14771,14 +13851,6 @@
         "title": "Sensitivity-Aware Visual Parameter-Efficient Fine-Tuning",
         "session": "Transfer, low-shot, and continual learning",
         "author": "Haoyu He, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang",
-        "status": "Poster",
-        "track": "main",
-        "pid": "2240"
-    },
-    {
-        "title": "Sensitivity-Aware Visual Parameter-Efficient Fine-Tuning",
-        "session": "Transfer, low-shot, and continual learning",
-        "author": "Haoyu He, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang",
         "status": "Oral",
         "track": "main",
         "pid": "2240"
@@ -14803,25 +13875,9 @@
         "title": "Set-level Guidance Attack: Boosting Adversarial Transferability of Vision-Language Pre-training Models",
         "session": "Adversarial attack and defense",
         "author": "Dong Lu, Zhiqiang Wang, Teng Wang, Weili Guan, Hongchang Gao, Feng Zheng",
-        "status": "Oral",
-        "track": "main",
-        "pid": "6667"
-    },
-    {
-        "title": "Set-level Guidance Attack: Boosting Adversarial Transferability of Vision-Language Pre-training Models",
-        "session": "Adversarial attack and defense",
-        "author": "Dong Lu, Zhiqiang Wang, Teng Wang, Weili Guan, Hongchang Gao, Feng Zheng",
         "status": "Poster",
         "track": "main",
         "pid": "6667"
-    },
-    {
-        "title": "Shape Analysis of Euclidean Curves under Frenet-Serret Framework",
-        "session": "Recognition, segmentation, and shape analysis",
-        "author": "Perrine Chassat, Juhyun Park, Nicolas Brunel",
-        "status": "Poster",
-        "track": "main",
-        "pid": "11087"
     },
     {
         "title": "Shape Analysis of Euclidean Curves under Frenet-Serret Framework",
@@ -14899,14 +13955,6 @@
         "title": "Sigmoid Loss for Language Image Pre-Training",
         "session": "Vision and language",
         "author": "Xiaohua Zhai, Basil Mustafa, Alexander Kolesnikov, Lucas Beyer",
-        "status": "Poster",
-        "track": "main",
-        "pid": "12388"
-    },
-    {
-        "title": "Sigmoid Loss for Language Image Pre-Training",
-        "session": "Vision and language",
-        "author": "Xiaohua Zhai, Basil Mustafa, Alexander Kolesnikov, Lucas Beyer",
         "status": "Oral",
         "track": "main",
         "pid": "12388"
@@ -14947,14 +13995,6 @@
         "title": "Similarity Min-Max: Zero-Shot Day-Night Domain Adaptation",
         "session": "Low-level vision and theory",
         "author": "Rundong Luo, Wenjing Wang, Wenhan Yang, Jiaying Liu",
-        "status": "Oral",
-        "track": "main",
-        "pid": "5714"
-    },
-    {
-        "title": "Similarity Min-Max: Zero-Shot Day-Night Domain Adaptation",
-        "session": "Low-level vision and theory",
-        "author": "Rundong Luo, Wenjing Wang, Wenhan Yang, Jiaying Liu",
         "status": "Poster",
         "track": "main",
         "pid": "5714"
@@ -14982,14 +14022,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "2457"
-    },
-    {
-        "title": "Simulating Fluids in Real-World Still Images",
-        "session": "Generative AI 2",
-        "author": "Siming Fan, Jingtan Piao, Chen Qian, Hongsheng Li, Kwan-Yee Lin",
-        "status": "Oral",
-        "track": "main",
-        "pid": "11051"
     },
     {
         "title": "Simulating Fluids in Real-World Still Images",
@@ -15123,14 +14155,6 @@
         "title": "SoDaCam: Software-defined Cameras via Single-Photon Imaging",
         "session": "Low-level vision and theory",
         "author": "Varun Sundar, Andrei Ardelean, Tristan Swedish, Claudio Brusschini, Edoardo Charbon, Mohit Gupta",
-        "status": "Oral",
-        "track": "main",
-        "pid": "7164"
-    },
-    {
-        "title": "SoDaCam: Software-defined Cameras via Single-Photon Imaging",
-        "session": "Low-level vision and theory",
-        "author": "Varun Sundar, Andrei Ardelean, Tristan Swedish, Claudio Brusschini, Edoardo Charbon, Mohit Gupta",
         "status": "Poster",
         "track": "main",
         "pid": "7164"
@@ -15182,14 +14206,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "5736"
-    },
-    {
-        "title": "Space-time Prompting for Video Class-incremental Learning",
-        "session": "Transfer, low-shot, and continual learning",
-        "author": "Yixuan Pei, Zhiwu Qing, Shiwei Zhang, Xiang Wang, Yingya Zhang, Deli Zhao, Xueming Qian",
-        "status": "Poster",
-        "track": "main",
-        "pid": "3536"
     },
     {
         "title": "Space-time Prompting for Video Class-incremental Learning",
@@ -15747,14 +14763,6 @@
         "title": "TIJO: Trigger Inversion with Joint Optimization for Defending Multimodal Backdoored Models",
         "session": "Adversarial attack and defense",
         "author": "Indranil Sur, Karan Sikka, Matthew Walmer, Kaushik Koneripalli, Anirban Roy, Xiao Lin, Ajay Divakaran, Susmit Jha",
-        "status": "Oral",
-        "track": "main",
-        "pid": "12330"
-    },
-    {
-        "title": "TIJO: Trigger Inversion with Joint Optimization for Defending Multimodal Backdoored Models",
-        "session": "Adversarial attack and defense",
-        "author": "Indranil Sur, Karan Sikka, Matthew Walmer, Kaushik Koneripalli, Anirban Roy, Xiao Lin, Ajay Divakaran, Susmit Jha",
         "status": "Poster",
         "track": "main",
         "pid": "12330"
@@ -15971,14 +14979,6 @@
         "title": "TexFusion: Synthesizing 3D Textures with Text-Guided Image Diffusion Models",
         "session": "Generative AI 1",
         "author": "Tianshi Cao, Karsten Kreis, Sanja Fidler, Nicholas Sharp, Kangxue Yin",
-        "status": "Poster",
-        "track": "main",
-        "pid": "11171"
-    },
-    {
-        "title": "TexFusion: Synthesizing 3D Textures with Text-Guided Image Diffusion Models",
-        "session": "Generative AI 1",
-        "author": "Tianshi Cao, Karsten Kreis, Sanja Fidler, Nicholas Sharp, Kangxue Yin",
         "status": "Oral",
         "track": "main",
         "pid": "11171"
@@ -16027,14 +15027,6 @@
         "title": "Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators",
         "session": "Generative AI 2",
         "author": "Levon Khachatryan, Andranik Movsisyan, Vahram Tadevosyan, Roberto Henschel, Zhangyang Wang, Shant Navasardyan, Humphrey Shi",
-        "status": "Oral",
-        "track": "main",
-        "pid": "11657"
-    },
-    {
-        "title": "Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators",
-        "session": "Generative AI 2",
-        "author": "Levon Khachatryan, Andranik Movsisyan, Vahram Tadevosyan, Roberto Henschel, Zhangyang Wang, Shant Navasardyan, Humphrey Shi",
         "status": "Poster",
         "track": "main",
         "pid": "11657"
@@ -16054,14 +15046,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "3290"
-    },
-    {
-        "title": "Texture Generation on 3D Meshes with Point-UV Diffusion",
-        "session": "Generative AI 1",
-        "author": "Xin Yu, Peng Dai, Wenbo Li, Lan Ma, Zhengzhe Liu, Xiaojuan Qi",
-        "status": "Poster",
-        "track": "main",
-        "pid": "4211"
     },
     {
         "title": "Texture Generation on 3D Meshes with Point-UV Diffusion",
@@ -16150,14 +15134,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "10154"
-    },
-    {
-        "title": "The Victim and The Beneficiary: Exploiting a Poisoned Model to Train a Clean Model on Poisoned Data",
-        "session": "Adversarial attack and defense",
-        "author": "Zixuan Zhu, Rui Wang, Cong Zou, Lihua Jing",
-        "status": "Oral",
-        "track": "main",
-        "pid": "4834"
     },
     {
         "title": "The Victim and The Beneficiary: Exploiting a Poisoned Model to Train a Clean Model on Poisoned Data",
@@ -16347,14 +15323,6 @@
         "title": "Towards Deeply Unified Depth-aware Panoptic Segmentation with Bi-directional Guidance Learning",
         "session": "Recognition, segmentation, and shape analysis",
         "author": "Junwen He, Yifan Wang, Lijun Wang, Huchuan Lu, Bin Luo, Jun-Yan He, Jin-Peng Lan, Yifeng Geng, Xuansong Xie",
-        "status": "Poster",
-        "track": "main",
-        "pid": "4976"
-    },
-    {
-        "title": "Towards Deeply Unified Depth-aware Panoptic Segmentation with Bi-directional Guidance Learning",
-        "session": "Recognition, segmentation, and shape analysis",
-        "author": "Junwen He, Yifan Wang, Lijun Wang, Huchuan Lu, Bin Luo, Jun-Yan He, Jin-Peng Lan, Yifeng Geng, Xuansong Xie",
         "status": "Oral",
         "track": "main",
         "pid": "4976"
@@ -16494,14 +15462,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "5912"
-    },
-    {
-        "title": "Towards Open-Vocabulary Video Instance Segmentation",
-        "session": "Recognition, segmentation, and shape analysis",
-        "author": "Haochen Wang, Cilin Yan, Shuai Wang, Xiaolong Jiang, Xu Tang, Yao Hu, Weidi Xie, Efstratios Gavves",
-        "status": "Poster",
-        "track": "main",
-        "pid": "6347"
     },
     {
         "title": "Towards Open-Vocabulary Video Instance Segmentation",
@@ -16659,14 +15619,6 @@
         "title": "Tracking Everything Everywhere All at Once",
         "session": "3D from multi-view and sensors 2",
         "author": "Qianqian Wang, Yen-Yu Chang, Ruojin Cai, Zhengqi Li, Bharath Hariharan, Aleksander Holynski, Noah Snavely",
-        "status": "Poster",
-        "track": "main",
-        "pid": "2206"
-    },
-    {
-        "title": "Tracking Everything Everywhere All at Once",
-        "session": "3D from multi-view and sensors 2",
-        "author": "Qianqian Wang, Yen-Yu Chang, Ruojin Cai, Zhengqi Li, Bharath Hariharan, Aleksander Holynski, Noah Snavely",
         "status": "Oral",
         "track": "main",
         "pid": "2206"
@@ -16779,14 +15731,6 @@
         "title": "Translating Images to Road Network: A Non-Autoregressive Sequence-to-Sequence Approach",
         "session": "3D from multi-view and sensors 1",
         "author": "Jiachen Lu, Renyuan Peng, Xinyue Cai, Hang Xu, Hongyang Li, Feng Wen, Wei Zhang, Li Zhang",
-        "status": "Oral",
-        "track": "main",
-        "pid": "2771"
-    },
-    {
-        "title": "Translating Images to Road Network: A Non-Autoregressive Sequence-to-Sequence Approach",
-        "session": "3D from multi-view and sensors 1",
-        "author": "Jiachen Lu, Renyuan Peng, Xinyue Cai, Hang Xu, Hongyang Li, Feng Wen, Wei Zhang, Li Zhang",
         "status": "Poster",
         "track": "main",
         "pid": "2771"
@@ -16814,14 +15758,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "6072"
-    },
-    {
-        "title": "Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields",
-        "session": "3D from multi-view and sensors 2",
-        "author": "Wenbo Hu, Yuling Wang, Lin Ma, Bangbang Yang, Lin Gao, Xiao Liu, Yuewen Ma",
-        "status": "Poster",
-        "track": "main",
-        "pid": "2330"
     },
     {
         "title": "Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields",
@@ -17075,14 +16011,6 @@
         "title": "UniDexGrasp++: Improving Dexterous Grasping Policy Learning via Geometry-Aware Curriculum and Iterative Generalist-Specialist Learning",
         "session": "Vision, Graphics, and Robotics",
         "author": "Weikang Wan, Haoran Geng, Yun Liu, Zikang Shan, Yaodong Yang, Li Yi, He Wang",
-        "status": "Oral",
-        "track": "main",
-        "pid": "4200"
-    },
-    {
-        "title": "UniDexGrasp++: Improving Dexterous Grasping Policy Learning via Geometry-Aware Curriculum and Iterative Generalist-Specialist Learning",
-        "session": "Vision, Graphics, and Robotics",
-        "author": "Weikang Wan, Haoran Geng, Yun Liu, Zikang Shan, Yaodong Yang, Li Yi, He Wang",
         "status": "Poster",
         "track": "main",
         "pid": "4200"
@@ -17275,25 +16203,9 @@
         "title": "Unmasked Teacher: Towards Training-Efficient Video Foundation Models",
         "session": "Machine learning and dataset",
         "author": "Kunchang Li, Yali Wang, Yizhuo Li, Yi Wang, Yinan He, Limin Wang, Yu Qiao",
-        "status": "Poster",
-        "track": "main",
-        "pid": "5109"
-    },
-    {
-        "title": "Unmasked Teacher: Towards Training-Efficient Video Foundation Models",
-        "session": "Machine learning and dataset",
-        "author": "Kunchang Li, Yali Wang, Yizhuo Li, Yi Wang, Yinan He, Limin Wang, Yu Qiao",
         "status": "Oral",
         "track": "main",
         "pid": "5109"
-    },
-    {
-        "title": "Unmasking Anomalies in Road-Scene Segmentation",
-        "session": "Recognition, segmentation, and shape analysis",
-        "author": "Shyam Nandan Rai, Fabio Cermelli, Dario Fontanel, Carlo Masone, Barbara Caputo",
-        "status": "Poster",
-        "track": "main",
-        "pid": "8953"
     },
     {
         "title": "Unmasking Anomalies in Road-Scene Segmentation",
@@ -17491,14 +16403,6 @@
         "title": "V3Det: Vast Vocabulary Visual Detection Dataset",
         "session": "Machine learning and dataset",
         "author": "Jiaqi Wang, Pan Zhang, Tao Chu, Yuhang Cao, Yujie Zhou, Tong Wu, Bin Wang, Conghui He, Dahua Lin",
-        "status": "Poster",
-        "track": "main",
-        "pid": "3738"
-    },
-    {
-        "title": "V3Det: Vast Vocabulary Visual Detection Dataset",
-        "session": "Machine learning and dataset",
-        "author": "Jiaqi Wang, Pan Zhang, Tao Chu, Yuhang Cao, Yujie Zhou, Tong Wu, Bin Wang, Conghui He, Dahua Lin",
         "status": "Oral",
         "track": "main",
         "pid": "3738"
@@ -17566,14 +16470,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "11423"
-    },
-    {
-        "title": "VQ3D: Learning a 3D-Aware Generative Model on ImageNet",
-        "session": "Generative AI 1",
-        "author": "Kyle Sargent, Jing Yu Koh, Han Zhang, Huiwen Chang, Charles Herrmann, Pratul Srinivasan, Jiajun Wu, Deqing Sun",
-        "status": "Poster",
-        "track": "main",
-        "pid": "11111"
     },
     {
         "title": "VQ3D: Learning a 3D-Aware Generative Model on ImageNet",
@@ -17795,14 +16691,6 @@
         "title": "Viewing Graph Solvability in Practice",
         "session": "Low-level vision and theory",
         "author": "Federica Arrigoni, Tomas Pajdla, Andrea Fusiello",
-        "status": "Oral",
-        "track": "main",
-        "pid": "1583"
-    },
-    {
-        "title": "Viewing Graph Solvability in Practice",
-        "session": "Low-level vision and theory",
-        "author": "Federica Arrigoni, Tomas Pajdla, Andrea Fusiello",
         "status": "Poster",
         "track": "main",
         "pid": "1583"
@@ -17814,14 +16702,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "10150"
-    },
-    {
-        "title": "ViperGPT: Visual Inference via Python Execution for Reasoning",
-        "session": "Transfer, low-shot, and continual learning",
-        "author": "D\u00eddac Sur\u00eds, Sachit Menon, Carl Vondrick",
-        "status": "Poster",
-        "track": "main",
-        "pid": "11390"
     },
     {
         "title": "ViperGPT: Visual Inference via Python Execution for Reasoning",
@@ -17854,14 +16734,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "10338"
-    },
-    {
-        "title": "Vision HGNN: An Image is More than a Graph of Nodes",
-        "session": "Machine learning and dataset",
-        "author": "Yan Han, Peihao Wang, Souvik Kundu, Ying Ding, Zhangyang Wang",
-        "status": "Poster",
-        "track": "main",
-        "pid": "7147"
     },
     {
         "title": "Vision HGNN: An Image is More than a Graph of Nodes",
@@ -18083,14 +16955,6 @@
         "title": "What does CLIP know about a red circle? Visual prompt engineering for VLMs",
         "session": "Vision and language",
         "author": "Aleksandar Shtedritski, Christian Rupprecht, Andrea Vedaldi",
-        "status": "Poster",
-        "track": "main",
-        "pid": "10759"
-    },
-    {
-        "title": "What does CLIP know about a red circle? Visual prompt engineering for VLMs",
-        "session": "Vision and language",
-        "author": "Aleksandar Shtedritski, Christian Rupprecht, Andrea Vedaldi",
         "status": "Oral",
         "track": "main",
         "pid": "10759"
@@ -18110,14 +16974,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "11187"
-    },
-    {
-        "title": "When Noisy Labels Meet Long Tail Dilemmas: A Representation Calibration Method",
-        "session": "Self-, semi-, and unsupervised learning",
-        "author": "Manyi Zhang, Xuyang Zhao, Jun Yao, Chun Yuan, Weiran Huang",
-        "status": "Oral",
-        "track": "main",
-        "pid": "6191"
     },
     {
         "title": "When Noisy Labels Meet Long Tail Dilemmas: A Representation Calibration Method",
@@ -18206,14 +17062,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "1489"
-    },
-    {
-        "title": "X-VoE: Measuring eXplanatory Violation of Expectation in Physical Events",
-        "session": "Privacy, Security, Fairness, Explainability and Datasets",
-        "author": "Bo Dai, Linge Wang, Baoxiong Jia, Zeyu Zhang, Song-Chun Zhu, Chi Zhang, Yixin Zhu",
-        "status": "Oral",
-        "track": "main",
-        "pid": "6288"
     },
     {
         "title": "X-VoE: Measuring eXplanatory Violation of Expectation in Physical Events",
@@ -18342,14 +17190,6 @@
         "status": "Poster",
         "track": "main",
         "pid": "6371"
-    },
-    {
-        "title": "Zolly: Zoom Focal Length Correctly for Perspective-Distorted Human Mesh Reconstruction",
-        "session": "Privacy, Security, Fairness, Explainability and Datasets",
-        "author": "Wenjia Wang, Yongtao Ge, Haiyi Mei, Zhongang Cai, Qingping Sun, Yanjun Wang, Chunhua Shen, Lei Yang, Taku Komura",
-        "status": "Oral",
-        "track": "main",
-        "pid": "2663"
     },
     {
         "title": "Zolly: Zoom Focal Length Correctly for Perspective-Distorted Human Mesh Reconstruction",
