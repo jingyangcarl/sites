@@ -1,0 +1,4610 @@
+[
+    {
+        "title": "3D Fragment Reassembly Using Integrated Template Guidance and Fracture-Region Matching",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Kang Zhang, Wuyi Yu, Mary Manhein, Warren Waggenspack, Xin Li",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "3D Hand Pose Estimation Using Randomized Decision Forest With Segmentation Index Points",
+        "session": "recognition and 3d computer vision i",
+        "author": "Peiyi Li, Haibin Ling, Xi Li, Chunyuan Liao",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "3D Object Reconstruction From Hand-Object Interactions",
+        "session": "recognition and 3d computer vision i",
+        "author": "Dimitrios Tzionas, Juergen Gall",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "3D Surface Profilometry Using Phase Shifting of De Bruijn Pattern",
+        "session": "recognition and 3d computer vision i",
+        "author": "Matea \u00d0onli\u0107, Tomislav Petkovi\u0107, Tomislav Pribani\u0107",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "3D Time-Lapse Reconstruction From Internet Photos",
+        "session": "3d vision",
+        "author": "Ricardo Martin-Brualla, David Gallup, Steven M. Seitz",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "3D-Assisted Feature Synthesis for Novel Views of an Object",
+        "session": "3d representations for recognition and localization",
+        "author": "Hao Su, Fan Wang, Eric Yi, Leonidas J. Guibas",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "A Collaborative Filtering Approach to Real-Time Hand Pose Estimation",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Chiho Choi, Ayan Sinha, Joon Hee Choi, Sujin Jang, Karthik Ramani",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "A Comprehensive Multi-Illuminant Dataset for Benchmarking of the Intrinsic Image Algorithms",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Shida Beigpour, Andreas Kolb, Sven Kunz",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "A Data-Driven Metric for Comprehensive Evaluation of Saliency Models",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Jia Li, Changqun Xia, Yafei Song, Shu Fang, Xiaowu Chen",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "A Deep Visual Correspondence Embedding Model for Stereo Matching Costs",
+        "session": "recognition and 3d computer vision i",
+        "author": "Zhuoyuan Chen, Xun Sun, Liang Wang, Yinan Yu, Chang Huang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "A Gaussian Process Latent Variable Model for BRDF Inference",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Stamatios Georgoulis, Vincent Vanweddingen, Marc Proesmans, Luc Van Gool",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "A Groupwise Multilinear Correspondence Optimization for 3D Faces",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Timo Bolkart, Stefanie Wuhrer",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "A Linear Generalized Camera Calibration From Three Intersecting Reference Planes",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Mai Nishimura, Shohei Nobuhara, Takashi Matsuyama, Shinya Shimizu, Kensaku Fujii",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "A Matrix Decomposition Perspective to Multiple Graph Matching",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Junchi Yan, Hongteng Xu, Hongyuan Zha, Xiaokang Yang, Huanxi Liu, Stephen Chu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "A Multiscale Variable-Grouping Framework for MRF Energy Minimization",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Omer Meir, Meirav Galun, Stav Yagev, Ronen Basri, Irad Yavneh",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "A Nonparametric Bayesian Approach Toward Stacked Convolutional Independent Component Analysis",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Sotirios P. Chatzis, Dimitrios Kosmopoulos",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "A Novel Representation of Parts for Accurate 3D Object Detection and Tracking in Monocular Images",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Alberto Crivellaro, Mahdi Rad, Yannick Verdie, Kwang Moo Yi, Pascal Fua, Vincent Lepetit",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "A Novel Sparsity Measure for Tensor Recovery",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Qian Zhao, Deyu Meng, Xu Kong, Qi Xie, Wenfei Cao, Yao Wang, Zongben Xu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "A Projection Free Method for Generalized Eigenvalue Problem With a Nonsmooth Regularizer",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Seong Jae Hwang, Maxwell D. Collins, Sathya N. Ravi, Vamsi K. Ithapu, Nagesh Adluru, Sterling C. Johnson, Vikas Singh",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "A Randomized Ensemble Approach to Industrial CT Segmentation",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Hyojin Kim, Jayaraman Jayaraman J. Thiagarajan, Peer-Timo Bremer",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "A Self-Paced Multiple-Instance Learning Framework for Co-Saliency Detection",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Dingwen Zhang, Deyu Meng, Chao Li, Lu Jiang, Qian Zhao, Junwei Han",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "A Spatio-Temporal Appearance Representation for Viceo-Based Pedestrian Re-Identification",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Kan Liu, Bingpeng Ma, Wei Zhang, Rui Huang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "A Supervised Low-Rank Method for Learning Invariant Subspaces",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Farzad Siyahjani, Ranya Almohsen, Sinan Sabri, Gianfranco Doretto",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "A Unified Multiplicative Framework for Attribute Learning",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Kongming Liang, Hong Chang, Shiguang Shan, Xilin Chen",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "A Versatile Learning-Based 3D Temporal Tracker: Scalable, Robust, Online",
+        "session": "recognition and 3d computer vision i",
+        "author": "David Joseph Tan, Federico Tombari, Slobodan Ilic, Nassir Navab",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "A Versatile Scene Model With Differentiable Visibility Applied to Generative Pose Estimation",
+        "session": "recognition and 3d computer vision i",
+        "author": "Helge Rhodin, Nadia Robertini, Christian Richardt, Hans-Peter Seidel, Christian Theobalt",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "A Wavefront Marching Method for Solving the Eikonal Equation on Cartesian Grids",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Brais Cancela, Marcos Ortega, Manuel G. Penedo",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Accurate Camera Calibration Robust to Defocus Using a Smartphone",
+        "session": "recognition and 3d computer vision i",
+        "author": "Hyowon Ha, Yunsu Bok, Kyungdon Joo, Jiyoung Jung, In So Kweon",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Action Detection by Implicit Intentional Motion Clustering",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Wei Chen, Jason J. Corso",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Action Localization in Videos Through Context Walk",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Khurram Soomro, Haroon Idrees, Mubarak Shah",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Action Recognition by Hierarchical Mid-Level Action Elements",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Tian Lan, Yuke Zhu, Amir Roshan Zamir, Silvio Savarese",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Actionness-Assisted Recognition of Actions",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Ye Luo, Loong-Fah Cheong, An Tran",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Actions and Attributes From Wholes and Parts",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Georgia Gkioxari, Ross Girshick, Jitendra Malik",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Active Object Localization With Deep Reinforcement Learning",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Juan C. Caicedo, Svetlana Lazebnik",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Active One-Shot Scan for Wide Depth Range Using a Light Field Projector Based on Coded Aperture",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Hiroshi Kawasaki, Satoshi Ono, Yuki Horita, Yuki Shiba, Ryo Furukawa, Shinsaku Hiura",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Active Transfer Learning With Zero-Shot Priors: Reusing Past Datasets for Future Tasks",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Efstratios Gavves, Thomas Mensink, Tatiana Tommasi, Cees G. M. Snoek, Tinne Tuytelaars",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Activity Auto-Completion: Predicting Human Activities From Partial Videos",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Zhen Xu, Laiyun Qing, Jun Miao",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Adaptive Dither Voting for Robust Spatial Verification",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Xiaomeng Wu, Kunio Kashino",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Adaptive Exponential Smoothing for Online Filtering of Pixel Prediction Maps",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Kang Dang, Jiong Yang, Junsong Yuan",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Adaptive Hashing for Fast Similarity Search",
+        "session": "recognition and 3d computer vision i",
+        "author": "Fatih Cakir, Stan Sclaroff",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Adaptive Spatial-Spectral Dictionary Learning for Hyperspectral Image Denoising",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Ying Fu, Antony Lam, Imari Sato, Yoichi Sato",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Adaptively Unified Semi-Supervised Dictionary Learning With Active Points",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Xiaobo Wang, Xiaojie Guo, Stan Z. Li",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Additive Nearest Neighbor Feature Maps",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Zhenzhen Wang, Xiao-Tong Yuan, Qingshan Liu, Shuicheng Yan",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Aggregating Local Deep Features for Image Retrieval",
+        "session": "recognition and 3d computer vision i",
+        "author": "Artem Babenko, Victor Lempitsky",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Airborne Three-Dimensional Cloud Tomography",
+        "session": "computational photography and image enhancement",
+        "author": "Aviad Levis, Yoav Y. Schechner, Amit Aides, Anthony B. Davis",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Aligning Books and Movies: Towards Story-Like Visual Explanations by Watching Movies and Reading Books",
+        "session": "vision and language",
+        "author": "Yukun Zhu, Ryan Kiros, Rich Zemel, Ruslan Salakhutdinov, Raquel Urtasun, Antonio Torralba, Sanja Fidler",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Alternating Co-Quantization for Cross-Modal Hashing",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Go Irie, Hiroyuki Arai, Yukinobu Taniguchi",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Amodal Completion and Size Constancy in Natural Scenes",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Abhishek Kar, Shubham Tulsiani, Joao Carreira, Jitendra Malik",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "An Accurate Iris Segmentation Framework Under Relaxed Imaging Constraints Using Total Variation Model",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Zijing Zhao, Kumar Ajay",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "An Adaptive Data Representation for Robust Point-Set Registration and Merging",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Dylan Campbell, Lars Petersson",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "An Efficient Minimal Solution for Multi-Camera Motion",
+        "session": "recognition and 3d computer vision i",
+        "author": "Jonathan Ventura, Clemens Arth, Vincent Lepetit",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "An Efficient Statistical Method for Image Noise Level Estimation",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Guangyong Chen, Fengyuan Zhu, Pheng Ann Heng",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "An Exploration of Parameter Redundancy in Deep Networks With Circulant Projections",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Yu Cheng, Felix X. Yu, Rogerio S. Feris, Sanjiv Kumar, Alok Choudhary, Shi-Fu Chang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "An MRF-Poselets Model for Detecting Highly Articulated Humans",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Duc Thanh Nguyen, Minh-Khoi Tran, Sai-Kit Yeung",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "An NMF Perspective on Binary Hashing",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Lopamudra Mukherjee, Sathya N. Ravi, Vamsi K. Ithapu, Tyler Holmes, Vikas Singh",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "As-Rigid-As-Possible Volumetric Shape-From-Template",
+        "session": "recognition and 3d computer vision i",
+        "author": "Shaifali Parashar, Daniel Pizarro, Adrien Bartoli, Toby Collins",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Ask Your Neurons: A Neural-Based Approach to Answering Questions About Images",
+        "session": "vision and language",
+        "author": "Mateusz Malinowski, Marcus Rohrbach, Mario Fritz",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "AttentionNet: Aggregating Weak Directions for Accurate Object Detection",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Donggeun Yoo, Sunggyun Park, Joon-Young Lee, Anthony S. Paek, In So Kweon",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Attribute-Graph: A Graph Based Approach to Image Ranking",
+        "session": "recognition and 3d computer vision i",
+        "author": "Nikita Prabhu, R. Venkatesh Babu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Attributed Grammars for Joint Estimation of Human Attributes, Part and Pose",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Seyoung Park, Song-Chun Zhu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Augmenting Strong Supervision Using Web Data for Fine-Grained Categorization",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Zhe Xu, Shaoli Huang, Ya Zhang, Dacheng Tao",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Automated Facial Trait Judgment and Election Outcome Prediction: Social Dimensions of Face",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Jungseock Joo, Francis F. Steen, Song-Chun Zhu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Automatic Concept Discovery From Parallel Text and Visual Corpora",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Chen Sun, Chuang Gan, Ram Nevatia",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Automatic Thumbnail Generation Based on Visual Representativeness and Foreground Recognizability",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Jingwei Huang, Huarong Chen, Bin Wang, Stephen Lin",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Bayesian Model Adaptation for Crowd Counts",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Bo Liu, Nuno Vasconcelos",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Bayesian Non-Parametric Inference for Manifold Based MoCap Representation",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Fabrizio Natola, Valsamis Ntouskos, Marta Sanzari, Fiora Pirri",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Beyond Covariance: Feature Representation With Nonlinear Kernel Matrices",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Lei Wang, Jianjia Zhang, Luping Zhou, Chang Tang, Wanqing Li",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Beyond Gauss: Image-Set Matching on the Riemannian Manifold of PDFs",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Mehrtash Harandi, Mathieu Salzmann, Mahsa Baktashmotlagh",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Beyond Tree Structure Models: A New Occlusion Aware Graphical Model for Human Pose Estimation",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Lianrui Fu, Junge Zhang, Kaiqi Huang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Beyond White: Ground Truth Colors for Color Constancy Correction",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Dongliang Cheng, Brian Price, Scott Cohen, Michael S. Brown",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Bi-Shifting Auto-Encoder for Unsupervised Domain Adaptation",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Meina Kan, Shiguang Shan, Xilin Chen",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Bilinear CNN Models for Fine-Grained Visual Recognition",
+        "session": "learning representations and attributes",
+        "author": "Tsung-Yu Lin, Aruni RoyChowdhury, Subhransu Maji",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Blur-Aware Disparity Estimation From Defocus Stereo Images",
+        "session": "recognition and 3d computer vision i",
+        "author": "Ching-Hui Chen, Hui Zhou, Timo Ahonen",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "BodyPrint: Pose Invariant 3D Shape Matching of Human Bodies",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Jiangping Wang, Kai Ma, Vivek Kumar Singh, Thomas Huang, Terrence Chen",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Boosting Object Proposals: From Pascal to COCO",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Jordi Pont-Tuset, Luc Van Gool",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Box Aggregation for Proposal Decimation: Last Mile of Object Detection",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Shu Liu, Cewu Lu, Jiaya Jia",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Jifeng Dai, Kaiming He, Jian Sun",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "BubbLeNet: Foveated Imaging for Visual Discovery",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Kevin Matzen, Noah Snavely",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Building Dynamic Cloud Maps From the Ground Up",
+        "session": "recognition and 3d computer vision i",
+        "author": "Calvin Murdock, Nathan Jacobs, Robert Pless",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "COUNT Forest: CO-Voting Uncertain Number of Targets Using Random Forest for Crowd Density Estimation",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Viet-Quoc Pham, Tatsuo Kozakaya, Osamu Yamaguchi, Ryuzo Okada",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "CV-HAZOP: Introducing Test Data Validation for Computer Vision",
+        "session": "registration, alignment and stereo",
+        "author": "Oliver Zendel, Markus Murschitz, Martin Humenberger, Wolfgang Herzner",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Camera Pose Voting for Large-Scale Image-Based Localization",
+        "session": "3d representations for recognition and localization",
+        "author": "Bernhard Zeisl, Torsten Sattler, Marc Pollefeys",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Car That Knows Before You Do: Anticipating Maneuvers via Learning Temporal Driving Models",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Ashesh Jain, Hema S. Koppula, Bharad Raghavan, Shane Soh, Ashutosh Saxena",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Cascaded Sparse Spatial Bins for Efficient and Effective Generic Object Detection",
+        "session": "recognition and 3d computer vision i",
+        "author": "David Novotny, Ji\u0159\u00ed Matas",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Category-Blind Human Action Recognition: A Practical Recognition System",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Wenbo Li, Longyin Wen, Mooi Choo Chuah, Siwei Lyu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Class-Specific Image Deblurring",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Saeed Anwar, Cong Phuoc Huynh, Fatih Porikli",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Classical Scaling Revisited",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Gil Shamai, Yonathan Aflalo, Michael Zibulevsky, Ron Kimmel",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Cluster-Based Point Set Saliency",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Flora Ponjou Tasse, Jiri Kosinka, Neil Dodgson",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Co-Interest Person Detection From Multiple Wearable Camera Videos",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Yuewei Lin, Kareem Abdelfatah, Youjie Zhou, Xiaochuan Fan, Hongkai Yu, Hui Qian, Song Wang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Common Subspace for Model and Similarity: Phrase Learning for Caption Generation From Images",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Yoshitaka Ushiku, Masataka Yamaguchi, Yusuke Mukuta, Tatsuya Harada",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Complementary Sets of Shutter Sequences for Motion Deblurring",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Hae-Gon Jeon, Joon-Young Lee, Yudeog Han, Seon Joo Kim, In So Kweon",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Component-Wise Modeling of Articulated Objects",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Valsamis Ntouskos, Marta Sanzari, Bruno Cafaro, Federico Nardi, Fabrizio Natola, Fiora Pirri, Manuel Ruiz",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Compositional Hierarchical Representation of Shape Manifolds for Classification of Non-Manifold Shapes",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Mete Ozay, Umit Rusen Aktas, Jeremy L. Wyatt, Ale\u0161 Leonardis",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Compression Artifacts Reduction by a Deep Convolutional Network",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Chao Dong, Yubin Deng, Chen Change Loy, Xiaoou Tang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Conditional Convolutional Neural Network for Modality-Aware Face Recognition",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Chao Xiong, Xiaowei Zhao, Danhang Tang, Karlekar Jayashree, Shuicheng Yan, Tae-Kyun Kim",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Conditional High-Order Boltzmann Machine: A Supervised Learning Model for Relation Learning",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Yan Huang, Wei Wang, Liang Wang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Conditional Random Fields as Recurrent Neural Networks",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Shuai Zheng, Sadeep Jayasumana, Bernardino Romera-Paredes, Vibhav Vineet, Zhizhong Su, Dalong Du, Chang Huang, Philip H. S. Torr",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Conditioned Regression Models for Non-Blind Single Image Super-Resolution",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Gernot Riegler, Samuel Schulter, Matthias R\u00fcther, Horst Bischof",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Confidence Preserving Machine for Facial Action Unit Detection",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Jiabei Zeng, Wen-Sheng Chu, Fernando De la Torre, Jeffrey F. Cohn, Zhang Xiong",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Conformal and Low-Rank Sparse Representation for Image Restoration",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Jianwei Li, Xiaowu Chen, Dongqing Zou, Bo Gao, Wei Teng",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Constrained Convolutional Neural Networks for Weakly Supervised Segmentation",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Deepak Pathak, Philipp Kr\u00e4henb\u00fchl, Trevor Darrell",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Context Aware Active Learning of Activity Recognition Models",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Mahmudul Hasan, Amit K. Roy-Chowdhury",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Context-Aware CNNs for Person Head Detection",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Tuan-Hung Vu, Anton Osokin, Ivan Laptev",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Context-Guided Diffusion for Label Propagation on Graphs",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Kwang In Kim, James Tompkin, Hanspeter Pfister, Christian Theobalt",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Contextual Action Recognition With R*CNN",
+        "session": "recognition and 3d computer vision i",
+        "author": "Georgia Gkioxari, Ross Girshick, Jitendra Malik",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Continuous Pose Estimation With a Spatial Ensemble of Fisher Regressors",
+        "session": "recognition and 3d computer vision i",
+        "author": "Michele Fenzi, Laura Leal-Taix\u00e9, J\u00f6rn Ostermann, Tinne Tuytelaars",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Contour Box: Rejecting Object Proposals Without Explicit Closed Contours",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Cewu Lu, Shu Liu, Jiaya Jia, Chi-Keung Tang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Contour Detection and Characterization for Asynchronous Event Sensors",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Francisco Barranco, Ching L. Teo, Cornelia Ferm\u00fcller, Yiannis Aloimonos",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Contour Flow: Middle-Level Motion Estimation by Combining Motion Segmentation and Contour Alignment",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Huijun Di, Qingxuan Shi, Feng Lv, Ming Qin, Yao Lu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Contour Guided Hierarchical Model for Shape Matching",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Yuanqi Su, Yuehu Liu, Bonan Cuan, Nanning Zheng",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Contractive Rectifier Networks for Nonlinear Maximum Margin Classification",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Senjian An, Munawar Hayat, Salman H. Khan, Mohammed Bennamoun, Farid Boussaid, Ferdous Sohel",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Convex Optimization With Abstract Linear Operators",
+        "session": "plenary session",
+        "author": "Steven Diamond, Stephen Boyd",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Convolutional Channel Features",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Bin Yang, Junjie Yan, Zhen Lei, Stan Z. Li",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Convolutional Color Constancy",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Jonathan T. Barron",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Convolutional Sparse Coding for Image Super-Resolution",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Shuhang Gu, Wangmeng Zuo, Qi Xie, Deyu Meng, Xiangchu Feng, Lei Zhang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Cross-Domain Image Retrieval With a Dual Attribute-Aware Ranking Network",
+        "session": "recognition and 3d computer vision i",
+        "author": "Junshi Huang, Rogerio S. Feris, Qiang Chen, Shuicheng Yan",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Cutting Edge: Soft Correspondences in Multimodal Scene Parsing",
+        "session": "recognition and 3d computer vision i",
+        "author": "Sarah Taghavi Namin, Mohammad Najafi, Mathieu Salzmann, Lars Petersson",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Deep Colorization",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Zezhou Cheng, Qingxiong Yang, Bin Sheng",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Deep Fried Convnets",
+        "session": "statistical methods and learning",
+        "author": "Zichao Yang, Marcin Moczulski, Misha Denil, Nando de Freitas, Alex Smola, Le Song, Ziyu Wang",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Deep Learning Face Attributes in the Wild",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Ziwei Liu, Ping Luo, Xiaogang Wang, Xiaoou Tang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Deep Learning Strong Parts for Pedestrian Detection",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Yonglong Tian, Ping Luo, Xiaogang Wang, Xiaoou Tang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Deep Multi-Patch Aggregation Network for Image Style, Aesthetics, and Quality Estimation",
+        "session": "recognition and 3d computer vision i",
+        "author": "Xin Lu, Zhe Lin, Xiaohui Shen, Radom\u00edr M\u011bch, James Z. Wang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Deep Networks for Image Super-Resolution With Sparse Prior",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Zhaowen Wang, Ding Liu, Jianchao Yang, Wei Han, Thomas Huang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Deep Neural Decision Forests",
+        "session": "statistical methods and learning",
+        "author": "Peter Kontschieder, Madalina Fiterau, Antonio Criminisi, Samuel Rota Bul\u00f2",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "DeepBox: Learning Objectness With Convolutional Networks",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Weicheng Kuo, Bharath Hariharan, Jitendra Malik",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Chenyi Chen, Ari Seff, Alain Kornhauser, Jianxiong Xiao",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "DeepProposal: Hunting Objects by Cascading Deep Convolutional Layers",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Amir Ghodrati, Ali Diba, Marco Pedersoli, Tinne Tuytelaars, Luc Van Gool",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Deformable 3D Fusion: From Partial Dynamic 3D Observations to Complete 4D Models",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Weipeng Xu, Mathieu Salzmann, Yongtian Wang, Yue Liu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification",
+        "session": "recognition and 3d computer vision i",
+        "author": "Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Dense Continuous-Time Tracking and Mapping With Rolling Shutter RGB-D Cameras",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Christian Kerl, J\u00f6rg St\u00fcckler, Daniel Cremers",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Dense Image Registration and Deformable Surface Reconstruction in Presence of Occlusions and Minimal Texture",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Dat Tien Ngo, Sanghyuk Park, Anne Jorstad, Alberto Crivellaro, Chang D. Yoo, Pascal Fua",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Dense Optical Flow Prediction From a Static Image",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Jacob Walker, Abhinav Gupta, Martial Hebert",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Dense Semantic Correspondence Where Every Pixel is a Classifier",
+        "session": "motion and correspondence",
+        "author": "Hilton Bristow, Jack Valmadre, Simon Lucey",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Depth Map Estimation and Colorization of Anaglyph Images Using Local Color Prior and Reverse Intensity Distribution",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Williem, Ramesh Raskar, In Kyu Park",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Depth Recovery From Light Field Using Focal Stack Symmetry",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Haiting Lin, Can Chen, Sing Bing Kang, Jingyi Yu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Depth Selective Camera: A Direct, On-Chip, Programmable Technique for Depth Selectivity in Photography",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Ryuichi Tadano, Adithya Kumar Pediredla, Ashok Veeraraghavan",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Depth-Based Hand Pose Estimation: Data, Methods, and Challenges",
+        "session": "optimization, segmentation, and recognition",
+        "author": "James S. Supan\u010di\u010d III, Gr\u00e9gory Rogez, Yi Yang, Jamie Shotton, Deva Ramanan",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Describing Videos by Exploiting Temporal Structure",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Li Yao, Atousa Torabi, Kyunghyun Cho, Nicolas Ballas, Christopher Pal, Hugo Larochelle, Aaron Courville",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Detailed Full-Body Reconstructions of Moving People From Monocular RGB-D Sequences",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Federica Bogo, Michael J. Black, Matthew Loper, Javier Romero",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Detection and Segmentation of 2D Curved Reflection Symmetric Structures",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Ching L. Teo, Cornelia Ferm\u00fcller, Yiannis Aloimonos",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Differential Recurrent Neural Networks for Action Recognition",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Vivek Veeriah, Naifan Zhuang, Guo-Jun Qi",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Direct Intrinsics: Learning Albedo-Shading Decomposition by Convolutional Regression",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Takuya Narihira, Michael Maire, Stella X. Yu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Direct, Dense, and Deformable: Template-Based Non-Rigid 3D Reconstruction From RGB Video",
+        "session": "recognition and 3d computer vision i",
+        "author": "Rui Yu, Chris Russell, Neill D. F. Campbell, Lourdes Agapito",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Discovering the Spatial Extent of Relative Attributes",
+        "session": "learning representations and attributes",
+        "author": "Fanyi Xiao, Yong Jae Lee",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Discrete Tabu Search for Graph Matching",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Kamil Adamczewski, Yumin Suh, Kyoung Mu Lee",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Discriminative Learning of Deep Convolutional Feature Point Descriptors",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Edgar Simo-Serra, Eduard Trulls, Luis Ferraz, Iasonas Kokkinos, Pascal Fua, Francesc Moreno-Noguer",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Discriminative Low-Rank Tracking",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Yao Sui, Yafei Tang, Li Zhang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Discriminative Pose-Free Descriptors for Face and Object Matching",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Soubhik Sanyal, Sivaram Prasad Mudunuri, Soma Biswas",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Domain Generalization for Object Recognition With Multi-Task Autoencoders",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Muhammad Ghifary, W. Bastiaan Kleijn, Mengjie Zhang, David Balduzzi",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Dual-Feature Warping-Based Motion Model Estimation",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Shiwei Li, Lu Yuan, Jian Sun, Long Quan",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Dynamic Texture Recognition via Orthogonal Tensor Dictionary Learning",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Yuhui Quan, Yan Huang, Hui Ji",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Efficient Classifier Training to Minimize False Merges in Electron Microscopy Segmentation",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Toufiq Parag, Dan C. Ciresan, Alessandro Giusti",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Efficient Decomposition of Image and Mesh Graphs by Lifted Multicuts",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Margret Keuper, Evgeny Levinkov, Nicolas Bonneel, Guillaume Lavou\u00e9, Thomas Brox, Bj\u00f6rn Andres",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Efficient PSD Constrained Asymmetric Metric Learning for Person Re-Identification",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Shengcai Liao, Stan Z. Li",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Efficient Solution to the Epipolar Geometry for Radially Distorted Cameras",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Zuzana Kukelova, Jan Heller, Martin Bujnak, Andrew Fitzgibbon, Tomas Pajdla",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Efficient Video Segmentation Using Parametric Graph Partitioning",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Chen-Ping Yu, Hieu Le, Gregory Zelinsky, Dimitris Samaras",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Enhancing Road Maps by Parsing Aerial Images Around the World",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Gell\u00e9rt M\u00e1ttyus, Shenlong Wang, Sanja Fidler, Raquel Urtasun",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Entropy Minimization for Convex Relaxation Approaches",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Mohamed Souiai, Martin R. Oswald, Youngwook Kee, Junmo Kim, Marc Pollefeys, Daniel Cremers",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Entropy-Based Latent Structured Output Prediction",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Diane Bouchacourt, Sebastian Nowozin, M. Pawan Kumar",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Example-Based Modeling of Facial Texture From Deficient Data",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Arnaud Dessein, William A. P. Smith, Richard C. Wilson, Edwin R. Hancock",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Exploiting High Level Scene Cues in Stereo Reconstruction",
+        "session": "recognition and 3d computer vision i",
+        "author": "Simon Hadfield, Richard Bowden",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Exploiting Object Similarity in 3D Reconstruction",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Chen Zhou, Fatma G\u00fcney, Yizhou Wang, Andreas Geiger",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Exploring Causal Relationships in Visual Object Tracking",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Karel Lebeda, Simon Hadfield, Richard Bowden",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Extended Depth of Field Catadioptric Imaging Using Focal Sweep",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Ryunosuke Yokoya, Shree K. Nayar",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "External Patch Prior Guided Internal Clustering for Image Denoising",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Fei Chen, Lei Zhang, Huimin Yu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Extraction of Virtual Baselines From Distorted Document Images Using Curvilinear Projection",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Gaofeng Meng, Zuming Huang, Yonghong Song, Shiming Xiang, Chunhong Pan",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "FASText: Efficient Unconstrained Scene Text Detector",
+        "session": "recognition and 3d computer vision i",
+        "author": "Michal Bu\u0161ta, Luk\u00e1\u0161 Neumann, Ji\u0159\u00ed Matas",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Face Flow",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Patrick Snape, Anastasios Roussos, Yannis Panagakis, Stefanos Zafeiriou",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "FaceDirector: Continuous Control of Facial Performance in Video",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Charles Malleson, Jean-Charles Bazin, Oliver Wang, Derek Bradley, Thabo Beeler, Adrian Hilton, Alexander Sorkine-Hornung",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Fast Orthogonal Projection Based on Kronecker Product",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Xu Zhang, Felix X. Yu, Ruiqi Guo, Sanjiv Kumar, Shengjin Wang, Shi-Fu Chang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Fast R-CNN",
+        "session": "learning representations and attributes",
+        "author": "Ross Girshick",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Fast and Accurate Head Pose Estimation via Random Projection Forests",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Donghoon Lee, Ming-Hsuan Yang, Songhwai Oh",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Fast and Effective L0 Gradient Minimization by Region Fusion",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Rang M. H. Nguyen, Michael S. Brown",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Fill and Transfer: A Simple Physics-Based Approach for Containability Reasoning",
+        "session": "recognition and 3d computer vision i",
+        "author": "Lap-Fai Yu, Noah Duncan, Sai-Kit Yeung",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Fine-Grained Change Detection of Misaligned Scenes With Varied Illuminations",
+        "session": "recognition and 3d computer vision i",
+        "author": "Wei Feng, Fei-Peng Tian, Qian Zhang, Nan Zhang, Liang Wan, Jizhou Sun",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Flickr30k Entities: Collecting Region-to-Phrase Correspondences for Richer Image-to-Sentence Models",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Bryan A. Plummer, Liwei Wang, Chris M. Cervantes, Juan C. Caicedo, Julia Hockenmaier, Svetlana Lazebnik",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Flow Fields: Dense Correspondence Fields for Highly Accurate Large Displacement Optical Flow Estimation",
+        "session": "motion and correspondence",
+        "author": "Christian Bailer, Bertram Taetz, Didier Stricker",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "FlowNet: Learning Optical Flow With Convolutional Networks",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Alexey Dosovitskiy, Philipp Fischer, Eddy Ilg, Philip H\u00e4usser, Caner Haz\u0131rba\u015f, Vladimir Golkov, Patrick van der Smagt, Daniel Cremers, Thomas Brox",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Flowing ConvNets for Human Pose Estimation in Videos",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Tomas Pfister, James Charles, Andrew Zisserman",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "FollowMe: Efficient Online Min-Cost Flow Tracking With Bounded Memory and Computation",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Philip Lenz, Andreas Geiger, Raquel Urtasun",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Frequency-Based Environment Matting by Compressive Sensing",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Yiming Qian, Minglun Gong, Yee-Hong Yang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "From Emotions to Action Units With Hidden and Semi-Hidden-Task Learning",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Adria Ruiz, Joost Van de Weijer, Xavier Binefa",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "From Facial Parts Responses to Face Detection: A Deep Learning Approach",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Shuo Yang, Ping Luo, Chen-Change Loy, Xiaoou Tang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Fully Connected Guided Image Filtering",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Longquan Dai, Mengke Yuan, Feihu Zhang, Xiaopeng Zhang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Fully Connected Object Proposals for Video Segmentation",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Federico Perazzi, Oliver Wang, Markus Gross, Alexander Sorkine-Hornung",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "General Dynamic Scene Reconstruction From Multiple View Video",
+        "session": "recognition and 3d computer vision i",
+        "author": "Armin Mustafa, Hansung Kim, Jean-Yves Guillemaut, Adrian Hilton",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Generic Promotion of Diffusion-Based Salient Object Detection",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Peng Jiang, Nuno Vasconcelos, Jingliang Peng",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Geometry-Aware Deep Transform",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Jiaji Huang, Qiang Qiu, Robert Calderbank, Guillermo Sapiro",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Global Structure-From-Motion by Similarity Averaging",
+        "session": "recognition and 3d computer vision i",
+        "author": "Zhaopeng Cui, Ping Tan",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Global, Dense Multiscale Reconstruction for a Billion Points",
+        "session": "3d vision",
+        "author": "Benjamin Ummenhofer, Thomas Brox",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Globally Optimal 2D-3D Registration From Points or Lines Without Correspondences",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Mark Brown, David Windridge, Jean-Yves Guillemaut",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Group Membership Prediction",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Ziming Zhang, Yuting Chen, Venkatesh Saligrama",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Guaranteed Outlier Removal for Rotation Search",
+        "session": "recognition and 3d computer vision ii",
+        "author": "\u00c1lvaro Parra Bustos, Tat-Jun Chin",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Guiding the Long-Short Term Memory Model for Image Caption Generation",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Xu Jia, Efstratios Gavves, Basura Fernando, Tinne Tuytelaars",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "HARF: Hierarchy-Associated Rich Features for Salient Object Detection",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Wenbin Zou, Nikos Komodakis",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "HD-CNN: Hierarchical Deep Convolutional Neural Networks for Large Scale Visual Recognition",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Zhicheng Yan, Hao Zhang, Robinson Piramuthu, Vignesh Jagadeesh, Dennis DeCoste, Wei Di, Yizhou Yu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "HICO: A Benchmark for Recognizing Human-Object Interactions in Images",
+        "session": "recognition and 3d computer vision i",
+        "author": "Yu-Wei Chao, Zhan Wang, Yugeng He, Jiaxuan Wang, Jia Deng",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Harvesting Discriminative Meta Objects With Deep CNN Features for Scene Classification",
+        "session": "recognition and 3d computer vision i",
+        "author": "Ruobing Wu, Baoyuan Wang, Wenping Wang, Yizhou Yu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Hierarchical Convolutional Features for Visual Tracking",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Chao Ma, Jia-Bin Huang, Xiaokang Yang, Ming-Hsuan Yang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Hierarchical Higher-Order Regression Forest Fields: An Application to 3D Indoor Scene Labelling",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Trung T. Pham, Ian Reid, Yasir Latif, Stephen Gould",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "High Quality Structure From Small Motion for Rolling Shutter Cameras",
+        "session": "recognition and 3d computer vision i",
+        "author": "Sunghoon Im, Hyowon Ha, Gyeongmin Choe, Hae-Gon Jeon, Kyungdon Joo, In So Kweon",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "High-for-Low and Low-for-High: Efficient Boundary Detection From Deep Object Features and its Applications to High-Level Vision",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Gedas Bertasius, Jianbo Shi, Lorenzo Torresani",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Higher-Order CRF Structural Segmentation of 3D Reconstructed Surfaces",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Jingbo Liu, Jinglu Wang, Tian Fang, Chiew-Lan Tai, Long Quan",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Higher-Order Inference for Multi-Class Log-Supermodular Models",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Jian Zhang, Josip Djolonga, Andreas Krause",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Highly-Expressive Spaces of Well-Behaved Transformations: Keeping It Simple",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Oren Freifeld, S\u00f8ren Hauberg, Kayhan Batmanghelich, John W. Fisher III",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Holistically-Nested Edge Detection",
+        "session": "segmentation, edges and saliency",
+        "author": "Saining Xie, Zhuowen Tu",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Hot or Not: Exploring Correlations Between Appearance and Temperature",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Daniel Glasner, Pascal Fua, Todd Zickler, Lihi Zelnik-Manor",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Human Action Recognition Using Factorized Spatio-Temporal Convolutional Networks",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Lin Sun, Kui Jia, Dit-Yan Yeung, Bertram E. Shi",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Human Parsing With Contextualized Convolutional Neural Network",
+        "session": "segmentation, edges and saliency",
+        "author": "Xiaodan Liang, Chunyan Xu, Xiaohui Shen, Jianchao Yang, Si Liu, Jinhui Tang, Liang Lin, Shuicheng Yan",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Human Pose Estimation in Videos",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Dong Zhang, Mubarak Shah",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Hyperpoints and Fine Vocabularies for Large-Scale Location Recognition",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Torsten Sattler, Michal Havlena, Filip Radenovi\u0107, Konrad Schindler, Marc Pollefeys",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Hyperspectral Compressive Sensing Using Manifold-Structured Sparsity Prior",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Lei Zhang, Wei Wei, Yanning Zhang, Fei Li, Chunhua Shen, Qinfeng Shi",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Hyperspectral Super-Resolution by Coupled Spectral Unmixing",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Charis Lanaras, Emmanuel Baltsavias, Konrad Schindler",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Illumination Robust Color Naming via Label Propagation",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Yuanliu liu, Zejian Yuan, Badong Chen, Jianru Xue, Nanning Zheng",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Im2Calories: Towards an Automated Mobile Vision Food Diary",
+        "session": "recognition and 3d computer vision i",
+        "author": "Austin Meyers, Nick Johnston, Vivek Rathod, Anoop Korattikara, Alex Gorban, Nathan Silberman, Sergio Guadarrama, George Papandreou, Jonathan Huang, Kevin P. Murphy",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Image Matting With KL-Divergence Based Sparse Sampling",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Levent Karacan, Aykut Erdem, Erkut Erdem",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Improving Ferns Ensembles by Sparsifying and Quantising Posterior Probabilities",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Antonio L. Rodriguez, Vitor Sequeira",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Improving Image Classification With Location Context",
+        "session": "recognition and 3d computer vision i",
+        "author": "Kevin Tang, Manohar Paluri, Li Fei-Fei, Rob Fergus, Lubomir Bourdev",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Improving Image Restoration With Soft-Rounding",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Xing Mei, Honggang Qi, Bao-Gang Hu, Siwei Lyu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Inferring M-Best Diverse Labelings in a Single One",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Alexander Kirillov, Bogdan Savchynskyy, Dmitrij Schlesinger, Dmitry Vetrov, Carsten Rother",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Infinite Feature Selection",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Giorgio Roffo, Simone Melzi, Marco Cristani",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Integrating Dashcam Views Through Inter-Video Mapping",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Hsin-I Chen, Yi-Ling Chen, Wei-Tse Lee, Fan Wang, Bing-Yu Chen",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Interactive Visual Hull Refinement for Specular and Transparent Object Surface Reconstruction",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Xinxin Zuo, Chao Du, Sen Wang, Jiangbin Zheng, Ruigang Yang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Interpolation on the Manifold of K Component GMMs",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Hyunwoo J. Kim, Nagesh Adluru, Monami Banerjee, Baba C. Vemuri, Vikas Singh",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Intrinsic Decomposition of Image Sequences From Local Temporal Variations",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Pierre-Yves Laffont, Jean-Charles Bazin",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Intrinsic Depth: Improving Depth Transfer With Intrinsic Images",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Naejin Kong, Michael J. Black",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Intrinsic Scene Decomposition From RGB-D images",
+        "session": "recognition and 3d computer vision i",
+        "author": "Mohammed Hachama, Bernard Ghanem, Peter Wonka",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Introducing Geometry in Active Learning for Image Segmentation",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Ksenia Konyushkova, Raphael Sznitman, Pascal Fua",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Joint Camera Clustering and Surface Segmentation for Large-Scale Multi-View Stereo",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Runze Zhang, Shiwei Li, Tian Fang, Siyu Zhu, Long Quan",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Joint Fine-Tuning in Deep Neural Networks for Facial Expression Recognition",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Heechul Jung, Sihaeng Lee, Junho Yim, Sunjeong Park, Junmo Kim",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Joint Object and Part Segmentation Using Deep Learned Potentials",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Peng Wang, Xiaohui Shen, Zhe Lin, Scott Cohen, Brian Price, Alan L. Yuille",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Joint Optimization of Segmentation and Color Clustering",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Ekaterina Lobacheva, Olga Veksler, Yuri Boykov",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Joint Probabilistic Data Association Revisited",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Seyed Hamid Rezatofighi, Anton Milan, Zhen Zhang, Qinfeng Shi, Anthony Dick, Ian Reid",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Just Noticeable Differences in Visual Attributes",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Aron Yu, Kristen Grauman",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "LEWIS: Latent Embeddings for Word Images and their Semantics",
+        "session": "recognition and 3d computer vision i",
+        "author": "Albert Gordo, Jon Almaz\u00e1n, Naila Murray, Florent Perronin",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Large Displacement 3D Scene Flow With Occlusion Reasoning",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Andrei Zanfir, Cristian Sminchisescu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Analysis-by-Synthesis for 6D Pose Estimation in RGB-D Images",
+        "session": "recognition and 3d computer vision i",
+        "author": "Alexander Krull, Eric Brachmann, Frank Michel, Michael Ying Yang, Stefan Gumhold, Carsten Rother",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Binary Codes for Maximum Inner Product Search",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Fumin Shen, Wei Liu, Shaoting Zhang, Yang Yang, Heng Tao Shen",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Common Sense Through Visual Abstraction",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Ramakrishna Vedantam, Xiao Lin, Tanmay Batra, C. Lawrence Zitnick, Devi Parikh",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Complexity-Aware Cascades for Deep Pedestrian Detection",
+        "session": "vision and people",
+        "author": "Zhaowei Cai, Mohammad Saberian, Nuno Vasconcelos",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Concept Embeddings With Combined Human-Machine Expertise",
+        "session": "recognition and 3d computer vision i",
+        "author": "Michael Wilber, Iljung S. Kwak, David Kriegman, Serge Belongie",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Data-Driven Reflectance Priors for Intrinsic Image Decomposition",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Tinghui Zhou, Philipp Kr\u00e4henb\u00fchl, Alexei A. Efros",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Deconvolution Network for Semantic Segmentation",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Hyeonwoo Noh, Seunghoon Hong, Bohyung Han",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Deep Object Detectors From 3D Models",
+        "session": "recognition and 3d computer vision i",
+        "author": "Xingchao Peng, Baochen Sun, Karim Ali, Kate Saenko",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Deep Representation With Large-Scale Attributes",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Wanli Ouyang, Hongyang Li, Xingyu Zeng, Xiaogang Wang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Discriminative Reconstructions for Unsupervised Outlier Removal",
+        "session": "statistical methods and learning",
+        "author": "Yan Xia, Xudong Cao, Fang Wen, Gang Hua, Jian Sun",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Ensembles of Potential Functions for Structured Prediction With Latent Variables",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Hossein Hajimirsadeghi, Greg Mori",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Image Representations Tied to Ego-Motion",
+        "session": "learning representations and attributes",
+        "author": "Dinesh Jayaraman, Kristen Grauman",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Image and User Features for Recommendation in Social Networks",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Xue Geng, Hanwang Zhang, Jingwen Bian, Tat-Seng Chua",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Informative Edge Maps for Indoor Scene Layout Prediction",
+        "session": "recognition and 3d computer vision i",
+        "author": "Arun Mallya, Svetlana Lazebnik",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Large-Scale Automatic Image Colorization",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Aditya Deshpande, Jason Rock, David Forsyth",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Like a Child: Fast Novel Visual Concept Learning From Sentence Descriptions of Images",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Junhua Mao, Xu Wei, Yi Yang, Jiang Wang, Zhiheng Huang, Alan L. Yuille",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Nonlinear Spectral Filters for Color Image Reconstruction",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Michael Moeller, Julia Diebold, Guy Gilboa, Daniel Cremers",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Ordinal Relationships for Mid-Level Vision",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Daniel Zoran, Phillip Isola, Dilip Krishnan, William T. Freeman",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Parametric Distributions for Image Super-Resolution: Where Patch Matching Meets Sparse Coding",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Yongbo Li, Weisheng Dong, Guangming Shi, Xuemei Xie",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Query and Image Similarities With Ranking Canonical Correlation Analysis",
+        "session": "vision and language",
+        "author": "Ting Yao, Tao Mei, Chong-Wah Ngo",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Semi-Supervised Representation Towards a Unified Optimization Framework for Semi-Supervised Learning",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Chun-Guang Li, Zhouchen Lin, Honggang Zhang, Jun Guo",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Shape, Motion and Elastic Models in Force Space",
+        "session": "recognition and 3d computer vision i",
+        "author": "Antonio Agudo, Francesc Moreno-Noguer",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Social Relation Traits From Face Images",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Zhanpeng Zhang, Ping Luo, Chen-Change Loy, Xiaoou Tang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Spatially Regularized Correlation Filters for Visual Tracking",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Martin Danelljan, Gustav H\u00e4ger, Fahad Shahbaz Khan, Michael Felsberg",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Spatiotemporal Features With 3D Convolutional Networks",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Du Tran, Lubomir Bourdev, Rob Fergus, Lorenzo Torresani, Manohar Paluri",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Temporal Embeddings for Complex Video Analysis",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Vignesh Ramanathan, Kevin Tang, Greg Mori, Li Fei-Fei",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning The Structure of Deep Convolutional Networks",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Jiashi Feng, Trevor Darrell",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Visual Clothing Style With Heterogeneous Dyadic Co-Occurrences",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Andreas Veit, Balazs Kovacs, Sean Bell, Julian McAuley, Kavita Bala, Serge Belongie",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning Where to Position Parts in 3D",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Marco Pedersoli, Tinne Tuytelaars",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning a Descriptor-Specific 3D Keypoint Detector",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Samuele Salti, Federico Tombari, Riccardo Spezialetti, Luigi Di Stefano",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning a Discriminative Model for the Perception of Realism in Composite Images",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Jun-Yan Zhu, Philipp Kr\u00e4henb\u00fchl, Eli Shechtman, Alexei A. Efros",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning to Boost Filamentary Structure Segmentation",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Lin Gu, Li Cheng",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning to Combine Mid-Level Cues for Object Proposal Generation",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Tom Lee, Sanja Fidler, Sven Dickinson",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning to Divide and Conquer for Online Multi-Target Tracking",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Francesco Solera, Simone Calderara, Rita Cucchiara",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning to Predict Saliency on Face Images",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Mai Xu, Yun Ren, Zulin Wang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning to Rank Based on Subsequences",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Basura Fernando, Efstratios Gavves, Damien Muselet, Tinne Tuytelaars",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning to See by Moving",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Pulkit Agrawal, Joao Carreira, Jitendra Malik",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning to Track for Spatio-Temporal Action Localization",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Philippe Weinzaepfel, Zaid Harchaoui, Cordelia Schmid",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Learning to Transfer: Transferring Latent Task Structures and Its Application to Person-Specific Facial Action Unit Detection",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Timur Almaev, Brais Martinez, Michel Valstar",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Leave-One-Out Kernel Optimization for Shadow Detection",
+        "session": "computational photography and image enhancement",
+        "author": "Tomas F. Yago Vicente, Minh Hoai, Dimitris Samaras",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Lending A Hand: Detecting Hands and Recognizing Activities in Complex Egocentric Interactions",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Sven Bambach, Stefan Lee, David J. Crandall, Chen Yu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Leveraging Datasets With Varying Annotations for Face Alignment via Deep Regression Network",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Jie Zhang, Meina Kan, Shiguang Shan, Xilin Chen",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Linearization to Nonlinear Learning for Visual Tracking",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Bo Ma, Hongwei Hu, Jianbing Shen, Yuping Zhang, Fatih Porikli",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Listening With Your Eyes: Towards a Practical Visual Speech Recognition System Using Deep Boltzmann Machines",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Chao Sui, Mohammed Bennamoun, Roberto Togneri",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Live Repetition Counting",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Ofir Levy, Lior Wolf",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Local Convolutional Features With Unsupervised Training for Image Retrieval",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Mattis Paulin, Matthijs Douze, Zaid Harchaoui, Julien Mairal, Florent Perronin, Cordelia Schmid",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Local Subspace Collaborative Tracking",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Lin Ma, Xiaoqin Zhang, Weiming Hu, Junliang Xing, Jiwen Lu, Jie Zhou",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Localize Me Anywhere, Anytime: A Multi-Task Point-Retrieval Approach",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Guoyu Lu, Yan Yan, Li Ren, Jingkuan Song, Nicu Sebe, Chandra Kambhamettu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Look and Think Twice: Capturing Top-Down Visual Attention With Feedback Convolutional Neural Networks",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Chunshui Cao, Xianming Liu, Yi Yang, Yinan Yu, Jiang Wang, Zilei Wang, Yongzhen Huang, Liang Wang, Chang Huang, Wei Xu, Deva Ramanan, Thomas S. Huang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Lost Shopping! Monocular Localization in Large Indoor Spaces",
+        "session": "3d representations for recognition and localization",
+        "author": "Shenlong Wang, Sanja Fidler, Raquel Urtasun",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Love Thy Neighbors: Image Annotation by Exploiting Image Metadata",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Justin Johnson, Lamberto Ballan, Li Fei-Fei",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Low Dimensional Explicit Feature Maps",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Ond\u0159ej Chum",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Low-Rank Matrix Factorization Under General Mixture Noise Distributions",
+        "session": "statistical methods and learning",
+        "author": "Xiangyong Cao, Yang Chen, Qian Zhao, Deyu Meng, Yao Wang, Dong Wang, Zongben Xu",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Low-Rank Tensor Approximation With Laplacian Scale Mixture Modeling for Multiframe Image Denoising",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Weisheng Dong, Guangyu Li, Guangming Shi, Xin Li, Yi Ma",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Low-Rank Tensor Constrained Multiview Subspace Clustering",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Changqing Zhang, Huazhu Fu, Si Liu, Guangcan Liu, Xiaochun Cao",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "MANTRA: Minimum Maximum Latent Structural SVM for Image Classification and Ranking",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Thibaut Durand, Nicolas Thome, Matthieu Cord",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "MAP Disparity Estimation Using Hidden Markov Trees",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Eric T. Psota, J\u0119drzej Kowalczuk, Mateusz Mittek, Lance C. P\u00e9rez",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "ML-MG: Multi-Label Learning With Missing Labels Using a Mixed Graph",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Baoyuan Wu, Siwei Lyu, Bernard Ghanem",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "MMSS: Multi-Modal Sharable and Specific Feature Learning for RGB-D Object Recognition",
+        "session": "recognition and 3d computer vision i",
+        "author": "Anran Wang, Jianfei Cai, Jiwen Lu, Tat-Jen Cham",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Massively Parallel Multiview Stereopsis by Surface Normal Diffusion",
+        "session": "recognition and 3d computer vision i",
+        "author": "Silvano Galliani, Katrin Lasinger, Konrad Schindler",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Matrix Backpropagation for Deep Networks With Structured Layers",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Catalin Ionescu, Orestis Vantzos, Cristian Sminchisescu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Maximum-Margin Structured Learning With Deep Networks for 3D Human Pose Estimation",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Sijin Li, Weichen Zhang, Antoni B. Chan",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Merging the Unmatchable: Stitching Visually Disconnected SfM Models",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Andrea Cohen, Torsten Sattler, Marc Pollefeys",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "MeshStereo: A Global Stereo Model With Mesh Alignment Regularization for View Interpolation",
+        "session": "registration, alignment and stereo",
+        "author": "Chi Zhang, Zhiwei Li, Yanhua Cheng, Rui Cai, Hongyang Chao, Yong Rui",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Minimal Solvers for 3D Geometry From Satellite Imagery",
+        "session": "recognition and 3d computer vision i",
+        "author": "Enliang Zheng, Ke Wang, Enrique Dunn, Jan-Michael Frahm",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Minimizing Human Effort in Interactive Tracking by Incremental Learning of Model Parameters",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Arridhana Ciptadi, James M. Rehg",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Minimum Barrier Salient Object Detection at 80 FPS",
+        "session": "segmentation, edges and saliency",
+        "author": "Jianming Zhang, Stan Sclaroff, Zhe Lin, Xiaohui Shen, Brian Price, Radom\u00edr M\u011bch",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Mining And-Or Graphs for Graph Matching and Object Discovery",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Quanshi Zhang, Ying Nian Wu, Song-Chun Zhu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Mode-Seeking on Hypergraphs for Robust Geometric Model Fitting",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Hanzi Wang, Guobao Xiao, Yan Yan, David Suter",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Model-Based Tracking at 300Hz Using Raw Time-of-Flight Observations",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Jan St\u00fchmer, Sebastian Nowozin, Andrew Fitzgibbon, Richard Szeliski, Travis Perry, Sunil Acharya, Daniel Cremers, Jamie Shotton",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Monocular Object Instance Segmentation and Depth Ordering With CNNs",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Ziyu Zhang, Alexander G. Schwing, Sanja Fidler, Raquel Urtasun",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Motion Trajectory Segmentation via Minimum Cost Multicuts",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Margret Keuper, Bjoern Andres, Thomas Brox",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Multi-Class Multi-Annotator Active Learning With Robust Gaussian Process for Visual Recognition",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Chengjiang Long, Gang Hua",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Multi-Conditional Latent Variable Model for Joint Facial Action Unit Detection",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Stefanos Eleftheriadis, Ognjen Rudovic, Maja Pantic",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Multi-Cue Structure Preserving MRF for Unconstrained Video Segmentation",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Saehoon Yi, Vladimir Pavlovic",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Multi-Image Matching via Fast Alternating Minimization",
+        "session": "motion and correspondence",
+        "author": "Xiaowei Zhou, Menglong Zhu, Kostas Daniilidis",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Multi-Kernel Correlation Filter for Visual Tracking",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Ming Tang, Jiayi Feng",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Multi-Label Cross-Modal Retrieval",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Viresh Ranjan, Nikhil Rasiwasia, C. V. Jawahar",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Multi-Scale Learning for Low-Resolution Person Re-Identification",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Xiang Li, Wei-Shi Zheng, Xiaojuan Wang, Tao Xiang, Shaogang Gong",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Multi-Scale Recognition With DAG-CNNs",
+        "session": "recognition and 3d computer vision i",
+        "author": "Songfan Yang, Deva Ramanan",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Multi-Task Learning With Low Rank Attribute Embedding for Person Re-Identification",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Chi Su, Fan Yang, Shiliang Zhang, Qi Tian, Larry S. Davis, Wen Gao",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Multi-Task Recurrent Neural Network for Immediacy Prediction",
+        "session": "vision and people",
+        "author": "Xiao Chu, Wanli Ouyang, Wei Yang, Xiaogang Wang",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Multi-View Complementary Hash Tables for Nearest Neighbor Search",
+        "session": "recognition and 3d computer vision i",
+        "author": "Xianglong Liu, Lei Huang, Cheng Deng, Jiwen Lu, Bo Lang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Multi-View Convolutional Neural Networks for 3D Shape Recognition",
+        "session": "recognition and 3d computer vision i",
+        "author": "Hang Su, Subhransu Maji, Evangelos Kalogerakis, Erik Learned-Miller",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Multi-View Domain Generalization for Visual Recognition",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Li Niu, Wen Li, Dong Xu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Multi-View Subspace Clustering",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Hongchang Gao, Feiping Nie, Xuelong Li, Heng Huang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Multimodal Convolutional Neural Networks for Matching Image and Sentence",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Lin Ma, Zhengdong Lu, Lifeng Shang, Hang Li",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Multiple Feature Fusion via Weighted Entropy for Visual Tracking",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Lin Ma, Jiwen Lu, Jianjiang Feng, Jie Zhou",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Multiple Granularity Descriptors for Fine-Grained Categorization",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Dequan Wang, Zhiqiang Shen, Jie Shao, Wei Zhang, Xiangyang Xue, Zheng Zhang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Multiple-Hypothesis Affine Region Estimation With Anisotropic LoG Filters",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Takahiro Hasegawa, Mitsuru Ambai, Kohta Ishikawa, Gou Koutaki, Yuji Yamauchi, Takayoshi Yamashita, Hironobu Fujiyoshi",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Multiresolution Hierarchy Co-Clustering for Semantic Segmentation in Sequences With Small Variations",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "David Varas, M\u00f3nica Alfaro, Ferran Marques",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Mutual-Structure for Joint Filtering",
+        "session": "computational photography and image enhancement",
+        "author": "Xiaoyong Shen, Chao Zhou, Li Xu, Jiaya Jia",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Naive Bayes Super-Resolution Forest",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Jordi Salvador, Eduardo P\u00e9rez-Pellitero",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Near-Online Multi-Target Tracking With Aggregated Local Flow Descriptor",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Wongun Choi",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Neural Activation Constellations: Unsupervised Part Model Discovery With Convolutional Networks",
+        "session": "recognition and 3d computer vision i",
+        "author": "Marcel Simon, Erik Rodner",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Nighttime Haze Removal With Glow and Multiple Light Colors",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Yu Li, Robby T. Tan, Michael S. Brown",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Non-Parametric Structure-Based Calibration of Radially Symmetric Cameras",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Federico Camposeco, Torsten Sattler, Marc Pollefeys",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Object Detection Using Generalization and Efficiency Balanced Co-Occurrence Features",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Haoyu Ren, Ze-Nian Li",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Object Detection via a Multi-Region and Semantic Segmentation-Aware CNN Model",
+        "session": "recognition and 3d computer vision i",
+        "author": "Spyros Gidaris, Nikos Komodakis",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Objects2action: Classifying and Localizing Actions Without Any Video Example",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Mihir Jain, Jan C. van Gemert, Thomas Mensink, Cees G. M. Snoek",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Occlusion-Aware Depth Estimation Using Light-Field Cameras",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Ting-Chun Wang, Alexei A. Efros, Ravi Ramamoorthi",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "On Linear Structure From Motion for Light Field Cameras",
+        "session": "recognition and 3d computer vision i",
+        "author": "Ole Johannsen, Antonin Sulc, Bastian Goldluecke",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "On Statistical Analysis of Neuroimages With Imperfect Registration",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Won Hwa Kim, Sathya N. Ravi, Sterling C. Johnson, Ozioma C. Okonkwo, Vikas Singh",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "On the Equivalence of Moving Entrance Pupil and Radial Distortion for Camera Calibration",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Avinash Kumar, Narendra Ahuja",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "On the Visibility of Point Clouds",
+        "session": "3d vision",
+        "author": "Sagi Katz, Ayellet Tal",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "One Shot Learning via Compositions of Meaningful Patches",
+        "session": "recognition and 3d computer vision i",
+        "author": "Alex Wong, Alan L. Yuille",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Online Object Tracking With Proposal Selection",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Yang Hua, Karteek Alahari, Cordelia Schmid",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Opening the Black Box: Hierarchical Sampling Optimization for Estimating Human Hand Pose",
+        "session": "vision and people",
+        "author": "Danhang Tang, Jonathan Taylor, Pushmeet Kohli, Cem Keskin, Tae-Kyun Kim, Jamie Shotton",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Optimizing Expected Intersection-Over-Union With Candidate-Constrained CRFs",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Faruk Ahmed, Dany Tarlow, Dhruv Batra",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Optimizing the Viewing Graph for Structure-From-Motion",
+        "session": "recognition and 3d computer vision i",
+        "author": "Chris Sweeney, Torsten Sattler, Tobias H\u00f6llerer, Matthew Turk, Marc Pollefeys",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Oriented Light-Field Windows for Scene Flow",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Pratul P. Srinivasan, Michael W. Tao, Ren Ng, Ravi Ramamoorthi",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Oriented Object Proposals",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Shengfeng He, Rynson W.H. Lau",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "P-CNN: Pose-Based CNN Features for Action Recognition",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Guilhem Ch\u00e9ron, Ivan Laptev, Cordelia Schmid",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "PIEFA: Personalized Incremental and Ensemble Face Alignment",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Xi Peng, Shaoting Zhang, Yu Yang, Dimitris N. Metaxas",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "POP Image Fusion - Derivative Domain Image Fusion Without Reintegration",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Graham D. Finlayson, Alex E. Hayes",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "PQTable: Fast Exact Asymmetric Distance Neighbor Search for Product Quantization Using Hash Tables",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Yusuke Matsui, Toshihiko Yamasaki, Kiyoharu Aizawa",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Pairwise Conditional Random Forests for Facial Expression Recognition",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Arnaud Dapogny, Kevin Bailly, S\u00e9verine Dubuisson",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Pan-Sharpening With a Hyper-Laplacian Penalty",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Yiyong Jiang, Xinghao Ding, Delu Zeng, Yue Huang, John Paisley",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Panoptic Studio: A Massively Multiview System for Social Motion Capture",
+        "session": "vision and people",
+        "author": "Hanbyul Joo, Hao Liu, Lei Tan, Lin Gui, Bart Nabbe, Iain Matthews, Takeo Kanade, Shohei Nobuhara, Yaser Sheikh",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Parsimonious Labeling",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Puneet K. Dokania, M. Pawan Kumar",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Patch Group Based Nonlocal Self-Similarity Prior Learning for Image Denoising",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Jun Xu, Lei Zhang, Wangmeng Zuo, David Zhang, Xiangchu Feng",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "PatchMatch-Based Automatic Lattice Detection for Near-Regular Textures",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Siying Liu, Tian-Tsong Ng, Kalyan Sunkavalli, Minh N. Do, Eli Shechtman, Nathan Carr",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Pedestrian Travel Time Estimation in Crowded Scenes",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Shuai Yi, Hongsheng Li, Xiaogang Wang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Peeking Template Matching for Depth Extension",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Simon Korman, Eyal Ofek, Shai Avidan",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Per-Sample Kernel Adaptation for Visual Recognition and Grouping",
+        "session": "recognition and 3d computer vision i",
+        "author": "Borislav Antic, Bj\u00f6rn Ommer",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Person Re-Identification Ranking Optimisation by Discriminant Context Information Analysis",
+        "session": "recognition and 3d computer vision i",
+        "author": "Jorge Garc\u00eda, Niki Martinel, Christian Micheloni, Alfredo Gardel",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Person Re-Identification With Correspondence Structure Learning",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Yang Shen, Weiyao Lin, Junchi Yan, Mingliang Xu, Jianxin Wu, Jingdong Wang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Person Re-Identification With Discriminatively Trained Viewpoint Invariant Dictionaries",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Srikrishna Karanam, Yang Li, Richard J. Radke",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Person Recognition in Personal Photo Collections",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Seong Joon Oh, Rodrigo Benenson, Mario Fritz, Bernt Schiele",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Personalized Age Progression With Aging Dictionary",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Xiangbo Shu, Jinhui Tang, Hanjiang Lai, Luoqi Liu, Shuicheng Yan",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Photogeometric Scene Flow for High-Detail Dynamic 3D Reconstruction",
+        "session": "recognition and 3d computer vision i",
+        "author": "Paulo F. U. Gotardo, Tomas Simon, Yaser Sheikh, Iain Matthews",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Photometric Stereo With Small Angular Variations",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Jian Wang, Yasuyuki Matsushita, Boxin Shi, Aswin C. Sankaranarayanan",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Photometric Stereo in a Scattering Medium",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Zak Murez, Tali Treibitz, Ravi Ramamoorthi, David Kriegman",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Piecewise Flat Embedding for Image Segmentation",
+        "session": "segmentation, edges and saliency",
+        "author": "Yizhou Yu, Chaowei Fang, Zicheng Liao",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Point Triangulation Through Polyhedron Collapse Using the l\u221e Norm",
+        "session": "recognition and 3d computer vision i",
+        "author": "Simon Donn\u00e9, Bart Goossens, Wilfried Philips",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Polarized 3D: High-Quality Depth Sensing With Polarization Cues",
+        "session": "computational photography and image enhancement",
+        "author": "Achuta Kadambi, Vage Taamazyan, Boxin Shi, Ramesh Raskar",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Pose Induction for Novel Object Categories",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Shubham Tulsiani, Jo\u00e3o Carreira, Jitendra Malik",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Pose-Invariant 3D Face Alignment",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Amin Jourabloo, Xiaoming Liu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Alex Kendall, Matthew Grimes, Roberto Cipolla",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Predicting Deep Zero-Shot Convolutional Neural Networks Using Textual Descriptions",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Jimmy Lei Ba, Kevin Swersky, Sanja Fidler, Ruslan salakhutdinov",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Predicting Depth, Surface Normals and Semantic Labels With a Common Multi-Scale Convolutional Architecture",
+        "session": "recognition and 3d computer vision ii",
+        "author": "David Eigen, Rob Fergus",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Predicting Good Features for Image Geo-Localization Using Per-Bundle VLAD",
+        "session": "recognition and 3d computer vision i",
+        "author": "Hyo Jin Kim, Enrique Dunn, Jan-Michael Frahm",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Predicting Multiple Structured Visual Interpretations",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Debadeepta Dey, Varun Ramakrishna, Martial Hebert, J. Andrew Bagnell",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Probabilistic Appearance Models for Segmentation and Classification",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Julia Kr\u00fcger, Jan Ehrhardt, Heinz Handels",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Probabilistic Label Relation Graphs With Ising Models",
+        "session": "recognition and 3d computer vision i",
+        "author": "Nan Ding, Jia Deng, Kevin P. Murphy, Hartmut Neven",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Procedural Editing of 3D Building Point Clouds",
+        "session": "recognition and 3d computer vision ii",
+        "author": "\u0130lke Demir, Daniel G. Aliaga, Bedrich Benes",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Projection Bank: From High-Dimensional Data to Medium-Length Binary Codes",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Li Liu, Mengyang Yu, Ling Shao",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Projection Onto the Manifold of Elongated Structures for Accurate Extraction",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Amos Sironi, Vincent Lepetit, Pascal Fua",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Query Adaptive Similarity Measure for RGB-D Object Recognition",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Yanhua Cheng, Rui Cai, Chi Zhang, Zhiwei Li, Xin Zhao, Kaiqi Huang, Yong Rui",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "RGB-Guided Hyperspectral Image Upsampling",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Hyeokhyen Kwon, Yu-Wing Tai",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "RGB-W: When Vision Meets Wireless",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Alexandre Alahi, Albert Haque, Li Fei-Fei",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "RIDE: Reversal Invariant Descriptor Enhancement",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Lingxi Xie, Jingdong Wang, Weiyao Lin, Bo Zhang, Qi Tian",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Real-Time Pose Estimation Piggybacked on Object Detection",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Roman Jur\u00e1nek, Adam Herout, Mark\u00e9ta Dubsk\u00e1, Pavel Zem\u010d\u00edk",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Realtime Edge-Based Visual Odometry for a Monocular Camera",
+        "session": "recognition and 3d computer vision i",
+        "author": "Juan Jos\u00e9 Tarrio, Sol Pedre",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Recurrent Network Models for Human Dynamics",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Katerina Fragkiadaki, Sergey Levine, Panna Felsen, Jitendra Malik",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Recursive Fr\u00e9chet Mean Computation on the Grassmannian and its Applications to Computer Vision",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Rudrasis Chakraborty, Baba C. Vemuri",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Reflection Modeling for Passive Stereo",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Rahul Nair, Andrew Fitzgibbon, Daniel Kondermann, Carsten Rother",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Registering Images to Untextured Geometry Using Average Shading Gradients",
+        "session": "registration, alignment and stereo",
+        "author": "Tobias Pl\u00f6tz, Stefan Roth",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Regressing a 3D Face Shape From a Single Image",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Sergey Tulyakov, Nicu Sebe",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Regressive Tree Structured Model for Facial Landmark Localization",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Gee-Sern Hsu, Kai-Hsiang Chang, Shih-Chieh Huang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Relaxed Multiple-Instance SVM With Application to Object Discovery",
+        "session": "recognition and 3d computer vision i",
+        "author": "Xinggang Wang, Zhuotun Zhu, Cong Yao, Xiang Bai",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Relaxing From Vocabulary: Robust Weakly-Supervised Deep Learning for Vocabulary-Free Image Tagging",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Jianlong Fu, Yue Wu, Tao Mei, Jinqiao Wang, Hanqing Lu, Yong Rui",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Removing Rain From a Single Image via Discriminative Sparse Coding",
+        "session": "computational photography and image enhancement",
+        "author": "Yu Luo, Yong Xu, Hui Ji",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Render for CNN: Viewpoint Estimation in Images Using CNNs Trained With Rendered 3D Model Views",
+        "session": "3d representations for recognition and localization",
+        "author": "Hao Su, Charles R. Qi, Yangyan Li, Leonidas J. Guibas",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Rendering of Eyes for Eye-Shape Registration and Gaze Estimation",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Erroll Wood, Tadas Baltru\u0161aitis, Xucong Zhang, Yusuke Sugano, Peter Robinson, Andreas Bulling",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Resolving Scale Ambiguity Via XSlit Aspect Ratio Analysis",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Wei Yang, Haiting Lin, Sing Bing Kang, Jingyi Yu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Robust Facial Landmark Detection Under Significant Head Poses and Occlusion",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Yue Wu, Qiang Ji",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Robust Heart Rate Measurement From Video Using Select Random Patches",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Antony Lam, Yoshinori Kuno",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Robust Image Segmentation Using Contour-Guided Color Palettes",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Xiang Fu, Chien-Yi Wang, Chen Chen, Changhu Wang, C.-C. Jay Kuo",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Robust Model-Based 3D Head Pose Estimation",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Gregory P. Meyer, Shalini Gupta, Iuri Frosio, Dikpal Reddy, Jan Kautz",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Robust Non-Rigid Motion Tracking and Surface Reconstruction Using L0 Regularization",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Kaiwen Guo, Feng Xu, Yangang Wang, Yebin Liu, Qionghai Dai",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Robust Nonrigid Registration by Convex Optimization",
+        "session": "registration, alignment and stereo",
+        "author": "Qifeng Chen, Vladlen Koltun",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Robust Optimization for Deep Regression",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Vasileios Belagiannis, Christian Rupprecht, Gustavo Carneiro, Nassir Navab",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Robust Principal Component Analysis on Graphs",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Nauman Shahid, Vassilis Kalofolias, Xavier Bresson, Michael Bronstein, Pierre Vandergheynst",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Robust RGB-D Odometry Using Point and Line Features",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Yan Lu, Dezhen Song",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Robust Statistical Face Frontalization",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Christos Sagonas, Yannis Panagakis, Stefanos Zafeiriou, Maja Pantic",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Robust and Optimal Sum-of-Squares-Based Point-to-Plane Registration of Image Sets and Structured Scenes",
+        "session": "registration, alignment and stereo",
+        "author": "Danda Pani Paudel, Adlane Habed, C\u00e9dric Demonceaux, Pascal Vasseur",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Rolling Shutter Super-Resolution",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Abhijith Punnappurath, Vijay Rengarajan, A.N. Rajagopalan",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "SALICON: Reducing the Semantic Gap in Saliency Prediction by Adapting Deep Neural Networks",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Xun Huang, Chengyao Shen, Xavier Boix, Qi Zhao",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "SOWP: Spatially Ordered and Weighted Patch Descriptor for Visual Tracking",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Han-Ul Kim, Dae-Youn Lee, Jae-Young Sim, Chang-Su Kim",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "SPM-BP: Sped-up PatchMatch Belief Propagation for Continuous MRFs",
+        "session": "motion and correspondence",
+        "author": "Yu Li, Dongbo Min, Michael S. Brown, Minh N. Do, Jiangbo Lu",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Scalable Nonlinear Embeddings for Semantic Category-Based Image Retrieval",
+        "session": "recognition and 3d computer vision i",
+        "author": "Gaurav Sharma, Bernt Schiele",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Scalable Person Re-Identification: A Benchmark",
+        "session": "recognition and 3d computer vision i",
+        "author": "Liang Zheng, Liyue Shen, Lu Tian, Shengjin Wang, Jingdong Wang, Qi Tian",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Scene-Domain Active Part Models for Object Representation",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Zhou Ren, Chaohui Wang, Alan L. Yuille",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Secrets of GrabCut and Kernel K-Means",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Meng Tang, Ismail Ben Ayed, Dmitrii Marin, Yuri Boykov",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Secrets of Matrix Factorization: Approximations, Numerics, Manifold Optimization and Random Restarts",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Je Hyeong Hong, Andrew Fitzgibbon",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "See the Difference: Direct Pre-Image Reconstruction and Pose Estimation by Differentiating HOG",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Wei-Chen Chiu, Mario Fritz",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Segment Graph Based Image Filtering: Fast Structure-Preserving Smoothing",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Feihu Zhang, Longquan Dai, Shiming Xiang, Xiaopeng Zhang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Segment-Phrase Table for Semantic Segmentation, Visual Entailment and Paraphrasing",
+        "session": "vision and language",
+        "author": "Hamid Izadinia, Fereshteh Sadeghi, Santosh K. Divvala, Hannaneh Hajishirzi, Yejin Choi, Ali Farhadi",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Selecting Relevant Web Trained Concepts for Automated Event Retrieval",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Bharat Singh, Xintong Han, Zhe Wu, Vlad I. Morariu, Larry S. Davis",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Selective Encoding for Recognizing Unreliably Localized Faces",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Ang Li, Vlad Morariu, Larry S. Davis",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Self-Calibration of Optical Lenses",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Michael Hirsch, Bernhard Sch\u00f6lkopf",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Self-Occlusions and Disocclusions in Causal Video Object Segmentation",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Yanchao Yang, Ganesh Sundaramoorthi, Stefano Soatto",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Semantic Component Analysis",
+        "session": "statistical methods and learning",
+        "author": "Calvin Murdock, Fernando De la Torre",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Semantic Image Segmentation via Deep Parsing Network",
+        "session": "segmentation, edges and saliency",
+        "author": "Ziwei Liu, Xiaoxiao Li, Ping Luo, Chen-Change Loy, Xiaoou Tang",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Semantic Pose Using Deep Networks Trained on Synthetic RGB-D",
+        "session": "recognition and 3d computer vision i",
+        "author": "Jeremie Papon, Markus Schoeler",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Semantic Segmentation With Object Clique Potential",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Xiaojuan Qi, Jianping Shi, Shu Liu, Renjie Liao, Jiaya Jia",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Semantic Segmentation of RGBD Images With Mutex Constraints",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Zhuo Deng, Sinisa Todorovic, Longin Jan Latecki",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Semantic Video Entity Linking Based on Visual Content and Metadata",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Yuncheng Li, Xitong Yang, Jiebo Luo",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Semantically-Aware Aerial Reconstruction From Multi-Modal Data",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Randi Cabezas, Julian Straub, John W. Fisher III",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Semi-Supervised Normalized Cuts for Image Segmentation",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Selene E. Chew, Nathan D. Cahill",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Semi-Supervised Zero-Shot Classification With Label Representation Learning",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Xin Li, Yuhong Guo, Dale Schuurmans",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Separating Fluorescent and Reflective Components by Using a Single Hyperspectral Image",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Yinqiang Zheng, Ying Fu, Antony Lam, Imari Sato, Yoichi Sato",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Sequence to Sequence \u2013 Video to Text",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Subhashini Venugopalan, Marcus Rohrbach, Jeffrey Donahue, Raymond Mooney, Trevor Darrell, Kate Saenko",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Shell PCA: Statistical Shape Modelling in Shell Space",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Chao Zhang, Behrend Heeren, Martin Rumpf, William A. P. Smith",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Similarity Gaussian Process Latent Variable Model for Multi-Modal Data Analysis",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Guoli Song, Shuhui Wang, Qingming Huang, Qi Tian",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Simpler Non-Parametric Methods Provide as Good or Better Results to Multiple-Instance Learning",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Ragav Venkatesan, Parag Chandakkar, Baoxin Li",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Simultaneous Deep Transfer Across Domains and Tasks",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Eric Tzeng, Judy Hoffman, Trevor Darrell, Kate Saenko",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Simultaneous Foreground Detection and Classification With Hybrid Features",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Jaemyun Kim, Ad\u00edn Ram\u00edrez Rivera, Byungyong Ryu, Oksam Chae",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Simultaneous Local Binary Feature Learning and Encoding for Face Recognition",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Jiwen Lu, Venice Erin Liong, Jie Zhou",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Single Image 3D Without a Single 3D Image",
+        "session": "recognition and 3d computer vision i",
+        "author": "David F. Fouhey, Wajahat Hussain, Abhinav Gupta, Martial Hebert",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Single Image Pop-Up From Discriminatively Learned Parts",
+        "session": "recognition and 3d computer vision i",
+        "author": "Menglong Zhu, Xiaowei Zhou, Kostas Daniilidis",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Single-Shot Specular Surface Reconstruction With Gonio-Plenoptic Imaging",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Lingfei Meng, Liyang Lu, Noah Bedard, Kathrin Berkner",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Sparse Dynamic 3D Reconstruction From Unsynchronized Videos",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Enliang Zheng, Dinghuang Ji, Enrique Dunn, Jan-Michael Frahm",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Spatial Semantic Regularisation for Large Scale Object Detection",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Damian Mrowca, Marcus Rohrbach, Judy Hoffman, Ronghang Hu, Kate Saenko, Trevor Darrell",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "SpeDo: 6 DOF Ego-Motion Sensor Using Speckle Defocus Imaging",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Kensei Jo, Mohit Gupta, Shree K. Nayar",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Square Localization for Efficient and Accurate Object Detection",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Cewu Lu, Yongyi Lu, Hao Chen, Chi-Keung Tang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "StereoSnakes: Contour Based Consistent Object Extraction For Stereo Images",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Ran Ju, Tongwei Ren, Gangshan Wu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Storyline Representation of Egocentric Videos With an Applications to Story-Based Search",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Bo Xiong, Gunhee Kim, Leonid Sigal",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Structural Kernel Learning for Large Scale Multiclass Object Co-Detection",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Zeeshan Hayder, Xuming He, Mathieu Salzmann",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Structure From Motion Using Structure-Less Resection",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Enliang Zheng, Changchang Wu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Structured Feature Selection",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Tian Gao, Ziheng Wang, Qiang Ji",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Structured Indoor Modeling",
+        "session": "3d vision",
+        "author": "Satoshi Ikehata, Hang Yang, Yasutaka Furukawa",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Synthesizing Illumination Mosaics From Internet Photo-Collections",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Dinghuang Ji, Enrique Dunn, Jan-Michael Frahm",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "TRIC-track: Tracking by Regression With Incrementally Learned Cascades",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Xiaomeng Wang, Michel Valstar, Brais Martinez, Muhammad Haris Khan, Tony Pridmore",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Task-Driven Feature Pooling for Image Classification",
+        "session": "recognition and 3d computer vision i",
+        "author": "Guo-Sen Xie, Xu-Yao Zhang, Xiangbo Shu, Shuicheng Yan, Cheng-Lin Liu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Temporal Perception and Prediction in Ego-Centric Video",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Yipin Zhou, Tamara L. Berg",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Temporal Subspace Clustering for Human Motion Segmentation",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Sheng Li, Kang Li, Yun Fu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Text Flow: A Unified Text Detection System in Natural Scene Images",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Shangxuan Tian, Yifeng Pan, Chang Huang, Shijian Lu, Kai Yu, Chew Lim Tan",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "The HCI Stereo Metrics: Geometry-Aware Performance Analysis of Stereo Algorithms",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Katrin Honauer, Lena Maier-Hein, Daniel Kondermann",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "The Joint Image Handbook",
+        "session": "recognition and 3d computer vision i",
+        "author": "Matthew Trager, Martial Hebert, Jean Ponce",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "The Likelihood-Ratio Test and Efficient Robust Estimation",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Andrea Cohen, Christopher Zach",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "The Middle Child Problem: Revisiting Parametric Min-Cut and Seeds for Object Proposals",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Ahmad Humayun, Fuxin Li, James M. Rehg",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "The One Triangle Three Parallelograms Sampling Strategy and Its Application in Shape Regression",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Mikael Nilsson",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Thin Structure Estimation With Curvature Regularization",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Dmitrii Marin, Yuchen Zhong, Maria Drangova, Yuri Boykov",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Top Rank Supervised Binary Coding for Visual Search",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Dongjin Song, Wei Liu, Rongrong Ji, David A. Meyer, John R. Smith",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Towards Computational Baby Learning: A Weakly-Supervised Approach for Object Detection",
+        "session": "recognition and 3d computer vision i",
+        "author": "Xiaodan Liang, Si Liu, Yunchao Wei, Luoqi Liu, Liang Lin, Shuicheng Yan",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Towards Pointless Structure From Motion: 3D Reconstruction and Camera Parameters From General 3D Curves",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Irina Nurutdinova, Andrew Fitzgibbon",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Tracking-by-Segmentation With Online Gradient Boosting Decision Tree",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Jeany Son, Ilchae Jung, Kayoung Park, Bohyung Han",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Training a Feedback Loop for Hand Pose Estimation",
+        "session": "vision and people",
+        "author": "Markus Oberweger, Paul Wohlhart, Vincent Lepetit",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "TransCut: Transparent Object Segmentation From a Light-Field Image",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Yichao Xu, Hajime Nagahara, Atsushi Shimada, Rin-ichiro Taniguchi",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Two Birds, One Stone: Jointly Learning Binary Code for Large-Scale Face Image Retrieval and Attributes Prediction",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Yan Li, Ruiping Wang, Haomiao Liu, Huajie Jiang, Shiguang Shan, Xilin Chen",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Understanding Deep Features With Computer-Generated Imagery",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Mathieu Aubry, Bryan C. Russell",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Understanding Everyday Hands in Action From RGB-D Images",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Gr\u00e9gory Rogez, James S. Supan\u010di\u010d III, Deva Ramanan",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Understanding and Diagnosing Visual Tracking Systems",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Naiyan Wang, Jianping Shi, Dit-Yan Yeung, Jiaya Jia",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Understanding and Predicting Image Memorability at a Large Scale",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Aditya Khosla, Akhil S. Raju, Antonio Torralba, Aude Oliva",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Unsupervised Cross-Modal Synthesis of Subject-Specific Scans",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Raviteja Vemulapalli, Hien Van Nguyen, Shaohua Kevin Zhou",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Unsupervised Domain Adaptation With Imbalanced Cross-Domain Data",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Tzu Ming Harry Hsu, Wei Yu Chen, Cheng-An Hou, Yao-Hung Hubert Tsai, Yi-Ren Yeh, Yu-Chiang Frank Wang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Unsupervised Domain Adaptation for Zero-Shot Learning",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Elyor Kodirov, Tao Xiang, Zhenyong Fu, Shaogang Gong",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Unsupervised Extraction of Video Highlights Via Robust Recurrent Auto-Encoders",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Huan Yang, Baoyuan Wang, Stephen Lin, David Wipf, Minyi Guo, Baining Guo",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Unsupervised Generation of a Viewpoint Annotated Car Dataset From Videos",
+        "session": "recognition and 3d computer vision i",
+        "author": "Nima Sedaghat, Thomas Brox",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Unsupervised Learning of Spatiotemporally Coherent Metrics",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Ross Goroshin, Joan Bruna, Jonathan Tompson, David Eigen, Yann LeCun",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Unsupervised Learning of Visual Representations Using Videos",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Xiaolong Wang, Abhinav Gupta",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Unsupervised Object Discovery and Tracking in Video Collections",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Suha Kwak, Minsu Cho, Ivan Laptev, Jean Ponce, Cordelia Schmid",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Unsupervised Semantic Parsing of Video Collections",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Ozan Sener, Amir R. Zamir, Silvio Savarese, Ashutosh Saxena",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Unsupervised Synchrony Discovery in Human Interaction",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Wen-Sheng Chu, Jiabei Zeng, Fernando De la Torre, Jeffrey F. Cohn, Daniel S. Messinger",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Unsupervised Trajectory Clustering via Adaptive Multi-Kernel-Based Shrinkage",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Hongteng Xu, Yang Zhou, Weiyao Lin, Hongyuan Zha",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Unsupervised Tube Extraction Using Transductive Learning and Dense Trajectories",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Mihai Marian Puscas, Enver Sangineto, Dubravko Culibrk, Nicu Sebe",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Unsupervised Visual Representation Learning by Context Prediction",
+        "session": "learning representations and attributes",
+        "author": "Carl Doersch, Abhinav Gupta, Alexei A. Efros",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "VQA: Visual Question Answering",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Variational Depth Superresolution Using Example-Based Edge Representations",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "David Ferstl, Matthias R\u00fcther, Horst Bischof",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Variational PatchMatch MultiView Reconstruction and Refinement",
+        "session": "recognition and 3d computer vision i",
+        "author": "Philipp Heise, Brian Jensen, Sebastian Klose, Alois Knoll",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Video Matting via Sparse and Low-Rank Representation",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Dongqing Zou, Xiaowu Chen, Guangying Cao, Xiaogang Wang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Video Restoration Against Yin-Yang Phasing",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Xiaolin Wu, Zhenhao Li, Xiaowei Deng",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Video Segmentation With Just a Few Strokes",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Naveen Shankar Nagaraja, Frank R. Schmidt, Thomas Brox",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Video Super-Resolution via Deep Draft-Ensemble Learning",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Renjie Liao, Xin Tao, Ruiyu Li, Ziyang Ma, Jiaya Jia",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Visual Madlibs: Fill in the Blank Description Generation and Question Answering",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Licheng Yu, Eunbyung Park, Alexander C. Berg, Tamara L. Berg",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Visual Phrases for Exemplar Face Detection",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Vijay Kumar, Anoop Namboodiri, C. V. Jawahar",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Visual Tracking With Fully Convolutional Networks",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Lijun Wang, Wanli Ouyang, Xiaogang Wang, Huchuan Lu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Volumetric Bias in Segmentation and Reconstruction: Secrets and Solutions",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Yuri Boykov, Hossam Isack, Carl Olsson, Ismail Ben Ayed",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Weakly Supervised Graph Based Semantic Segmentation by Learning Communities of Image-Parts",
+        "session": "segmentation, edges and saliency",
+        "author": "Niloufar Pourian, S. Karthikeyan, B.S. Manjunath",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Weakly- and Semi-Supervised Learning of a Deep Convolutional Network for Semantic Image Segmentation",
+        "session": "optimization, segmentation, and recognition",
+        "author": "George Papandreou, Liang-Chieh Chen, Kevin P. Murphy, Alan L. Yuille",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Weakly-Supervised Alignment of Video With Text",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Piotr Bojanowski, R\u00e9mi Lajugie, Edouard Grave, Francis Bach, Ivan Laptev, Jean Ponce, Cordelia Schmid",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Weakly-Supervised Structured Output Learning With Flexible and Latent Graphs Using High-Order Loss Functions",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Gustavo Carneiro, Tingying Peng, Christine Bayer, Nassir Navab",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Web-Scale Image Clustering Revisited",
+        "session": "statistical methods and learning",
+        "author": "Yannis Avrithis, Yannis Kalantidis, Evangelos Anagnostopoulos, Ioannis Z. Emiris",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Webly Supervised Learning of Convolutional Networks",
+        "session": "learning representations and attributes",
+        "author": "Xinlei Chen, Abhinav Gupta",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "What Makes Tom Hanks Look Like Tom Hanks",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Supasorn Suwajanakorn, Steven M. Seitz, Ira Kemelmacher-Shlizerman",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "What Makes an Object Memorable?",
+        "session": "recognition and 3d computer vision i",
+        "author": "Rachit Dubey, Joshua Peterson, Aditya Khosla, Ming-Hsuan Yang, Bernard Ghanem",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Where to Buy It: Matching Street Clothing Photos in Online Shops",
+        "session": "vision and people",
+        "author": "M. Hadi Kiapour, Xufeng Han, Svetlana Lazebnik, Alexander C. Berg, Tamara L. Berg",
+        "status": "Oral",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Wide Baseline Stereo Matching With Convex Bounded Distortion Constraints",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Meirav Galun, Tal Amir, Tal Hassner, Ronen Basri, Yaron Lipman",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Wide-Area Image Geolocalization With Aerial Reference Imagery",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Scott Workman, Richard Souvenir, Nathan Jacobs",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "You Are Here: Mimicking the Human Thinking Process in Reading Floor-Plans",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Hang Chu, Dong Ki Kim, Tsuhan Chen",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "Zero-Shot Learning via Semantic Similarity Embedding",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Ziming Zhang, Venkatesh Saligrama",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 1A] Aligning Books and Movies: Towards Story-Like Visual Explanations by Watching Movies and Reading Books",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Yukun Zhu, Ryan Kiros, Rich Zemel, Ruslan Salakhutdinov, Raquel Urtasun, Antonio Torralba, Sanja Fidler",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 1A] Ask Your Neurons: A Neural-Based Approach to Answering Questions About Images",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Mateusz Malinowski, Marcus Rohrbach, Mario Fritz",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 1A] Learning Query and Image Similarities With Ranking Canonical Correlation Analysis",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Ting Yao, Tao Mei, Chong-Wah Ngo",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 1A] Segment-Phrase Table for Semantic Segmentation, Visual Entailment and Paraphrasing",
+        "session": "recognition, low-level vision, and biomedical image analysis",
+        "author": "Hamid Izadinia, Fereshteh Sadeghi, Santosh K. Divvala, Hannaneh Hajishirzi, Yejin Choi, Ali Farhadi",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 1B] 3D Time-Lapse Reconstruction From Internet Photos",
+        "session": "recognition and 3d computer vision i",
+        "author": "Ricardo Martin-Brualla, David Gallup, Steven M. Seitz",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 1B] Global, Dense Multiscale Reconstruction for a Billion Points",
+        "session": "recognition and 3d computer vision i",
+        "author": "Benjamin Ummenhofer, Thomas Brox",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 1B] On the Visibility of Point Clouds",
+        "session": "recognition and 3d computer vision i",
+        "author": "Sagi Katz, Ayellet Tal",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 1B] Structured Indoor Modeling",
+        "session": "recognition and 3d computer vision i",
+        "author": "Satoshi Ikehata, Hang Yang, Yasutaka Furukawa",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 2A] Holistically-Nested Edge Detection",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Saining Xie, Zhuowen Tu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 2A] Human Parsing With Contextualized Convolutional Neural Network",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Xiaodan Liang, Chunyan Xu, Xiaohui Shen, Jianchao Yang, Si Liu, Jinhui Tang, Liang Lin, Shuicheng Yan",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 2A] Minimum Barrier Salient Object Detection at 80 FPS",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Jianming Zhang, Stan Sclaroff, Zhe Lin, Xiaohui Shen, Brian Price, Radom\u00edr M\u011bch",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 2A] Piecewise Flat Embedding for Image Segmentation",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Yizhou Yu, Chaowei Fang, Zicheng Liao",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 2A] Semantic Image Segmentation via Deep Parsing Network",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Ziwei Liu, Xiaoxiao Li, Ping Luo, Chen-Change Loy, Xiaoou Tang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 2A] Weakly Supervised Graph Based Semantic Segmentation by Learning Communities of Image-Parts",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Niloufar Pourian, S. Karthikeyan, B.S. Manjunath",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 2B] Bilinear CNN Models for Fine-Grained Visual Recognition",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Tsung-Yu Lin, Aruni RoyChowdhury, Subhransu Maji",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 2B] Discovering the Spatial Extent of Relative Attributes",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Fanyi Xiao, Yong Jae Lee",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 2B] Fast R-CNN",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Ross Girshick",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 2B] Learning Image Representations Tied to Ego-Motion",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Dinesh Jayaraman, Kristen Grauman",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 2B] Unsupervised Visual Representation Learning by Context Prediction",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Carl Doersch, Abhinav Gupta, Alexei A. Efros",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 2B] Webly Supervised Learning of Convolutional Networks",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Xinlei Chen, Abhinav Gupta",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 2C] Deep Fried Convnets",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Zichao Yang, Marcin Moczulski, Misha Denil, Nando de Freitas, Alex Smola, Le Song, Ziyu Wang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 2C] Deep Neural Decision Forests",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Peter Kontschieder, Madalina Fiterau, Antonio Criminisi, Samuel Rota Bul\u00f2",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 2C] Learning Discriminative Reconstructions for Unsupervised Outlier Removal",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Yan Xia, Xudong Cao, Fang Wen, Gang Hua, Jian Sun",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 2C] Low-Rank Matrix Factorization Under General Mixture Noise Distributions",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Xiangyong Cao, Yang Chen, Qian Zhao, Deyu Meng, Yao Wang, Dong Wang, Zongben Xu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 2C] Semantic Component Analysis",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Calvin Murdock, Fernando De la Torre",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 2C] Web-Scale Image Clustering Revisited",
+        "session": "optimization, segmentation, and recognition",
+        "author": "Yannis Avrithis, Yannis Kalantidis, Evangelos Anagnostopoulos, Ioannis Z. Emiris",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 3A] CV-HAZOP: Introducing Test Data Validation for Computer Vision",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Oliver Zendel, Markus Murschitz, Martin Humenberger, Wolfgang Herzner",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 3A] MeshStereo: A Global Stereo Model With Mesh Alignment Regularization for View Interpolation",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Chi Zhang, Zhiwei Li, Yanhua Cheng, Rui Cai, Hongyang Chao, Yong Rui",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 3A] Registering Images to Untextured Geometry Using Average Shading Gradients",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Tobias Pl\u00f6tz, Stefan Roth",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 3A] Robust Nonrigid Registration by Convex Optimization",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Qifeng Chen, Vladlen Koltun",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 3A] Robust and Optimal Sum-of-Squares-Based Point-to-Plane Registration of Image Sets and Structured Scenes",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Danda Pani Paudel, Adlane Habed, C\u00e9dric Demonceaux, Pascal Vasseur",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 3B] 3D-Assisted Feature Synthesis for Novel Views of an Object",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Hao Su, Fan Wang, Eric Yi, Leonidas J. Guibas",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 3B] Camera Pose Voting for Large-Scale Image-Based Localization",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Bernhard Zeisl, Torsten Sattler, Marc Pollefeys",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 3B] Lost Shopping! Monocular Localization in Large Indoor Spaces",
+        "session": "recognition and 3d computer vision ii",
+        "author": "Shenlong Wang, Sanja Fidler, Raquel Urtasun",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 3B] Render for CNN: Viewpoint Estimation in Images Using CNNs Trained With Rendered 3D Model Views",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Hao Su, Charles R. Qi, Yangyan Li, Leonidas J. Guibas",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 3C] Learning Complexity-Aware Cascades for Deep Pedestrian Detection",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Zhaowei Cai, Mohammad Saberian, Nuno Vasconcelos",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 3C] Multi-Task Recurrent Neural Network for Immediacy Prediction",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Xiao Chu, Wanli Ouyang, Wei Yang, Xiaogang Wang",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 3C] Opening the Black Box: Hierarchical Sampling Optimization for Estimating Human Hand Pose",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Danhang Tang, Jonathan Taylor, Pushmeet Kohli, Cem Keskin, Tae-Kyun Kim, Jamie Shotton",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 3C] Panoptic Studio: A Massively Multiview System for Social Motion Capture",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Hanbyul Joo, Hao Liu, Lei Tan, Lin Gui, Bart Nabbe, Iain Matthews, Takeo Kanade, Shohei Nobuhara, Yaser Sheikh",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 3C] Training a Feedback Loop for Hand Pose Estimation",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "Markus Oberweger, Paul Wohlhart, Vincent Lepetit",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 3C] Where to Buy It: Matching Street Clothing Photos in Online Shops",
+        "session": "statistical methods and learning, motion and tracking, and video analysis i",
+        "author": "M. Hadi Kiapour, Xufeng Han, Svetlana Lazebnik, Alexander C. Berg, Tamara L. Berg",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 4A] Airborne Three-Dimensional Cloud Tomography",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Aviad Levis, Yoav Y. Schechner, Amit Aides, Anthony B. Davis",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 4A] Leave-One-Out Kernel Optimization for Shadow Detection",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Tomas F. Yago Vicente, Minh Hoai, Dimitris Samaras",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 4A] Mutual-Structure for Joint Filtering",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Xiaoyong Shen, Chao Zhou, Li Xu, Jiaya Jia",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 4A] Polarized 3D: High-Quality Depth Sensing With Polarization Cues",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Achuta Kadambi, Vage Taamazyan, Boxin Shi, Ramesh Raskar",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 4A] Removing Rain From a Single Image via Discriminative Sparse Coding",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Yu Luo, Yong Xu, Hui Ji",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 4B] Dense Semantic Correspondence Where Every Pixel is a Classifier",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Hilton Bristow, Jack Valmadre, Simon Lucey",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 4B] Flow Fields: Dense Correspondence Fields for Highly Accurate Large Displacement Optical Flow Estimation",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Christian Bailer, Bertram Taetz, Didier Stricker",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 4B] Multi-Image Matching via Fast Alternating Minimization",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Xiaowei Zhou, Menglong Zhu, Kostas Daniilidis",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 4B] SPM-BP: Sped-up PatchMatch Belief Propagation for Continuous MRFs",
+        "session": "computational photography, face and gesture, and vision for x",
+        "author": "Yu Li, Dongbo Min, Michael S. Brown, Minh N. Do, Jiangbo Lu",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 4C] Generating Notifications for Missing Actions: Don't Forget to Turn the Lights Off!",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Bilge Soran, Ali Farhadi, Linda Shapiro",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 4C] Learning to Track: Online Multi-Object Tracking by Decision Making",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Yu Xiang, Alexandre Alahi, Silvio Savarese",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 4C] Multiple Hypothesis Tracking Revisited",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Chanho Kim, Fuxin Li, Arridhana Ciptadi, James M. Rehg",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 4C] Partial Person Re-Identification",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Wei-Shi Zheng, Xiang Li, Tao Xiang, Shengcai Liao, Jianhuang Lai, Shaogang Gong",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 4C] Shape Interaction Matrix Revisited and Robustified: Efficient Subspace Clustering With Corrupted and Incomplete Data",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Pan Ji, Mathieu Salzmann, Hongdong Li",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "[From Oral 4C] Uncovering Interactions and Interactors: Joint Estimation of Head, Body Orientation and F-Formations From Surveillance Videos",
+        "session": "statistical methods and learning, motion and tracking, and video analysis ii",
+        "author": "Elisa Ricci, Jagannadan Varadarajan, Ramanathan Subramanian, Samuel Rota Bul\u00f2, Narendra Ahuja, Oswald Lanz",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    },
+    {
+        "title": "kNN Hashing With Factorized Neighborhood Representation",
+        "session": "recognition and 3d computer vision i",
+        "author": "Kun Ding, Chunlei Huo, Bin Fan, Chunhong Pan",
+        "status": "Poster",
+        "track": "main",
+        "pid": ""
+    }
+]
