@@ -70,5 +70,23 @@
                 "2": 56
             }
         }
+    },
+    "2015": {
+        "main": {
+            "src": {
+                "site": {
+                    "name": "iccv2015.thecvf.com",
+                    "url": "http://iccv2015.thecvf.com/"
+                }
+            },
+            "tname": {
+                "0": "Poster",
+                "1": "Oral"
+            },
+            "tnum": {
+                "0": 526,
+                "1": 50
+            }
+        }
     }
 }
