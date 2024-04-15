@@ -115,7 +115,7 @@
         "title": "A Dual-Source Approach for 3D Pose Estimation From a Single Image",
         "session": "Human Pose Estimation",
         "author": "Hashim Yasin, Umar Iqbal, Bj\u00f6rn Kr\u00fcger, Andreas Weber, Juergen Gall",
-        "status": "Poster",
+        "status": "Spotlight",
         "track": "main",
         "pid": "43"
     },
@@ -235,7 +235,7 @@
         "title": "A Robust Multilinear Model Learning Framework for 3D Faces",
         "session": "Face and Gesture",
         "author": "Timo Bolkart, Stefanie Wuhrer",
-        "status": "Poster",
+        "status": "Oral",
         "track": "main",
         "pid": "39"
     },
@@ -1067,7 +1067,7 @@
         "title": "DeepCut: Joint Subset Partition and Labeling for Multi Person Pose Estimation",
         "session": "Human Pose Estimation",
         "author": "Leonid Pishchulin, Eldar Insafutdinov, Siyu Tang, Bjoern Andres, Mykhaylo Andriluka, Peter V. Gehler, Bernt Schiele",
-        "status": "Poster",
+        "status": "Spotlight",
         "track": "main",
         "pid": "41"
     },
@@ -1387,7 +1387,7 @@
         "title": "Efficiently Creating 3D Training Data for Fine Hand Pose Estimation",
         "session": "Human Pose Estimation",
         "author": "Markus Oberweger, Gernot Riegler, Paul Wohlhart, Vincent Lepetit",
-        "status": "Poster",
+        "status": "Spotlight",
         "track": "main",
         "pid": "44"
     },
@@ -3171,7 +3171,7 @@
         "title": "Ordinal Regression With Multiple Output CNN for Age Estimation",
         "session": "Face and Gesture",
         "author": "Zhenxing Niu, Mo Zhou, Le Wang, Xinbo Gao, Gang Hua",
-        "status": "Poster",
+        "status": "Oral",
         "track": "main",
         "pid": "40"
     },
@@ -4219,7 +4219,7 @@
         "title": "Sparseness Meets Deepness: 3D Human Pose Estimation From Monocular Video",
         "session": "Human Pose Estimation",
         "author": "Xiaowei Zhou, Menglong Zhu, Spyridon Leonardos, Konstantinos G. Derpanis, Kostas Daniilidis",
-        "status": "Poster",
+        "status": "Spotlight",
         "track": "main",
         "pid": "45"
     },
@@ -4587,7 +4587,7 @@
         "title": "Thin-Slicing for Pose: Learning to Understand Pose Without Explicit Pose Estimation",
         "session": "Human Pose Estimation",
         "author": "Suha Kwak, Minsu Cho, Ivan Laptev",
-        "status": "Poster",
+        "status": "Spotlight",
         "track": "main",
         "pid": "42"
     },
