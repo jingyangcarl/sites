@@ -12993,7 +12993,7 @@
     },
     {
         "title": "Prioritized Soft Q-Decomposition for Lexicographic Reinforcement Learning",
-        "author": "Finn Rietz, Erik Schaffernicht, Stefan Heinrich, Johannes Stork",
+        "author": "Finn Rietz, Erik Schaffernicht, Stefan Heinrich, Johannes A. Stork",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18314",
@@ -16513,7 +16513,7 @@
     },
     {
         "title": "Time-LLM: Time Series Forecasting by Reprogramming Large Language Models",
-        "author": "Ming Jin, Shiyu Wang, Lintao Ma, Zhixuan Chu, james zhang, Xiaoming Shi, Pin-Yu Chen, Yuxuan Liang, Yuan-Fang Li, Shirui Pan, Qingsong Wen",
+        "author": "Ming Jin, Shiyu Wang, Lintao Ma, Zhixuan Chu, James Zhang, Xiaoming Shi, Pin-Yu Chen, Yuxuan Liang, Yuan-Fang Li, Shirui Pan, Qingsong Wen",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18518",
