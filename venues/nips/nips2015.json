@@ -4,2820 +4,3223 @@
         "author": "Xiaozhi Chen, Kaustav Kundu, Yukun Zhu, Andrew G Berneshawi, Huimin Ma, Sanja Fidler, Raquel Urtasun",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5492"
+        "site": "https://nips.cc/virtual/2015/poster/5492",
+        "id": "5492"
     },
     {
         "title": "A Bayesian Framework for Modeling Confidence in Perceptual Decision Making",
         "author": "Koosha Khalvati, Rajesh PN Rao",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5671"
+        "site": "https://nips.cc/virtual/2015/poster/5671",
+        "id": "5671"
     },
     {
         "title": "A Complete Recipe for Stochastic Gradient MCMC",
         "author": "Yi-An Ma, Tianqi Chen, Emily Fox",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5714"
+        "site": "https://nips.cc/virtual/2015/poster/5714",
+        "id": "5714"
     },
     {
         "title": "A Convergent Gradient Descent Algorithm for Rank Minimization and Semidefinite Programming from Random Linear Measurements",
         "author": "Qinqing Zheng, John Lafferty",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5465"
+        "site": "https://nips.cc/virtual/2015/poster/5465",
+        "id": "5465"
     },
     {
         "title": "A Dual Augmented Block Minimization Framework for Learning with Limited Memory",
         "author": "Ian En-Hsu Yen, Shan-Wei Lin, Shou-De Lin",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5773"
+        "site": "https://nips.cc/virtual/2015/poster/5773",
+        "id": "5773"
     },
     {
         "title": "A Framework for Individualizing Predictions of Disease Trajectories by Exploiting Multi-Resolution Structure",
         "author": "Peter Schulam, Suchi Saria",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5521"
+        "site": "https://nips.cc/virtual/2015/poster/5521",
+        "id": "5521"
     },
     {
         "title": "A Gaussian Process Model of Quasar Spectral Energy Distributions",
         "author": "Andrew Miller, Albert Wu, Jeffrey Regier, Jon McAuliffe, Dustin Lang, Mr. Prabhat, David Schlegel, Ryan Adams",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5679"
+        "site": "https://nips.cc/virtual/2015/poster/5679",
+        "id": "5679"
     },
     {
         "title": "A Generalization of Submodular Cover via the Diminishing Return Property on the Integer Lattice",
         "author": "Tasuku Soma, Yuichi Yoshida",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5530"
+        "site": "https://nips.cc/virtual/2015/poster/5530",
+        "id": "5530"
     },
     {
         "title": "A Market Framework for Eliciting Private Data",
         "author": "Bo Waggoner, Rafael Frongillo, Jacob D Abernethy",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5765"
+        "site": "https://nips.cc/virtual/2015/poster/5765",
+        "id": "5765"
     },
     {
         "title": "A Nonconvex Optimization Framework for Low Rank Matrix Estimation",
         "author": "Tuo Zhao, Zhaoran Wang, Han Liu",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5505"
+        "site": "https://nips.cc/virtual/2015/poster/5505",
+        "id": "5505"
     },
     {
         "title": "A Normative Theory of Adaptive Dimensionality Reduction in Neural Networks",
         "author": "Cengiz Pehlevan, Dmitri Chklovskii",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5658"
+        "site": "https://nips.cc/virtual/2015/poster/5658",
+        "id": "5658"
     },
     {
         "title": "A Pseudo-Euclidean Iteration for Optimal Recovery in Noisy ICA",
         "author": "James R Voss, Mikhail Belkin, Luis Rademacher",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5710"
+        "site": "https://nips.cc/virtual/2015/poster/5710",
+        "id": "5710"
     },
     {
         "title": "A Recurrent Latent Variable Model for Sequential Data",
         "author": "Junyoung Chung, Kyle Kastner, Laurent Dinh, Kratarth Goel, Aaron Courville, Yoshua Bengio",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5720"
+        "site": "https://nips.cc/virtual/2015/poster/5720",
+        "id": "5720"
     },
     {
         "title": "A Reduced-Dimension fMRI Shared Response Model",
         "author": "Cameron Po-Hsuan Chen, Janice Chen, Yaara Yeshurun, Uri Hasson, James Haxby, Peter J Ramadge",
         "status": "Oral",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5871"
+        "site": "https://nips.cc/virtual/2015/poster/5871",
+        "id": "5871"
     },
     {
         "title": "A Structural Smoothing Framework For Robust Graph Comparison",
         "author": "Pinar Yanardag, S.V.N. Vishwanathan",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5644"
+        "site": "https://nips.cc/virtual/2015/poster/5644",
+        "id": "5644"
     },
     {
         "title": "A Theory of Decision Making Under Dynamic Context",
         "author": "Michael Shvartsman, Vaibhav Srivastava, Jonathan D Cohen",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5678"
+        "site": "https://nips.cc/virtual/2015/poster/5678",
+        "id": "5678"
     },
     {
         "title": "A Tractable Approximation to Optimal Point Process Filtering: Application to Neural Encoding",
         "author": "Yuval Harel, Ron Meir, Manfred Opper",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5874"
+        "site": "https://nips.cc/virtual/2015/poster/5874",
+        "id": "5874"
     },
     {
         "title": "A Universal Catalyst for First-Order Optimization",
         "author": "Hongzhou Lin, Julien Mairal, Zaid Harchaoui",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5755"
+        "site": "https://nips.cc/virtual/2015/poster/5755",
+        "id": "5755"
     },
     {
         "title": "A Universal Primal-Dual Convex Optimization Framework",
         "author": "Alp Yurtsever, Quoc Tran Dinh, Volkan Cevher",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5734"
+        "site": "https://nips.cc/virtual/2015/poster/5734",
+        "id": "5734"
     },
     {
         "title": "A class of network models recoverable by spectral clustering",
         "author": "Yali Wan, Marina Meila",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5745"
+        "site": "https://nips.cc/virtual/2015/poster/5745",
+        "id": "5745"
     },
     {
         "title": "A fast, universal algorithm to learn parametric nonlinear embeddings",
         "author": "Miguel A. Carreira-Perpinan, Max Vladymyrov",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5475"
+        "site": "https://nips.cc/virtual/2015/poster/5475",
+        "id": "5475"
     },
     {
         "title": "A hybrid sampler for Poisson-Kingman mixture models",
         "author": "Maria Lomeli, Stefano Favaro, Yee Whye Teh",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5646"
+        "site": "https://nips.cc/virtual/2015/poster/5646",
+        "id": "5646"
     },
     {
         "title": "Accelerated Mirror Descent in Continuous and Discrete Time",
         "author": "Walid Krichene, Alexandre Bayen, Peter Bartlett",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5883"
+        "site": "https://nips.cc/virtual/2015/poster/5883",
+        "id": "5883"
     },
     {
         "title": "Accelerated Proximal Gradient Methods for Nonconvex Programming",
         "author": "Huan Li, Zhouchen Lin",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5487"
+        "site": "https://nips.cc/virtual/2015/poster/5487",
+        "id": "5487"
     },
     {
         "title": "Action-Conditional Video Prediction using Deep Networks in Atari Games",
         "author": "Junhyuk Oh, Xiaoxiao Guo, Honglak Lee, Richard L Lewis, Satinder Singh",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5869"
+        "site": "https://nips.cc/virtual/2015/poster/5869",
+        "id": "5869"
     },
     {
         "title": "Active Learning from Weak and Strong Labelers",
         "author": "Chicheng Zhang, Kamalika Chaudhuri",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5517"
+        "site": "https://nips.cc/virtual/2015/poster/5517",
+        "id": "5517"
     },
     {
         "title": "Adaptive Low-Complexity Sequential Inference for Dirichlet Process Mixture Models",
         "author": "Theodoros Tsiligkaridis, Theodoros Tsiligkaridis, Keith Forsythe",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5457"
+        "site": "https://nips.cc/virtual/2015/poster/5457",
+        "id": "5457"
     },
     {
         "title": "Adaptive Online Learning",
         "author": "Dylan Foster, Alexander Rakhlin, Karthik Sridharan",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5886"
+        "site": "https://nips.cc/virtual/2015/poster/5886",
+        "id": "5886"
     },
     {
         "title": "Adaptive Primal-Dual Splitting Methods for Statistical Learning and Image Processing",
         "author": "Tom Goldstein, Min Li, Xiaoming Yuan",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5641"
+        "site": "https://nips.cc/virtual/2015/poster/5641",
+        "id": "5641"
     },
     {
         "title": "Adaptive Stochastic Optimization: From Sets to Paths",
         "author": "Zhan Wei Lim, David Hsu, Wee Sun Lee",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5596"
+        "site": "https://nips.cc/virtual/2015/poster/5596",
+        "id": "5596"
     },
     {
         "title": "Adversarial Prediction Games for Multivariate Losses",
         "author": "Hong Wang, Wei Xing, Kaiser Asif, Brian Ziebart",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5699"
+        "site": "https://nips.cc/virtual/2015/poster/5699",
+        "id": "5699"
     },
     {
         "title": "Algorithmic Stability and Uniform Generalization",
         "author": "Ibrahim M Alabdulmohsin",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5456"
+        "site": "https://nips.cc/virtual/2015/poster/5456",
+        "id": "5456"
     },
     {
         "title": "Algorithms with Logarithmic or Sublinear Regret for Constrained Contextual Bandits",
         "author": "Huasen Wu, R. Srikant, Xin Liu, Chong Jiang",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5493"
+        "site": "https://nips.cc/virtual/2015/poster/5493",
+        "id": "5493"
     },
     {
         "title": "Alternating Minimization for Regression Problems with Vector-valued Outputs",
         "author": "Prateek Jain, Ambuj Tewari",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5557"
+        "site": "https://nips.cc/virtual/2015/poster/5557",
+        "id": "5557"
     },
     {
         "title": "An Active Learning Framework using Sparse-Graph Codes for Sparse Polynomials and Graph Sketching",
         "author": "Xiao Li, Kannan Ramchandran",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5647"
+        "site": "https://nips.cc/virtual/2015/poster/5647",
+        "id": "5647"
     },
     {
         "title": "Analysis of Robust PCA via Local Incoherence",
         "author": "Huishuai Zhang, Yi Zhou, Yingbin Liang",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5619"
+        "site": "https://nips.cc/virtual/2015/poster/5619",
+        "id": "5619"
     },
     {
         "title": "Anytime Influence Bounds and the Explosive Behavior of Continuous-Time Diffusion Networks",
         "author": "Kevin Scaman, R\u00e9mi Lemonnier, Nicolas Vayatis",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5636"
+        "site": "https://nips.cc/virtual/2015/poster/5636",
+        "id": "5636"
     },
     {
         "title": "Approximating Sparse PCA from Incomplete Data",
         "author": "ABHISEK KUNDU, Petros Drineas, Malik Magdon-Ismail",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5488"
+        "site": "https://nips.cc/virtual/2015/poster/5488",
+        "id": "5488"
     },
     {
         "title": "Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question",
         "author": "Haoyuan Gao, Junhua Mao, Jie Zhou, Zhiheng Huang, Lei Wang, Wei Xu",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5661"
+        "site": "https://nips.cc/virtual/2015/poster/5661",
+        "id": "5661"
     },
     {
         "title": "Associative Memory via a Sparse Recovery Model",
         "author": "Arya Mazumdar, Ankit Singh Rawat",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5696"
+        "site": "https://nips.cc/virtual/2015/poster/5696",
+        "id": "5696"
     },
     {
         "title": "Asynchronous Parallel Stochastic Gradient for Nonconvex Optimization",
         "author": "Xiangru Lian, Yijun Huang, Yuncheng Li, Ji Liu",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5823"
+        "site": "https://nips.cc/virtual/2015/poster/5823",
+        "id": "5823"
     },
     {
         "title": "Asynchronous stochastic convex optimization: the noise is in the noise and SGD don't care",
         "author": "Sorathan Chaturapruek, John Duchi, Christopher R\u00e9",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5591"
+        "site": "https://nips.cc/virtual/2015/poster/5591",
+        "id": "5591"
     },
     {
         "title": "Attention-Based Models for Speech Recognition",
         "author": "Jan K Chorowski, Dzmitry Bahdanau, Dmitriy Serdyuk, Kyunghyun Cho, Yoshua Bengio",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5856"
+        "site": "https://nips.cc/virtual/2015/poster/5856",
+        "id": "5856"
     },
     {
         "title": "Attractor Network Dynamics Enable Preplay and Rapid Path Planning in Maze\u2013like Environments",
         "author": "Dane Corneil, Wulfram Gerstner",
         "status": "Oral",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5861"
+        "site": "https://nips.cc/virtual/2015/poster/5861",
+        "id": "5861"
     },
     {
         "title": "Automatic Variational Inference in Stan",
         "author": "Alp Kucukelbir, Rajesh Ranganath, Andrew Gelman, David Blei",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5810"
+        "site": "https://nips.cc/virtual/2015/poster/5810",
+        "id": "5810"
     },
     {
         "title": "BACKSHIFT: Learning causal cyclic graphs from unknown shift interventions",
         "author": "Dominik Rothenh\u00e4usler, Christina Heinze-Deml, Jonas Peters, Nicolai Meinshausen",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5589"
+        "site": "https://nips.cc/virtual/2015/poster/5589",
+        "id": "5589"
     },
     {
         "title": "Backpropagation for Energy-Efficient Neuromorphic Computing",
         "author": "Steve Esser, Rathinakumar Appuswamy, Paul Merolla, John Arthur, Dharmendra S Modha",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5864"
+        "site": "https://nips.cc/virtual/2015/poster/5864",
+        "id": "5864"
     },
     {
         "title": "Bandit Smooth Convex Optimization: Improving the Bias-Variance Tradeoff",
         "author": "Ofer Dekel, Ronen Eldan, Tomer Koren",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5885"
+        "site": "https://nips.cc/virtual/2015/poster/5885",
+        "id": "5885"
     },
     {
         "title": "Bandits with Unobserved Confounders: A Causal Approach",
         "author": "Elias Bareinboim, Andrew Forney, Judea Pearl",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5575"
+        "site": "https://nips.cc/virtual/2015/poster/5575",
+        "id": "5575"
     },
     {
         "title": "Barrier Frank-Wolfe for Marginal Inference",
         "author": "Rahul G Krishnan, Simon Lacoste-Julien, David Sontag",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5503"
+        "site": "https://nips.cc/virtual/2015/poster/5503",
+        "id": "5503"
     },
     {
         "title": "Basis refinement strategies for linear value function approximation in MDPs",
         "author": "Gheorghe Comanici, Doina Precup, Prakash Panangaden",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5712"
+        "site": "https://nips.cc/virtual/2015/poster/5712",
+        "id": "5712"
     },
     {
         "title": "Bayesian Active Model Selection with an Application to Automated Audiometry",
         "author": "Jacob Gardner, Gustavo Malkomes, Roman Garnett, Kilian Weinberger, Dennis Barbour, John Cunningham",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5668"
+        "site": "https://nips.cc/virtual/2015/poster/5668",
+        "id": "5668"
     },
     {
         "title": "Bayesian Manifold Learning: The Locally Linear Latent Variable Model (LL-LVM)",
         "author": "Mijung Park, Wittawat Jitkrittum, Ahmad Qamar, Zoltan Szabo, Lars Buesing, Maneesh Sahani",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5469"
+        "site": "https://nips.cc/virtual/2015/poster/5469",
+        "id": "5469"
     },
     {
         "title": "Bayesian Optimization with Exponential Convergence",
         "author": "Kenji Kawaguchi, Leslie Kaelbling, Tom\u00e1s Lozano-P\u00e9rez",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5706"
+        "site": "https://nips.cc/virtual/2015/poster/5706",
+        "id": "5706"
     },
     {
         "title": "Bayesian dark knowledge",
         "author": "Anoop Korattikara Balan, Vivek Rathod, Kevin Murphy, Max Welling",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5760"
+        "site": "https://nips.cc/virtual/2015/poster/5760",
+        "id": "5760"
     },
     {
         "title": "Beyond Convexity: Stochastic Quasi-Convex Optimization",
         "author": "Elad Hazan, Kfir Y. Levy, Shai Shalev-Shwartz",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5597"
+        "site": "https://nips.cc/virtual/2015/poster/5597",
+        "id": "5597"
     },
     {
         "title": "Beyond Sub-Gaussian Measurements: High-Dimensional Structured Estimation with Sub-Exponential Designs",
         "author": "Vidyashankar Sivakumar, Arindam Banerjee, Pradeep Ravikumar",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5651"
+        "site": "https://nips.cc/virtual/2015/poster/5651",
+        "id": "5651"
     },
     {
         "title": "Bidirectional Recurrent Convolutional Networks for Multi-Frame Super-Resolution",
         "author": "Yan Huang, Wei Wang, Liang Wang",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5473"
+        "site": "https://nips.cc/virtual/2015/poster/5473",
+        "id": "5473"
     },
     {
         "title": "Bidirectional Recurrent Neural Networks as Generative Models",
         "author": "Mathias Berglund, Tapani Raiko, Mikko Honkala, Leo K\u00e4rkk\u00e4inen, Akos Vetek, Juha T Karhunen",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5531"
+        "site": "https://nips.cc/virtual/2015/poster/5531",
+        "id": "5531"
     },
     {
         "title": "BinaryConnect: Training Deep Neural Networks with binary weights during propagations",
         "author": "Matthieu Courbariaux, Yoshua Bengio, Jean-Pierre David",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5733"
+        "site": "https://nips.cc/virtual/2015/poster/5733",
+        "id": "5733"
     },
     {
         "title": "Biologically Inspired Dynamic Textures for Probing Motion Perception",
         "author": "Jonathan Vacher, Andrew Isaac Meso, Laurent U Perrinet, Gabriel Peyr\u00e9",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5803"
+        "site": "https://nips.cc/virtual/2015/poster/5803",
+        "id": "5803"
     },
     {
         "title": "Black-box optimization of noisy functions with unknown smoothness",
         "author": "Jean-Bastien Grill, Michal Valko, Remi Munos, Remi Munos",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5514"
+        "site": "https://nips.cc/virtual/2015/poster/5514",
+        "id": "5514"
     },
     {
         "title": "Bounding errors of Expectation-Propagation",
         "author": "Guillaume Dehaene, Simon Barthelm\u00e9",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5474"
+        "site": "https://nips.cc/virtual/2015/poster/5474",
+        "id": "5474"
     },
     {
         "title": "Bounding the Cost of Search-Based Lifted Inference",
         "author": "David B Smith, Vibhav Gogate",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5540"
+        "site": "https://nips.cc/virtual/2015/poster/5540",
+        "id": "5540"
     },
     {
         "title": "COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Co-evolution",
         "author": "Mehrdad Farajtabar, Yichen Wang, Manuel Rodriguez, Shuang Li, Hongyuan Zha, Le Song",
         "status": "Oral",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5805"
+        "site": "https://nips.cc/virtual/2015/poster/5805",
+        "id": "5805"
     },
     {
         "title": "Calibrated Structured Prediction",
         "author": "Volodymyr Kuleshov, Percy Liang",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5762"
+        "site": "https://nips.cc/virtual/2015/poster/5762",
+        "id": "5762"
     },
     {
         "title": "Character-level Convolutional Networks for Text Classification",
         "author": "Xiang Zhang, Junbo (Jake) Zhao, Yann LeCun",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5512"
+        "site": "https://nips.cc/virtual/2015/poster/5512",
+        "id": "5512"
     },
     {
         "title": "Closed-form Estimators for High-dimensional Generalized Linear Models",
         "author": "Eunho Yang, Aurelie Lozano, Pradeep Ravikumar",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5835"
+        "site": "https://nips.cc/virtual/2015/poster/5835",
+        "id": "5835"
     },
     {
         "title": "Collaborative Filtering with Graph Information: Consistency and Scalable Methods",
         "author": "Nikhil Rao, Hsiang-Fu Yu, Pradeep Ravikumar, Inderjit Dhillon",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5898"
+        "site": "https://nips.cc/virtual/2015/poster/5898",
+        "id": "5898"
     },
     {
         "title": "Collaboratively Learning Preferences from Ordinal Data",
         "author": "Sewoong Oh, Kiran Thekumparampil, Jiaming Xu",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5628"
+        "site": "https://nips.cc/virtual/2015/poster/5628",
+        "id": "5628"
     },
     {
         "title": "Color Constancy by Learning to Predict Chromaticity from Luminance",
         "author": "Ayan Chakrabarti",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5867"
+        "site": "https://nips.cc/virtual/2015/poster/5867",
+        "id": "5867"
     },
     {
         "title": "Column Selection via Adaptive Sampling",
         "author": "Saurabh Paul, Malik Magdon-Ismail, Petros Drineas",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5490"
+        "site": "https://nips.cc/virtual/2015/poster/5490",
+        "id": "5490"
     },
     {
         "title": "Combinatorial Bandits Revisited",
         "author": "Richard Combes, M. Sadegh Talebi, Alexandre Proutiere, marc lelarge",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5642"
+        "site": "https://nips.cc/virtual/2015/poster/5642",
+        "id": "5642"
     },
     {
         "title": "Combinatorial Cascading Bandits",
         "author": "Branislav Kveton, Zheng Wen, Azin Ashkan, Csaba Szepesvari",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5584"
+        "site": "https://nips.cc/virtual/2015/poster/5584",
+        "id": "5584"
     },
     {
         "title": "Communication Complexity of Distributed Convex Learning and Optimization",
         "author": "Yossi Arjevani, Ohad Shamir",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5612"
+        "site": "https://nips.cc/virtual/2015/poster/5612",
+        "id": "5612"
     },
     {
         "title": "Community Detection via Measure Space Embedding",
         "author": "Mark Kozdoba, Shie Mannor",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5711"
+        "site": "https://nips.cc/virtual/2015/poster/5711",
+        "id": "5711"
     },
     {
         "title": "Competitive Distribution Estimation: Why is Good-Turing Good",
         "author": "Alon Orlitsky, Ananda Theertha Suresh",
         "status": "Oral",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5836"
+        "site": "https://nips.cc/virtual/2015/poster/5836",
+        "id": "5836"
     },
     {
         "title": "Compressive spectral embedding: sidestepping the SVD",
         "author": "Dinesh Ramasamy, Upamanyu Madhow",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5504"
+        "site": "https://nips.cc/virtual/2015/poster/5504",
+        "id": "5504"
     },
     {
         "title": "Consistent Multilabel Classification",
         "author": "Oluwasanmi Koyejo, Nagarajan Natarajan, Pradeep Ravikumar, Inderjit Dhillon",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5749"
+        "site": "https://nips.cc/virtual/2015/poster/5749",
+        "id": "5749"
     },
     {
         "title": "Convergence Analysis of Prediction Markets via Randomized Subspace Descent",
         "author": "Rafael Frongillo, Mark Reid",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5725"
+        "site": "https://nips.cc/virtual/2015/poster/5725",
+        "id": "5725"
     },
     {
         "title": "Convergence Rates of Active Learning for Maximum Likelihood Estimation",
         "author": "Kamalika Chaudhuri, Sham Kakade, Praneeth Netrapalli, Sujay Sanghavi",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5555"
+        "site": "https://nips.cc/virtual/2015/poster/5555",
+        "id": "5555"
     },
     {
         "title": "Convergence rates of sub-sampled Newton methods",
         "author": "Murat Erdogdu, Andrea Montanari",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5727"
+        "site": "https://nips.cc/virtual/2015/poster/5727",
+        "id": "5727"
     },
     {
         "title": "Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting",
         "author": "Xingjian Shi, Zhourong Chen, Hao Wang, Dit-Yan Yeung, Wai-kin Wong, Wang-chun WOO",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5527"
+        "site": "https://nips.cc/virtual/2015/poster/5527",
+        "id": "5527"
     },
     {
         "title": "Convolutional Networks on Graphs for Learning Molecular Fingerprints",
         "author": "David Duvenaud, Dougal Maclaurin, Jorge Iparraguirre, Rafael Bombarell, Timothy Hirzel, Alan Aspuru-Guzik, Ryan Adams",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5653"
+        "site": "https://nips.cc/virtual/2015/poster/5653",
+        "id": "5653"
     },
     {
         "title": "Convolutional Neural Networks with Intra-Layer Recurrent Connections for Scene Labeling",
         "author": "Ming Liang, Xiaolin Hu, Bo Zhang",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5539"
+        "site": "https://nips.cc/virtual/2015/poster/5539",
+        "id": "5539"
     },
     {
         "title": "Convolutional spike-triggered covariance analysis for neural subunit models",
         "author": "Anqi Wu, Il Memming Park, Jonathan Pillow",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5526"
+        "site": "https://nips.cc/virtual/2015/poster/5526",
+        "id": "5526"
     },
     {
         "title": "Copeland Dueling Bandits",
         "author": "Masrour Zoghi, Zohar Karnin, Shimon Whiteson, Maarten de Rijke",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5480"
+        "site": "https://nips.cc/virtual/2015/poster/5480",
+        "id": "5480"
     },
     {
         "title": "Copula variational inference",
         "author": "Dustin Tran, David Blei, Edo M Airoldi",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5771"
+        "site": "https://nips.cc/virtual/2015/poster/5771",
+        "id": "5771"
     },
     {
         "title": "Cornering Stationary and Restless Mixing Bandits with Remix-UCB",
         "author": "Julien Audiffren, Liva Ralaivola",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5751"
+        "site": "https://nips.cc/virtual/2015/poster/5751",
+        "id": "5751"
     },
     {
         "title": "Covariance-Controlled Adaptive Langevin Thermostat for Large-Scale Bayesian Sampling",
         "author": "Xiaocheng Shang, Zhanxing Zhu, Benedict Leimkuhler, Amos Storkey",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5458"
+        "site": "https://nips.cc/virtual/2015/poster/5458",
+        "id": "5458"
     },
     {
         "title": "Cross-Domain Matching for Bag-of-Words Data via Kernel Embeddings of Latent Distributions",
         "author": "Yuya Yoshikawa, Tomoharu Iwata, Hiroshi Sawada, Takeshi Yamada",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5580"
+        "site": "https://nips.cc/virtual/2015/poster/5580",
+        "id": "5580"
     },
     {
         "title": "Data Generation as Sequential Decision Making",
         "author": "Philip Bachman, Doina Precup",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5811"
+        "site": "https://nips.cc/virtual/2015/poster/5811",
+        "id": "5811"
     },
     {
         "title": "Decomposition Bounds for Marginal MAP",
         "author": "Wei Ping, Qiang Liu, Alexander Ihler",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5743"
+        "site": "https://nips.cc/virtual/2015/poster/5743",
+        "id": "5743"
     },
     {
         "title": "Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation",
         "author": "Seunghoon Hong, Hyeonwoo Noh, Bohyung Han",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5868"
+        "site": "https://nips.cc/virtual/2015/poster/5868",
+        "id": "5868"
     },
     {
         "title": "Deep Convolutional Inverse Graphics Network",
         "author": "Tejas Kulkarni, William Whitney, Pushmeet Kohli, Josh Tenenbaum",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5857"
+        "site": "https://nips.cc/virtual/2015/poster/5857",
+        "id": "5857"
     },
     {
         "title": "Deep Generative Image Models using a \ufffcLaplacian Pyramid of Adversarial Networks",
         "author": "Emily Denton, Soumith Chintala, arthur szlam, Rob Fergus",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5588"
+        "site": "https://nips.cc/virtual/2015/poster/5588",
+        "id": "5588"
     },
     {
         "title": "Deep Knowledge Tracing",
         "author": "Chris Piech, Jonathan Bassen, Jonathan Huang, Surya Ganguli, Mehran Sahami, Leonidas Guibas, Jascha Sohl-Dickstein",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5500"
+        "site": "https://nips.cc/virtual/2015/poster/5500",
+        "id": "5500"
     },
     {
         "title": "Deep Poisson Factor Modeling",
         "author": "Ricardo Henao, Zhe Gan, James Lu, Lawrence Carin",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5705"
+        "site": "https://nips.cc/virtual/2015/poster/5705",
+        "id": "5705"
     },
     {
         "title": "Deep Temporal Sigmoid Belief Networks for Sequence Modeling",
         "author": "Zhe Gan, Chunyuan Li, Ricardo Henao, David Carlson, Lawrence Carin",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5676"
+        "site": "https://nips.cc/virtual/2015/poster/5676",
+        "id": "5676"
     },
     {
         "title": "Deep Visual Analogy-Making",
         "author": "Scott E Reed, Yi Zhang, Yuting Zhang, Honglak Lee",
         "status": "Oral",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5852"
+        "site": "https://nips.cc/virtual/2015/poster/5852",
+        "id": "5852"
     },
     {
         "title": "Deep learning with Elastic Averaging SGD",
         "author": "Sixin Zhang, Anna Choromanska, Yann LeCun",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5813"
+        "site": "https://nips.cc/virtual/2015/poster/5813",
+        "id": "5813"
     },
     {
         "title": "Deeply Learning the Messages in Message Passing Inference",
         "author": "Guosheng Lin, Chunhua Shen, Ian Reid, Anton van den Hengel",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5485"
+        "site": "https://nips.cc/virtual/2015/poster/5485",
+        "id": "5485"
     },
     {
         "title": "Dependent Multinomial Models Made Easy: Stick-Breaking with the Polya-gamma Augmentation",
         "author": "Scott Linderman, Matthew Johnson, Ryan Adams",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5761"
+        "site": "https://nips.cc/virtual/2015/poster/5761",
+        "id": "5761"
     },
     {
         "title": "Differentially Private Learning of Structured Discrete Distributions",
         "author": "Ilias Diakonikolas, Moritz Hardt, Ludwig Schmidt",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5686"
+        "site": "https://nips.cc/virtual/2015/poster/5686",
+        "id": "5686"
     },
     {
         "title": "Differentially private subspace clustering",
         "author": "Yining Wang, Yu-Xiang Wang, Aarti Singh",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5545"
+        "site": "https://nips.cc/virtual/2015/poster/5545",
+        "id": "5545"
     },
     {
         "title": "Discrete R\u00e9nyi Classifiers",
         "author": "Meisam Razaviyayn, Farzan Farnia, David Tse",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5744"
+        "site": "https://nips.cc/virtual/2015/poster/5744",
+        "id": "5744"
     },
     {
         "title": "Discriminative Robust Transformation Learning",
         "author": "Jiaji Huang, Qiang Qiu, Guillermo Sapiro, Robert Calderbank",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5574"
+        "site": "https://nips.cc/virtual/2015/poster/5574",
+        "id": "5574"
     },
     {
         "title": "Distributed Submodular Cover: Succinctly Summarizing Massive Data",
         "author": "Baharan Mirzasoleiman, Amin Karbasi, Ashwinkumar Badanidiyuru, Andreas Krause",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5825"
+        "site": "https://nips.cc/virtual/2015/poster/5825",
+        "id": "5825"
     },
     {
         "title": "Distributionally Robust Logistic Regression",
         "author": "Soroosh Shafieezadeh Abadeh, Peyman Esfahani, Daniel Kuhn",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5820"
+        "site": "https://nips.cc/virtual/2015/poster/5820",
+        "id": "5820"
     },
     {
         "title": "Double or Nothing: Multiplicative Incentive Mechanisms for Crowdsourcing",
         "author": "Nihar Bhadresh Shah, Denny Zhou",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5455"
+        "site": "https://nips.cc/virtual/2015/poster/5455",
+        "id": "5455"
     },
     {
         "title": "Efficient Compressive Phase Retrieval with Constrained Sensing Vectors",
         "author": "Sohail Bahmani, Justin Romberg",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5502"
+        "site": "https://nips.cc/virtual/2015/poster/5502",
+        "id": "5502"
     },
     {
         "title": "Efficient Exact Gradient Update for training Deep Networks with Very Large Sparse Targets",
         "author": "Pascal Vincent, Alexandre de Br\u00e9bisson, Xavier Bouthillier",
         "status": "Oral",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5872"
+        "site": "https://nips.cc/virtual/2015/poster/5872",
+        "id": "5872"
     },
     {
         "title": "Efficient Learning by Directed Acyclic Graph For Resource Constrained Prediction",
         "author": "Joseph Wang, Kirill Trapeznikov, Venkatesh Saligrama",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5645"
+        "site": "https://nips.cc/virtual/2015/poster/5645",
+        "id": "5645"
     },
     {
         "title": "Efficient Learning of Continuous-Time Hidden Markov Models for Disease Progression",
         "author": "Yu-Ying Liu, Shuang Li, Fuxin Li, Le Song, James Rehg",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5774"
+        "site": "https://nips.cc/virtual/2015/poster/5774",
+        "id": "5774"
     },
     {
         "title": "Efficient Non-greedy Optimization of Decision Trees",
         "author": "Mohammad Norouzi, Maxwell Collins, Matthew A Johnson, David Fleet, Pushmeet Kohli",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5609"
+        "site": "https://nips.cc/virtual/2015/poster/5609",
+        "id": "5609"
     },
     {
         "title": "Efficient Output Kernel Learning for Multiple Tasks",
         "author": "Pratik Kumar Jawanpuria, Maksim Lapin, Matthias Hein, Bernt Schiele",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5562"
+        "site": "https://nips.cc/virtual/2015/poster/5562",
+        "id": "5562"
     },
     {
         "title": "Efficient Thompson Sampling for Online \ufffcMatrix-Factorization Recommendation",
         "author": "Jaya Kawale, Hung H Bui, Branislav Kveton, Long Tran-Thanh, Sanjay Chawla",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5570"
+        "site": "https://nips.cc/virtual/2015/poster/5570",
+        "id": "5570"
     },
     {
         "title": "Efficient and Parsimonious Agnostic Active Learning",
         "author": "Tzu-Kuo Huang, Alekh Agarwal, Daniel Hsu, John Langford, Robert Schapire",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5897"
+        "site": "https://nips.cc/virtual/2015/poster/5897",
+        "id": "5897"
     },
     {
         "title": "Efficient and Robust Automated Machine Learning",
         "author": "Matthias Feurer, Aaron Klein, Katharina Eggensperger, Jost Springenberg, Manuel Blum, Frank Hutter",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5718"
+        "site": "https://nips.cc/virtual/2015/poster/5718",
+        "id": "5718"
     },
     {
         "title": "Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images",
         "author": "Manuel Watter, Jost Springenberg, Joschka Boedecker, Martin Riedmiller",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5700"
+        "site": "https://nips.cc/virtual/2015/poster/5700",
+        "id": "5700"
     },
     {
         "title": "Embedding Inference for Structured Multilabel Prediction",
         "author": "Farzaneh Mirzazadeh, Siamak Ravanbakhsh, Nan Ding, Dale Schuurmans",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5770"
+        "site": "https://nips.cc/virtual/2015/poster/5770",
+        "id": "5770"
     },
     {
         "title": "Empirical Localization of Homogeneous Divergences on Discrete Sample Spaces",
         "author": "Takashi Takenouchi, Takafumi Kanamori",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5878"
+        "site": "https://nips.cc/virtual/2015/poster/5878",
+        "id": "5878"
     },
     {
         "title": "End-To-End Memory Networks",
         "author": "Sainbayar Sukhbaatar, arthur szlam, Jason Weston, Rob Fergus",
         "status": "Oral",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5858"
+        "site": "https://nips.cc/virtual/2015/poster/5858",
+        "id": "5858"
     },
     {
         "title": "End-to-end Learning of LDA by Mirror-Descent Back Propagation over a Deep Architecture",
         "author": "Jianshu Chen, Ji He, Yelong Shen, Lin Xiao, Xiaodong He, Jianfeng Gao, Xinying Song, Li Deng",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5613"
+        "site": "https://nips.cc/virtual/2015/poster/5613",
+        "id": "5613"
     },
     {
         "title": "Enforcing balance allows local supervised learning in spiking recurrent networks",
         "author": "Ralph Bourdoukan, Sophie Den\u00e8ve",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5544"
+        "site": "https://nips.cc/virtual/2015/poster/5544",
+        "id": "5544"
     },
     {
         "title": "Equilibrated adaptive learning rates for non-convex optimization",
         "author": "Yann Dauphin, Harm de Vries, Yoshua Bengio",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5875"
+        "site": "https://nips.cc/virtual/2015/poster/5875",
+        "id": "5875"
     },
     {
         "title": "Estimating Jaccard Index with Missing Observations: A Matrix Calibration Approach",
         "author": "Wenye Li",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5691"
+        "site": "https://nips.cc/virtual/2015/poster/5691",
+        "id": "5691"
     },
     {
         "title": "Estimating Mixture Models via Mixtures of Polynomials",
         "author": "Sida Wang, Arun Tejasvi Chaganty, Percy Liang",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5498"
+        "site": "https://nips.cc/virtual/2015/poster/5498",
+        "id": "5498"
     },
     {
         "title": "Evaluating the statistical significance of biclusters",
         "author": "Jason D Lee, Yuekai Sun, Jonathan E Taylor",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5573"
+        "site": "https://nips.cc/virtual/2015/poster/5573",
+        "id": "5573"
     },
     {
         "title": "Exactness of Approximate MAP Inference in Continuous MRFs",
         "author": "Nicholas Ruozzi",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5664"
+        "site": "https://nips.cc/virtual/2015/poster/5664",
+        "id": "5664"
     },
     {
         "title": "Expectation Particle Belief Propagation",
         "author": "Thibaut Lienart, Yee Whye Teh, Arnaud Doucet",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5775"
+        "site": "https://nips.cc/virtual/2015/poster/5775",
+        "id": "5775"
     },
     {
         "title": "Explore no more: Improved high-probability regret bounds for non-stochastic bandits",
         "author": "Gergely Neu",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5736"
+        "site": "https://nips.cc/virtual/2015/poster/5736",
+        "id": "5736"
     },
     {
         "title": "Exploring Models and Data for Image Question Answering",
         "author": "Mengye Ren, Jamie Kiros, Richard Zemel",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5717"
+        "site": "https://nips.cc/virtual/2015/poster/5717",
+        "id": "5717"
     },
     {
         "title": "Expressing an Image Stream with a Sequence of Natural Sentences",
         "author": "Cesc C Park, Gunhee Kim",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5461"
+        "site": "https://nips.cc/virtual/2015/poster/5461",
+        "id": "5461"
     },
     {
         "title": "Extending Gossip Algorithms to Distributed Estimation of U-statistics",
         "author": "Igor Colin, Aur\u00e9lien Bellet, Joseph Salmon, St\u00e9phan Cl\u00e9men\u00e7on",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5828"
+        "site": "https://nips.cc/virtual/2015/poster/5828",
+        "id": "5828"
     },
     {
         "title": "Fast Bidirectional Probability Estimation in Markov Models",
         "author": "Siddhartha Banerjee, Peter Lofgren",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5582"
+        "site": "https://nips.cc/virtual/2015/poster/5582",
+        "id": "5582"
     },
     {
         "title": "Fast Classification Rates for High-dimensional Gaussian Generative Models",
         "author": "Tianyang Li, Adarsh Prasad, Pradeep Ravikumar",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5551"
+        "site": "https://nips.cc/virtual/2015/poster/5551",
+        "id": "5551"
     },
     {
         "title": "Fast Convergence of Regularized Learning in Games",
         "author": "Vasilis Syrgkanis, Alekh Agarwal, Haipeng Luo, Robert Schapire",
         "status": "Oral",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5839"
+        "site": "https://nips.cc/virtual/2015/poster/5839",
+        "id": "5839"
     },
     {
         "title": "Fast Distributed k-Center Clustering with Outliers on Massive Data",
         "author": "Gustavo Malkomes, Matt J Kusner, Wenlin Chen, Kilian Q Weinberger, Benjamin Moseley",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5552"
+        "site": "https://nips.cc/virtual/2015/poster/5552",
+        "id": "5552"
     },
     {
         "title": "Fast Lifted MAP Inference via Partitioning",
         "author": "Somdeb Sarkhel, Parag Singla, Vibhav Gogate",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5741"
+        "site": "https://nips.cc/virtual/2015/poster/5741",
+        "id": "5741"
     },
     {
         "title": "Fast Randomized Kernel Ridge Regression with Statistical Guarantees",
         "author": "Ahmed Alaoui, Michael Mahoney",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5524"
+        "site": "https://nips.cc/virtual/2015/poster/5524",
+        "id": "5524"
     },
     {
         "title": "Fast Rates for Exp-concave Empirical Risk Minimization",
         "author": "Tomer Koren, Kfir Y. Levy",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5587"
+        "site": "https://nips.cc/virtual/2015/poster/5587",
+        "id": "5587"
     },
     {
         "title": "Fast Second Order Stochastic Backpropagation for Variational Inference",
         "author": "Kai Fan, Ziteng Wang, Jeff Beck, James Kwok, Katherine Heller",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5579"
+        "site": "https://nips.cc/virtual/2015/poster/5579",
+        "id": "5579"
     },
     {
         "title": "Fast Two-Sample Testing with Analytic Representations of Probability Measures",
         "author": "Kacper P Chwialkowski, Aaditya Ramdas, Dino Sejdinovic, Arthur Gretton",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5633"
+        "site": "https://nips.cc/virtual/2015/poster/5633",
+        "id": "5633"
     },
     {
         "title": "Fast and Accurate Inference of Plackett\u2013Luce Models",
         "author": "Lucas Maystre, Matthias Grossglauser",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5470"
+        "site": "https://nips.cc/virtual/2015/poster/5470",
+        "id": "5470"
     },
     {
         "title": "Fast and Guaranteed Tensor Decomposition via Sketching",
         "author": "Yining Wang, Hsiao-Yu Tung, Alexander Smola, Anima Anandkumar",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5894"
+        "site": "https://nips.cc/virtual/2015/poster/5894",
+        "id": "5894"
     },
     {
         "title": "Fast and Memory Optimal Low-Rank Matrix Approximation",
         "author": "Se-Young Yun, marc lelarge, Alexandre Proutiere",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5737"
+        "site": "https://nips.cc/virtual/2015/poster/5737",
+        "id": "5737"
     },
     {
         "title": "Fast, Provable Algorithms for Isotonic Regression in all L_p-norms",
         "author": "Rasmus Kyng, Anup Rao, Sushant Sachdeva",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5698"
+        "site": "https://nips.cc/virtual/2015/poster/5698",
+        "id": "5698"
     },
     {
         "title": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks",
         "author": "Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5463"
+        "site": "https://nips.cc/virtual/2015/poster/5463",
+        "id": "5463"
     },
     {
         "title": "Fighting Bandits with a New Kind of Smoothness",
         "author": "Jacob D Abernethy, Chansoo Lee, Ambuj Tewari",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5650"
+        "site": "https://nips.cc/virtual/2015/poster/5650",
+        "id": "5650"
     },
     {
         "title": "Finite-Time Analysis of Projected Langevin Monte Carlo",
         "author": "Sebastien Bubeck, Ronen Eldan, Joseph Lehec",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5567"
+        "site": "https://nips.cc/virtual/2015/poster/5567",
+        "id": "5567"
     },
     {
         "title": "Fixed-Length Poisson MRF: Adding Dependencies to the Multinomial",
         "author": "David I Inouye, Pradeep Ravikumar, Inderjit Dhillon",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5740"
+        "site": "https://nips.cc/virtual/2015/poster/5740",
+        "id": "5740"
     },
     {
         "title": "Frank-Wolfe Bayesian Quadrature: Probabilistic Integration with Theoretical Guarantees",
         "author": "Fran\u00e7ois-Xavier Briol, Chris Oates, Mark Girolami, Michael A Osborne",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5818"
+        "site": "https://nips.cc/virtual/2015/poster/5818",
+        "id": "5818"
     },
     {
         "title": "From random walks to distances on unweighted graphs",
         "author": "Tatsunori Hashimoto, Yi Sun, Tommi Jaakkola",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5759"
+        "site": "https://nips.cc/virtual/2015/poster/5759",
+        "id": "5759"
     },
     {
         "title": "GAP Safe screening rules for sparse multi-task and multi-class models",
         "author": "Eugene Ndiaye, Olivier Fercoq, Alexandre Gramfort, Joseph Salmon",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5528"
+        "site": "https://nips.cc/virtual/2015/poster/5528",
+        "id": "5528"
     },
     {
         "title": "GP Kernels for Cross-Spectrum Analysis",
         "author": "Kyle R Ulrich, David Carlson, Kafui Dzirasa, Lawrence Carin",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5634"
+        "site": "https://nips.cc/virtual/2015/poster/5634",
+        "id": "5634"
     },
     {
         "title": "Galileo: Perceiving Physical Object Properties by Integrating a Physics Engine with Deep Learning",
         "author": "Jiajun Wu, Ilker Yildirim, Joseph Lim, Bill Freeman, Josh Tenenbaum",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5467"
+        "site": "https://nips.cc/virtual/2015/poster/5467",
+        "id": "5467"
     },
     {
         "title": "Gaussian Process Random Fields",
         "author": "Dave Moore, Stuart J Russell",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5753"
+        "site": "https://nips.cc/virtual/2015/poster/5753",
+        "id": "5753"
     },
     {
         "title": "Generalization in Adaptive Data Analysis and Holdout Reuse",
         "author": "Cynthia Dwork, Vitaly Feldman, Moritz Hardt, Toni Pitassi, Omer Reingold, Aaron Roth",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5666"
+        "site": "https://nips.cc/virtual/2015/poster/5666",
+        "id": "5666"
     },
     {
         "title": "Generative Image Modeling Using Spatial LSTMs",
         "author": "Lucas Theis, Matthias Bethge",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5629"
+        "site": "https://nips.cc/virtual/2015/poster/5629",
+        "id": "5629"
     },
     {
         "title": "Gradient Estimation Using Stochastic Computation Graphs",
         "author": "John Schulman, Nicolas Heess, Theophane Weber, Pieter Abbeel",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5767"
+        "site": "https://nips.cc/virtual/2015/poster/5767",
+        "id": "5767"
     },
     {
         "title": "Gradient-free Hamiltonian Monte Carlo with Efficient Kernel Exponential Families",
         "author": "Heiko Strathmann, Dino Sejdinovic, Samuel Livingstone, Zoltan Szabo, Arthur Gretton",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5541"
+        "site": "https://nips.cc/virtual/2015/poster/5541",
+        "id": "5541"
     },
     {
         "title": "Grammar as a Foreign Language",
         "author": "Oriol Vinyals, \u0141ukasz Kaiser, Terry Koo, Slav Petrov, Ilya Sutskever, Geoffrey Hinton",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5702"
+        "site": "https://nips.cc/virtual/2015/poster/5702",
+        "id": "5702"
     },
     {
         "title": "HONOR: Hybrid Optimization for NOn-convex Regularized problems",
         "author": "Pinghua Gong, Jieping Ye",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5491"
+        "site": "https://nips.cc/virtual/2015/poster/5491",
+        "id": "5491"
     },
     {
         "title": "Halting in Random Walk Kernels",
         "author": "Mahito Sugiyama, Karsten Borgwardt",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5601"
+        "site": "https://nips.cc/virtual/2015/poster/5601",
+        "id": "5601"
     },
     {
         "title": "Hessian-free Optimization for Learning Deep Multidimensional Recurrent Neural Networks",
         "author": "Minhyung Cho, Chandra Dhir, Jaehyung Lee",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5534"
+        "site": "https://nips.cc/virtual/2015/poster/5534",
+        "id": "5534"
     },
     {
         "title": "Hidden Technical Debt in Machine Learning Systems",
         "author": "D. Sculley, Gary Holt, Daniel Golovin, Eugene Davydov, Todd Phillips, Dietmar Ebner, Vinay Chaudhary, Michael Young, Jean-Fran\u00e7ois Crespo, Dan Dennison",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5680"
+        "site": "https://nips.cc/virtual/2015/poster/5680",
+        "id": "5680"
     },
     {
         "title": "High Dimensional EM Algorithm: Statistical Optimization and Asymptotic Normality",
         "author": "Zhaoran Wang, Quanquan Gu, Yang Ning, Han Liu",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5682"
+        "site": "https://nips.cc/virtual/2015/poster/5682",
+        "id": "5682"
     },
     {
         "title": "High-dimensional neural spike train analysis with generalized count linear dynamical systems",
         "author": "Yuanjun Gao, Lars Busing, Krishna V Shenoy, John Cunningham",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5808"
+        "site": "https://nips.cc/virtual/2015/poster/5808",
+        "id": "5808"
     },
     {
         "title": "Human Memory Search as Initial-Visit Emitting Random Walk",
         "author": "Kwang-Sung Jun, Jerry Zhu, Timothy T Rogers, Zhuoran Yang, Ming Yuan",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5553"
+        "site": "https://nips.cc/virtual/2015/poster/5553",
+        "id": "5553"
     },
     {
         "title": "Improved Iteration Complexity Bounds of Cyclic Block Coordinate Descent for Convex Problems",
         "author": "Ruoyu Sun, Mingyi Hong",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5571"
+        "site": "https://nips.cc/virtual/2015/poster/5571",
+        "id": "5571"
     },
     {
         "title": "Individual Planning in Infinite-Horizon Multiagent Settings: Inference, Structure and Scalability",
         "author": "Xia Qu, Prashant Doshi",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5497"
+        "site": "https://nips.cc/virtual/2015/poster/5497",
+        "id": "5497"
     },
     {
         "title": "Inference for determinantal point processes without spectral knowledge",
         "author": "R\u00e9mi Bardenet, Michalis Titsias",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5756"
+        "site": "https://nips.cc/virtual/2015/poster/5756",
+        "id": "5756"
     },
     {
         "title": "Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets",
         "author": "Armand Joulin, Tomas Mikolov",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5860"
+        "site": "https://nips.cc/virtual/2015/poster/5860",
+        "id": "5860"
     },
     {
         "title": "Infinite Factorial Dynamical Model",
         "author": "Isabel Valera, Francisco Ruiz, Lennart Svensson, Fernando Perez-Cruz",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5603"
+        "site": "https://nips.cc/virtual/2015/poster/5603",
+        "id": "5603"
     },
     {
         "title": "Information-theoretic lower bounds for convex optimization with erroneous oracles",
         "author": "Yaron Singer, Jan Vondrak",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5884"
+        "site": "https://nips.cc/virtual/2015/poster/5884",
+        "id": "5884"
     },
     {
         "title": "Interactive Control of Diverse Complex Characters with Neural Networks",
         "author": "Igor Mordatch, Kendall Lowrey, Galen Andrew, Zoran Popovic, Emanuel Todorov",
         "status": "Oral",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5802"
+        "site": "https://nips.cc/virtual/2015/poster/5802",
+        "id": "5802"
     },
     {
         "title": "Interpolating Convex and Non-Convex Tensor Decompositions via the Subspace Norm",
         "author": "Qinqing Zheng, Ryota Tomioka",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5731"
+        "site": "https://nips.cc/virtual/2015/poster/5731",
+        "id": "5731"
     },
     {
         "title": "Inverse Reinforcement Learning with Locally Consistent Reward Functions",
         "author": "Quoc Phong Nguyen, Bryan Kian Hsiang Low, Patrick Jaillet",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5611"
+        "site": "https://nips.cc/virtual/2015/poster/5611",
+        "id": "5611"
     },
     {
         "title": "Is Approval Voting Optimal Given Approval Votes?",
         "author": "Ariel Procaccia, Nisarg Shah",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5617"
+        "site": "https://nips.cc/virtual/2015/poster/5617",
+        "id": "5617"
     },
     {
         "title": "Kullback-Leibler Proximal Variational Inference",
         "author": "Mohammad Emtiyaz Khan, Pierre Baque, Fran\u00e7ois Fleuret, Pascal Fua",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5757"
+        "site": "https://nips.cc/virtual/2015/poster/5757",
+        "id": "5757"
     },
     {
         "title": "LASSO with Non-linear Measurements is Equivalent to One With Linear Measurements",
         "author": "CHRISTOS THRAMPOULIDIS, Ehsan Abbasi, Babak Hassibi",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5832"
+        "site": "https://nips.cc/virtual/2015/poster/5832",
+        "id": "5832"
     },
     {
         "title": "Large-Scale Bayesian Multi-Label Learning via Topic-Based Label Embeddings",
         "author": "Piyush Rai, Changwei Hu, Ricardo Henao, Lawrence Carin",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5804"
+        "site": "https://nips.cc/virtual/2015/poster/5804",
+        "id": "5804"
     },
     {
         "title": "Large-scale probabilistic predictors with and without guarantees of validity",
         "author": "Vladimir Vovk, Ivan Petej, Valentina Fedorova",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5535"
+        "site": "https://nips.cc/virtual/2015/poster/5535",
+        "id": "5535"
     },
     {
         "title": "Latent Bayesian melding for integrating individual and population models",
         "author": "Mingjun Zhong, Nigel Goddard, Charles Sutton",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5807"
+        "site": "https://nips.cc/virtual/2015/poster/5807",
+        "id": "5807"
     },
     {
         "title": "Learnability of Influence in Networks",
         "author": "Harikrishna Narasimhan, David Parkes, Yaron Singer",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5738"
+        "site": "https://nips.cc/virtual/2015/poster/5738",
+        "id": "5738"
     },
     {
         "title": "Learning Bayesian Networks with Thousands of Variables",
         "author": "Mauro Scanagatta, Cassio de Campos, Giorgio Corani, Marco Zaffalon",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5623"
+        "site": "https://nips.cc/virtual/2015/poster/5623",
+        "id": "5623"
     },
     {
         "title": "Learning Causal Graphs with Small Interventions",
         "author": "Karthikeyan Shanmugam, Murat Kocaoglu, Alex Dimakis, Sriram Vishwanath",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5739"
+        "site": "https://nips.cc/virtual/2015/poster/5739",
+        "id": "5739"
     },
     {
         "title": "Learning Continuous Control Policies by Stochastic Value Gradients",
         "author": "Nicolas Heess, Gregory Wayne, David Silver, Timothy Lillicrap, Tom Erez, Yuval Tassa",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5716"
+        "site": "https://nips.cc/virtual/2015/poster/5716",
+        "id": "5716"
     },
     {
         "title": "Learning From Small Samples: An Analysis of Simple Decision Heuristics",
         "author": "\u00d6zg\u00fcr \u015eim\u015fek, Marcus Buckmann",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5735"
+        "site": "https://nips.cc/virtual/2015/poster/5735",
+        "id": "5735"
     },
     {
         "title": "Learning Large-Scale Poisson DAG Models based on OverDispersion Scoring",
         "author": "Gunwoong Park, Garvesh Raskutti",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5510"
+        "site": "https://nips.cc/virtual/2015/poster/5510",
+        "id": "5510"
     },
     {
         "title": "Learning Stationary Time Series using Gaussian Processes with Nonparametric Kernels",
         "author": "Felipe Tobar, Thang Bui, Richard Turner",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5809"
+        "site": "https://nips.cc/virtual/2015/poster/5809",
+        "id": "5809"
     },
     {
         "title": "Learning Structured Output Representation using Deep Conditional Generative Models",
         "author": "Kihyuk Sohn, Honglak Lee, Xinchen Yan",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5763"
+        "site": "https://nips.cc/virtual/2015/poster/5763",
+        "id": "5763"
     },
     {
         "title": "Learning Theory and Algorithms for Forecasting Non-stationary Time Series",
         "author": "Vitaly Kuznetsov, Mehryar Mohri",
         "status": "Oral",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5882"
+        "site": "https://nips.cc/virtual/2015/poster/5882",
+        "id": "5882"
     },
     {
         "title": "Learning Wake-Sleep Recurrent Attention Models",
         "author": "Jimmy Ba, Russ Salakhutdinov, Roger Grosse, Brendan J Frey",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5865"
+        "site": "https://nips.cc/virtual/2015/poster/5865",
+        "id": "5865"
     },
     {
         "title": "Learning both Weights and Connections for Efficient Neural Network",
         "author": "Song Han, Jeff Pool, John Tran, Bill Dally",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5558"
+        "site": "https://nips.cc/virtual/2015/poster/5558",
+        "id": "5558"
     },
     {
         "title": "Learning spatiotemporal trajectories from manifold-valued longitudinal data",
         "author": "Jean-Baptiste SCHIRATTI, St\u00e9phanie ALLASSONNIERE, Olivier Colliot, Stanley DURRLEMAN",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5670"
+        "site": "https://nips.cc/virtual/2015/poster/5670",
+        "id": "5670"
     },
     {
         "title": "Learning structured densities via infinite dimensional exponential families",
         "author": "Siqi Sun, Mladen Kolar, Jinbo Xu",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5660"
+        "site": "https://nips.cc/virtual/2015/poster/5660",
+        "id": "5660"
     },
     {
         "title": "Learning to Linearize Under Uncertainty",
         "author": "Ross Goroshin, Michael Mathieu, Yann LeCun",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5566"
+        "site": "https://nips.cc/virtual/2015/poster/5566",
+        "id": "5566"
     },
     {
         "title": "Learning to Segment Object Candidates",
         "author": "Pedro O. Pinheiro, Ronan Collobert, Piotr Dollar",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5859"
+        "site": "https://nips.cc/virtual/2015/poster/5859",
+        "id": "5859"
     },
     {
         "title": "Learning to Transduce with Unbounded Memory",
         "author": "Edward Grefenstette, Karl Moritz Hermann, Mustafa Suleyman, Phil Blunsom",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5620"
+        "site": "https://nips.cc/virtual/2015/poster/5620",
+        "id": "5620"
     },
     {
         "title": "Learning visual biases from human imagination",
         "author": "Carl Vondrick, Hamed Pirsiavash, Aude Oliva, Antonio Torralba",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5478"
+        "site": "https://nips.cc/virtual/2015/poster/5478",
+        "id": "5478"
     },
     {
         "title": "Learning with Group Invariant Features: A Kernel Perspective.",
         "author": "Youssef Mroueh, Stephen Voinea, Tomaso Poggio",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5594"
+        "site": "https://nips.cc/virtual/2015/poster/5594",
+        "id": "5594"
     },
     {
         "title": "Learning with Incremental Iterative Regularization",
         "author": "Lorenzo Rosasco, Silvia Villa",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5600"
+        "site": "https://nips.cc/virtual/2015/poster/5600",
+        "id": "5600"
     },
     {
         "title": "Learning with Relaxed Supervision",
         "author": "Jacob Steinhardt, Percy Liang",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5708"
+        "site": "https://nips.cc/virtual/2015/poster/5708",
+        "id": "5708"
     },
     {
         "title": "Learning with Symmetric Label Noise: The Importance of Being Unhinged",
         "author": "Brendan van Rooyen, Aditya Menon, Robert Williamson",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5900"
+        "site": "https://nips.cc/virtual/2015/poster/5900",
+        "id": "5900"
     },
     {
         "title": "Learning with a Wasserstein Loss",
         "author": "Charlie Frogner, Chiyuan Zhang, Hossein Mobahi, Mauricio Araya, Tomaso Poggio",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5638"
+        "site": "https://nips.cc/virtual/2015/poster/5638",
+        "id": "5638"
     },
     {
         "title": "Less is More: Nystr\u00f6m Computational Regularization",
         "author": "Alessandro Rudi, Raffaello Camoriano, Lorenzo Rosasco",
         "status": "Oral",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5899"
+        "site": "https://nips.cc/virtual/2015/poster/5899",
+        "id": "5899"
     },
     {
         "title": "Lifelong Learning with Non-i.i.d. Tasks",
         "author": "Anastasia Pentina, Christoph Lampert",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5592"
+        "site": "https://nips.cc/virtual/2015/poster/5592",
+        "id": "5592"
     },
     {
         "title": "Lifted Inference Rules With Constraints",
         "author": "Happy Mittal, Anuj Mahajan, Vibhav Gogate, Parag Singla",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5766"
+        "site": "https://nips.cc/virtual/2015/poster/5766",
+        "id": "5766"
     },
     {
         "title": "Lifted Symmetry Detection and Breaking for MAP Inference",
         "author": "Timothy Kopp, Parag Singla, Henry Kautz",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5572"
+        "site": "https://nips.cc/virtual/2015/poster/5572",
+        "id": "5572"
     },
     {
         "title": "Linear Multi-Resource Allocation with Semi-Bandit Feedback",
         "author": "Tor Lattimore, Yacov Crammer, Csaba Szepesvari",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5542"
+        "site": "https://nips.cc/virtual/2015/poster/5542",
+        "id": "5542"
     },
     {
         "title": "Linear Response Methods for Accurate Covariance Estimates from Mean Field Variational Bayes",
         "author": "Ryan Giordano, Tamara Broderick, Michael Jordan",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5814"
+        "site": "https://nips.cc/virtual/2015/poster/5814",
+        "id": "5814"
     },
     {
         "title": "Local Causal Discovery of Direct Causes and Effects",
         "author": "Tian Gao, Qiang Ji",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5681"
+        "site": "https://nips.cc/virtual/2015/poster/5681",
+        "id": "5681"
     },
     {
         "title": "Local Expectation Gradients for Black Box Variational Inference",
         "author": "Michalis Titsias, Miguel L\u00e1zaro-Gredilla",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5693"
+        "site": "https://nips.cc/virtual/2015/poster/5693",
+        "id": "5693"
     },
     {
         "title": "Local Smoothness in Variance Reduced Optimization",
         "author": "Daniel Vainsencher, Han Liu, Tong Zhang",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5648"
+        "site": "https://nips.cc/virtual/2015/poster/5648",
+        "id": "5648"
     },
     {
         "title": "Logarithmic Time Online Multiclass prediction",
         "author": "Anna Choromanska, John Langford",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5892"
+        "site": "https://nips.cc/virtual/2015/poster/5892",
+        "id": "5892"
     },
     {
         "title": "M-Best-Diverse Labelings for Submodular Energies and Beyond",
         "author": "Alexander Kirillov, Dmytro Shlezinger, Dmitry Vetrov, Carsten Rother, Bogdan Savchynskyy",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5508"
+        "site": "https://nips.cc/virtual/2015/poster/5508",
+        "id": "5508"
     },
     {
         "title": "M-Statistic for Kernel Change-Point Detection",
         "author": "Shuang Li, Yao Xie, Hanjun Dai, Le Song",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5754"
+        "site": "https://nips.cc/virtual/2015/poster/5754",
+        "id": "5754"
     },
     {
         "title": "MCMC for Variationally Sparse Gaussian Processes",
         "author": "James Hensman, Alexander Matthews, Maurizio Filippone, Zoubin Ghahramani",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5602"
+        "site": "https://nips.cc/virtual/2015/poster/5602",
+        "id": "5602"
     },
     {
         "title": "Market Scoring Rules Act As Opinion Pools For Risk-Averse Agents",
         "author": "Mithun Chakraborty, Sanmay Das",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5880"
+        "site": "https://nips.cc/virtual/2015/poster/5880",
+        "id": "5880"
     },
     {
         "title": "Matrix Completion Under Monotonic Single Index Models",
         "author": "Ravi Ganti, Laura Balzano, Rebecca Willett",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5624"
+        "site": "https://nips.cc/virtual/2015/poster/5624",
+        "id": "5624"
     },
     {
         "title": "Matrix Completion from Fewer Entries: Spectral Detectability and Rank Estimation",
         "author": "Alaa Saade, Florent Krzakala, Lenka Zdeborov\u00e1",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5568"
+        "site": "https://nips.cc/virtual/2015/poster/5568",
+        "id": "5568"
     },
     {
         "title": "Matrix Completion with Noisy Side Information",
         "author": "Kai-Yang Chiang, Cho-Jui Hsieh, Inderjit Dhillon",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5896"
+        "site": "https://nips.cc/virtual/2015/poster/5896",
+        "id": "5896"
     },
     {
         "title": "Matrix Manifold Optimization for Gaussian Mixtures",
         "author": "Reshad Hosseini, Suvrit Sra",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5537"
+        "site": "https://nips.cc/virtual/2015/poster/5537",
+        "id": "5537"
     },
     {
         "title": "Max-Margin Deep Generative Models",
         "author": "Chongxuan Li, Jun Zhu, Tim Shi, Bo Zhang",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5621"
+        "site": "https://nips.cc/virtual/2015/poster/5621",
+        "id": "5621"
     },
     {
         "title": "Max-Margin Majority Voting for Learning from Crowds",
         "author": "TIAN TIAN, Jun Zhu",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5599"
+        "site": "https://nips.cc/virtual/2015/poster/5599",
+        "id": "5599"
     },
     {
         "title": "Maximum Likelihood Learning With Arbitrary Treewidth via Fast-Mixing Parameter Sets",
         "author": "Justin Domke",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5533"
+        "site": "https://nips.cc/virtual/2015/poster/5533",
+        "id": "5533"
     },
     {
         "title": "Measuring Sample Quality with Stein's Method",
         "author": "Jackson Gorham, Lester Mackey",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5822"
+        "site": "https://nips.cc/virtual/2015/poster/5822",
+        "id": "5822"
     },
     {
         "title": "Mind the Gap: A Generative Approach to Interpretable Feature Selection and Extraction",
         "author": "Been Kim, Julie A Shah, Finale Doshi-Velez",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5657"
+        "site": "https://nips.cc/virtual/2015/poster/5657",
+        "id": "5657"
     },
     {
         "title": "Minimax Time Series Prediction",
         "author": "Wouter Koolen, Alan Malek, Peter Bartlett, Yasin Abbasi Yadkori",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5685"
+        "site": "https://nips.cc/virtual/2015/poster/5685",
+        "id": "5685"
     },
     {
         "title": "Minimum Weight Perfect Matching via Blossom Belief Propagation",
         "author": "Sungsoo Ahn, Sejun Park, Michael Chertkov, Jinwoo Shin",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5830"
+        "site": "https://nips.cc/virtual/2015/poster/5830",
+        "id": "5830"
     },
     {
         "title": "Mixed Robust/Average Submodular Partitioning: Fast Algorithms, Guarantees, and Applications",
         "author": "Kai Wei, Rishabh K Iyer, Shengjie Wang, Wenruo Bai, Jeffrey A Bilmes",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5654"
+        "site": "https://nips.cc/virtual/2015/poster/5654",
+        "id": "5654"
     },
     {
         "title": "Mixing Time Estimation in Reversible Markov Chains from a Single Sample Path",
         "author": "Daniel Hsu, Aryeh Kontorovich, Csaba Szepesvari",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5585"
+        "site": "https://nips.cc/virtual/2015/poster/5585",
+        "id": "5585"
     },
     {
         "title": "Model-Based Relative Entropy Stochastic Search",
         "author": "Abbas Abdolmaleki, Rudolf Lioutikov, Jan Peters, Nuno Lau, Luis Pualo Reis, Gerhard Neumann",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5768"
+        "site": "https://nips.cc/virtual/2015/poster/5768",
+        "id": "5768"
     },
     {
         "title": "Monotone k-Submodular Function Maximization with Size Constraints",
         "author": "Naoto Ohsaka, Yuichi Yoshida",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5516"
+        "site": "https://nips.cc/virtual/2015/poster/5516",
+        "id": "5516"
     },
     {
         "title": "Multi-Layer Feature Reduction for Tree Structured Group Lasso via Hierarchical Projection",
         "author": "Jie Wang, Jieping Ye",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5879"
+        "site": "https://nips.cc/virtual/2015/poster/5879",
+        "id": "5879"
     },
     {
         "title": "Multi-class SVMs: From Tighter Data-Dependent Generalization Bounds to Novel Algorithms",
         "author": "Yunwen Lei, Urun Dogan, Alexander Binder, Marius Kloft",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5637"
+        "site": "https://nips.cc/virtual/2015/poster/5637",
+        "id": "5637"
     },
     {
         "title": "NEXT: A System for Real-World Development, Evaluation, and Application of Active Learning",
         "author": "Kevin G Jamieson, Lalit Jain, Chris Fernandez, Nicholas J. Glattard, Rob Nowak",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5876"
+        "site": "https://nips.cc/virtual/2015/poster/5876",
+        "id": "5876"
     },
     {
         "title": "Natural Neural Networks",
         "author": "Guillaume Desjardins, Karen Simonyan, Razvan Pascanu, koray kavukcuoglu",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5639"
+        "site": "https://nips.cc/virtual/2015/poster/5639",
+        "id": "5639"
     },
     {
         "title": "Nearly Optimal Private LASSO",
         "author": "Kunal Talwar, Abhradeep Guha Thakurta, Li Zhang",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5724"
+        "site": "https://nips.cc/virtual/2015/poster/5724",
+        "id": "5724"
     },
     {
         "title": "Neural Adaptive Sequential Monte Carlo",
         "author": "Shixiang (Shane) Gu, Zoubin Ghahramani, Richard Turner",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5692"
+        "site": "https://nips.cc/virtual/2015/poster/5692",
+        "id": "5692"
     },
     {
         "title": "Newton-Stein Method: A Second Order Method for GLMs via Stein's Lemma",
         "author": "Murat Erdogdu",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5829"
+        "site": "https://nips.cc/virtual/2015/poster/5829",
+        "id": "5829"
     },
     {
         "title": "No-Regret Learning in Bayesian Games",
         "author": "Jason Hartline, Vasilis Syrgkanis, Eva Tardos",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5728"
+        "site": "https://nips.cc/virtual/2015/poster/5728",
+        "id": "5728"
     },
     {
         "title": "Non-convex Statistical Optimization for Sparse Tensor Graphical Model",
         "author": "Wei Sun, Zhaoran Wang, Han Liu, Guang Cheng",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5554"
+        "site": "https://nips.cc/virtual/2015/poster/5554",
+        "id": "5554"
     },
     {
         "title": "Nonparametric von Mises Estimators for Entropies, Divergences and Mutual Informations",
         "author": "Kirthevasan Kandasamy, Akshay Krishnamurthy, Barnabas Poczos, Larry Wasserman, james m robins",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5489"
+        "site": "https://nips.cc/virtual/2015/poster/5489",
+        "id": "5489"
     },
     {
         "title": "On Elicitation Complexity",
         "author": "Rafael Frongillo, Ian Kash",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5742"
+        "site": "https://nips.cc/virtual/2015/poster/5742",
+        "id": "5742"
     },
     {
         "title": "On Top-k Selection in Multi-Armed Bandits and Hidden Bipartite Graphs",
         "author": "Wei Cao, Jian Li, Yufei Tao, Zhize Li",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5549"
+        "site": "https://nips.cc/virtual/2015/poster/5549",
+        "id": "5549"
     },
     {
         "title": "On Variance Reduction in Stochastic Gradient Descent and its Asynchronous Variants",
         "author": "Sashank J. Reddi, Ahmed Hefny, Suvrit Sra, Barnabas Poczos, Alexander Smola",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5694"
+        "site": "https://nips.cc/virtual/2015/poster/5694",
+        "id": "5694"
     },
     {
         "title": "On some provably correct cases of variational inference for topic models",
         "author": "Pranjal Awasthi, Andrej Risteski",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5817"
+        "site": "https://nips.cc/virtual/2015/poster/5817",
+        "id": "5817"
     },
     {
         "title": "On the Accuracy of Self-Normalized Log-Linear Models",
         "author": "Jacob Andreas, Maxim Rabinovich, Michael Jordan, Dan Klein",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5615"
+        "site": "https://nips.cc/virtual/2015/poster/5615",
+        "id": "5615"
     },
     {
         "title": "On the Convergence of Stochastic Gradient MCMC Algorithms with High-Order Integrators",
         "author": "Changyou Chen, Nan Ding, Lawrence Carin",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5659"
+        "site": "https://nips.cc/virtual/2015/poster/5659",
+        "id": "5659"
     },
     {
         "title": "On the Global Linear Convergence of Frank-Wolfe Optimization Variants",
         "author": "Simon Lacoste-Julien, Martin Jaggi",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5499"
+        "site": "https://nips.cc/virtual/2015/poster/5499",
+        "id": "5499"
     },
     {
         "title": "On the Limitation of Spectral Methods: From the Gaussian Hidden Clique Problem to Rank-One Perturbations of Gaussian Tensors",
         "author": "Andrea Montanari, Daniel Reichman, Ofer Zeitouni",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5472"
+        "site": "https://nips.cc/virtual/2015/poster/5472",
+        "id": "5472"
     },
     {
         "title": "On the Optimality of Classifier Chain for Multi-label Classification",
         "author": "Weiwei Liu, Ivor Tsang",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5518"
+        "site": "https://nips.cc/virtual/2015/poster/5518",
+        "id": "5518"
     },
     {
         "title": "On the Pseudo-Dimension of Nearly Optimal Auctions",
         "author": "Jamie Morgenstern, Tim Roughgarden",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5834"
+        "site": "https://nips.cc/virtual/2015/poster/5834",
+        "id": "5834"
     },
     {
         "title": "On the consistency theory of high dimensional variable screening",
         "author": "Xiangyu Wang, Chenlei Leng, David B Dunson",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5673"
+        "site": "https://nips.cc/virtual/2015/poster/5673",
+        "id": "5673"
     },
     {
         "title": "On-the-Job Learning with Bayesian Decision Theory",
         "author": "Keenon Werling, Arun Tejasvi Chaganty, Percy Liang, Christopher Manning",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5866"
+        "site": "https://nips.cc/virtual/2015/poster/5866",
+        "id": "5866"
     },
     {
         "title": "Online F-Measure Optimization",
         "author": "R\u00f3bert Busa-Fekete, Bal\u00e1zs Sz\u00f6r\u00e9nyi, Krzysztof Dembczynski, Eyke H\u00fcllermeier",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5506"
+        "site": "https://nips.cc/virtual/2015/poster/5506",
+        "id": "5506"
     },
     {
         "title": "Online Gradient Boosting",
         "author": "Alina Beygelzimer, Elad Hazan, Satyen Kale, Haipeng Luo",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5675"
+        "site": "https://nips.cc/virtual/2015/poster/5675",
+        "id": "5675"
     },
     {
         "title": "Online Learning for Adversaries with Memory: Price of Past Mistakes",
         "author": "Oren Anava, Elad Hazan, Shie Mannor",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5525"
+        "site": "https://nips.cc/virtual/2015/poster/5525",
+        "id": "5525"
     },
     {
         "title": "Online Learning with Adversarial Delays",
         "author": "Kent Quanrud, Daniel Khashabi",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5569"
+        "site": "https://nips.cc/virtual/2015/poster/5569",
+        "id": "5569"
     },
     {
         "title": "Online Learning with Gaussian Payoffs and Side Observations",
         "author": "Yifan Wu, Andr\u00e1s Gy\u00f6rgy, Csaba Szepesvari",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5576"
+        "site": "https://nips.cc/virtual/2015/poster/5576",
+        "id": "5576"
     },
     {
         "title": "Online Prediction at the Limit of Zero Temperature",
         "author": "Mark Herbster, Stephen Pasteris, Shaona Ghosh",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5715"
+        "site": "https://nips.cc/virtual/2015/poster/5715",
+        "id": "5715"
     },
     {
         "title": "Online Rank Elicitation for Plackett-Luce: A Dueling Bandits Approach",
         "author": "Bal\u00e1zs Sz\u00f6r\u00e9nyi, R\u00f3bert Busa-Fekete, Adil Paul, Eyke H\u00fcllermeier",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5507"
+        "site": "https://nips.cc/virtual/2015/poster/5507",
+        "id": "5507"
     },
     {
         "title": "Optimal Linear Estimation under Unknown Nonlinear Transform",
         "author": "Xinyang Yi, Zhaoran Wang, Constantine Caramanis, Han Liu",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5593"
+        "site": "https://nips.cc/virtual/2015/poster/5593",
+        "id": "5593"
     },
     {
         "title": "Optimal Rates for Random Fourier Features",
         "author": "Bharath Sriperumbudur, Zoltan Szabo",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5838"
+        "site": "https://nips.cc/virtual/2015/poster/5838",
+        "id": "5838"
     },
     {
         "title": "Optimal Ridge Detection using Coverage Risk",
         "author": "Yen-Chi Chen, Christopher Genovese, Shirley Ho, Larry Wasserman",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5481"
+        "site": "https://nips.cc/virtual/2015/poster/5481",
+        "id": "5481"
     },
     {
         "title": "Optimal Testing for Properties of Distributions",
         "author": "Jayadev Acharya, Constantinos Daskalakis, Gautam Kamath",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5881"
+        "site": "https://nips.cc/virtual/2015/poster/5881",
+        "id": "5881"
     },
     {
         "title": "Optimization Monte Carlo: Efficient and Embarrassingly Parallel Likelihood-Free Inference",
         "author": "Ted Meeds, Max Welling",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5640"
+        "site": "https://nips.cc/virtual/2015/poster/5640",
+        "id": "5640"
     },
     {
         "title": "Orthogonal NMF through Subspace Exploration",
         "author": "Megasthenis Asteris, Dimitris Papailiopoulos, Alex Dimakis",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5483"
+        "site": "https://nips.cc/virtual/2015/poster/5483",
+        "id": "5483"
     },
     {
         "title": "Parallel Correlation Clustering on Big Graphs",
         "author": "Xinghao Pan, Dimitris Papailiopoulos, Samet Oymak, Benjamin Recht, Kannan Ramchandran, Michael Jordan",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5462"
+        "site": "https://nips.cc/virtual/2015/poster/5462",
+        "id": "5462"
     },
     {
         "title": "Parallel Multi-Dimensional LSTM, With Application to Fast Biomedical Volumetric Image Segmentation",
         "author": "Marijn F Stollenga, Wonmin Byeon, Marcus Liwicki, J\u00fcrgen Schmidhuber",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5721"
+        "site": "https://nips.cc/virtual/2015/poster/5721",
+        "id": "5721"
     },
     {
         "title": "Parallel Predictive Entropy Search for Batch Global Optimization of Expensive Objective Functions",
         "author": "Amar Shah, Zoubin Ghahramani",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5750"
+        "site": "https://nips.cc/virtual/2015/poster/5750",
+        "id": "5750"
     },
     {
         "title": "Parallel Recursive Best-First AND/OR Search for Exact MAP Inference in Graphical Models",
         "author": "Akihiro Kishimoto, Radu Marinescu, Adi Botea",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5538"
+        "site": "https://nips.cc/virtual/2015/poster/5538",
+        "id": "5538"
     },
     {
         "title": "Parallelizing MCMC with Random Partition Trees",
         "author": "Xiangyu Wang, Fangjian Guo, Katherine Heller, David B Dunson",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5495"
+        "site": "https://nips.cc/virtual/2015/poster/5495",
+        "id": "5495"
     },
     {
         "title": "Particle Gibbs for Infinite Hidden Markov Models",
         "author": "Nilesh Tripuraneni, Shixiang (Shane) Gu, Hong Ge, Zoubin Ghahramani",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5669"
+        "site": "https://nips.cc/virtual/2015/poster/5669",
+        "id": "5669"
     },
     {
         "title": "Path-SGD: Path-Normalized Optimization in Deep Neural Networks",
         "author": "Behnam Neyshabur, Russ Salakhutdinov, Nati Srebro",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5672"
+        "site": "https://nips.cc/virtual/2015/poster/5672",
+        "id": "5672"
     },
     {
         "title": "Planar Ultrametrics for Image Segmentation",
         "author": "Julian E Yarkony, Charless Fowlkes",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5460"
+        "site": "https://nips.cc/virtual/2015/poster/5460",
+        "id": "5460"
     },
     {
         "title": "Pointer Networks",
         "author": "Oriol Vinyals, Meire Fortunato, Navdeep Jaitly",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5870"
+        "site": "https://nips.cc/virtual/2015/poster/5870",
+        "id": "5870"
     },
     {
         "title": "Policy Evaluation Using the \u03a9-Return",
         "author": "Philip Thomas, Scott Niekum, Georgios Theocharous, George Konidaris",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5482"
+        "site": "https://nips.cc/virtual/2015/poster/5482",
+        "id": "5482"
     },
     {
         "title": "Policy Gradient for Coherent Risk Measures",
         "author": "Aviv Tamar, Yinlam Chow, Mohammad Ghavamzadeh, Shie Mannor",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5586"
+        "site": "https://nips.cc/virtual/2015/poster/5586",
+        "id": "5586"
     },
     {
         "title": "Practical and Optimal LSH for Angular Distance",
         "author": "Alexandr Andoni, Piotr Indyk, Thijs Laarhoven, Ilya Razenshteyn, Ludwig Schmidt",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5565"
+        "site": "https://nips.cc/virtual/2015/poster/5565",
+        "id": "5565"
     },
     {
         "title": "Precision-Recall-Gain Curves: PR Analysis Done Right",
         "author": "Peter Flach, Meelis Kull",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5873"
+        "site": "https://nips.cc/virtual/2015/poster/5873",
+        "id": "5873"
     },
     {
         "title": "Preconditioned Spectral Descent for Deep Learning",
         "author": "David Carlson, Edo Collins, Ya-Ping Hsieh, Lawrence Carin, Volkan Cevher",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5719"
+        "site": "https://nips.cc/virtual/2015/poster/5719",
+        "id": "5719"
     },
     {
         "title": "Predtron: A Family of Online Algorithms for General Prediction Problems",
         "author": "Prateek Jain, Nagarajan Natarajan, Ambuj Tewari",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5546"
+        "site": "https://nips.cc/virtual/2015/poster/5546",
+        "id": "5546"
     },
     {
         "title": "Principal Differences Analysis: Interpretable Characterization of Differences between Distributions",
         "author": "Jonas Mueller, Tommi Jaakkola",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5606"
+        "site": "https://nips.cc/virtual/2015/poster/5606",
+        "id": "5606"
     },
     {
         "title": "Principal Geodesic Analysis for Probability Measures under the Optimal Transport Metric",
         "author": "Vivien Seguy, Marco Cuturi",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5748"
+        "site": "https://nips.cc/virtual/2015/poster/5748",
+        "id": "5748"
     },
     {
         "title": "Private Graphon Estimation for Sparse Graphs",
         "author": "Christian Borgs, Jennifer Chayes, Adam Smith",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5577"
+        "site": "https://nips.cc/virtual/2015/poster/5577",
+        "id": "5577"
     },
     {
         "title": "Probabilistic Curve Learning: Coulomb Repulsion and the Electrostatic Gaussian Process",
         "author": "Ye Wang, David B Dunson",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5610"
+        "site": "https://nips.cc/virtual/2015/poster/5610",
+        "id": "5610"
     },
     {
         "title": "Probabilistic Line Searches for Stochastic Optimization",
         "author": "Maren Mahsereci, Philipp Hennig",
         "status": "Oral",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5815"
+        "site": "https://nips.cc/virtual/2015/poster/5815",
+        "id": "5815"
     },
     {
         "title": "Probabilistic Variational Bounds for Graphical Models",
         "author": "Qiang Liu, John Fisher III, Alexander Ihler",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5583"
+        "site": "https://nips.cc/virtual/2015/poster/5583",
+        "id": "5583"
     },
     {
         "title": "Quartz: Randomized Dual Coordinate Ascent with Arbitrary Sampling",
         "author": "Zheng Qu, Peter Richtarik, Tong Zhang",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5532"
+        "site": "https://nips.cc/virtual/2015/poster/5532",
+        "id": "5532"
     },
     {
         "title": "Randomized Block Krylov Methods for Stronger and Faster Approximate Singular Value Decomposition",
         "author": "Cameron Musco, Christopher Musco",
         "status": "Oral",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5833"
+        "site": "https://nips.cc/virtual/2015/poster/5833",
+        "id": "5833"
     },
     {
         "title": "Rapidly Mixing Gibbs Sampling for a Class of Factor Graphs Using Hierarchy Width",
         "author": "Christopher M De Sa, Ce Zhang, Kunle Olukotun, Christopher R\u00e9",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5816"
+        "site": "https://nips.cc/virtual/2015/poster/5816",
+        "id": "5816"
     },
     {
         "title": "Rate-Agnostic (Causal) Structure Learning",
         "author": "Sergey Plis, David Danks, Cynthia Freeman, Vince Calhoun",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5747"
+        "site": "https://nips.cc/virtual/2015/poster/5747",
+        "id": "5747"
     },
     {
         "title": "Recognizing retinal ganglion cells in the dark",
         "author": "Emile Richard, Georges A Goetz, E.J. Chichilnisky",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5677"
+        "site": "https://nips.cc/virtual/2015/poster/5677",
+        "id": "5677"
     },
     {
         "title": "Recovering Communities in the General Stochastic Block Model Without Knowing the Parameters",
         "author": "Emmanuel Abbe, Colin Sandon",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5515"
+        "site": "https://nips.cc/virtual/2015/poster/5515",
+        "id": "5515"
     },
     {
         "title": "Rectified Factor Networks",
         "author": "Djork-Arn\u00e9 Clevert, Andreas Mayr, Thomas Unterthiner, Sepp Hochreiter",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5622"
+        "site": "https://nips.cc/virtual/2015/poster/5622",
+        "id": "5622"
     },
     {
         "title": "Recursive Training of 2D-3D Convolutional Networks for Neuronal Boundary Prediction",
         "author": "Kisuk Lee, Aleksandar Zlateski, Vishwanathan Ashwin, H. Sebastian Seung",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5772"
+        "site": "https://nips.cc/virtual/2015/poster/5772",
+        "id": "5772"
     },
     {
         "title": "Reflection, Refraction, and Hamiltonian Monte Carlo",
         "author": "Hadi Mohasel Afshar, Justin Domke",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5722"
+        "site": "https://nips.cc/virtual/2015/poster/5722",
+        "id": "5722"
     },
     {
         "title": "Regressive Virtual Metric Learning",
         "author": "Micha\u00ebl Perrot, Amaury Habrard",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5618"
+        "site": "https://nips.cc/virtual/2015/poster/5618",
+        "id": "5618"
     },
     {
         "title": "Regret Lower Bound and Optimal Algorithm in Finite Stochastic Partial Monitoring",
         "author": "Junpei Komiyama, Junya Honda, Hiroshi Nakagawa",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5616"
+        "site": "https://nips.cc/virtual/2015/poster/5616",
+        "id": "5616"
     },
     {
         "title": "Regret-Based Pruning in Extensive-Form Games",
         "author": "Noam Brown, Tuomas Sandholm",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5632"
+        "site": "https://nips.cc/virtual/2015/poster/5632",
+        "id": "5632"
     },
     {
         "title": "Regularization Path of Cross-Validation Error Lower Bounds",
         "author": "Atsushi Shibagaki, Yoshiki Suzuki, Masayuki Karasuyama, Ichiro Takeuchi",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5604"
+        "site": "https://nips.cc/virtual/2015/poster/5604",
+        "id": "5604"
     },
     {
         "title": "Regularization-Free Estimation in Trace Regression with Symmetric Positive Semidefinite Matrices",
         "author": "Martin Slawski, Ping Li, Matthias Hein",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5703"
+        "site": "https://nips.cc/virtual/2015/poster/5703",
+        "id": "5703"
     },
     {
         "title": "Regularized EM Algorithms: A Unified Framework and Statistical Guarantees",
         "author": "Xinyang Yi, Constantine Caramanis",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5595"
+        "site": "https://nips.cc/virtual/2015/poster/5595",
+        "id": "5595"
     },
     {
         "title": "Rethinking LDA: Moment Matching for Discrete ICA",
         "author": "Anastasia Podosinnikova, Francis Bach, Simon Lacoste-Julien",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5501"
+        "site": "https://nips.cc/virtual/2015/poster/5501",
+        "id": "5501"
     },
     {
         "title": "Revenue Optimization against Strategic Buyers",
         "author": "Mehryar Mohri, Andres Munoz",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5683"
+        "site": "https://nips.cc/virtual/2015/poster/5683",
+        "id": "5683"
     },
     {
         "title": "Risk-Sensitive and Robust Decision-Making: a CVaR Optimization Approach",
         "author": "Yinlam Chow, Aviv Tamar, Shie Mannor, Marco Pavone",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5590"
+        "site": "https://nips.cc/virtual/2015/poster/5590",
+        "id": "5590"
     },
     {
         "title": "Robust Feature-Sample Linear Discriminant Analysis for Brain Disorders Diagnosis",
         "author": "Ehsan Adeli-Mosabbeb, Kim-Han Thung, Le An, Feng Shi, Dinggang Shen",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5513"
+        "site": "https://nips.cc/virtual/2015/poster/5513",
+        "id": "5513"
     },
     {
         "title": "Robust Gaussian Graphical Modeling with the Trimmed Graphical Lasso",
         "author": "Eunho Yang, Aurelie Lozano",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5689"
+        "site": "https://nips.cc/virtual/2015/poster/5689",
+        "id": "5689"
     },
     {
         "title": "Robust PCA with compressed data",
         "author": "Wooseok Ha, Rina Barber",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5630"
+        "site": "https://nips.cc/virtual/2015/poster/5630",
+        "id": "5630"
     },
     {
         "title": "Robust Portfolio Optimization",
         "author": "Huitong Qiu, Fang Han, Han Liu, Brian Caffo",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5459"
+        "site": "https://nips.cc/virtual/2015/poster/5459",
+        "id": "5459"
     },
     {
         "title": "Robust Regression via Hard Thresholding",
         "author": "Kush Bhatia, Prateek Jain, Purushottam Kar",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5519"
+        "site": "https://nips.cc/virtual/2015/poster/5519",
+        "id": "5519"
     },
     {
         "title": "Robust Spectral Inference for Joint Stochastic Matrix Factorization",
         "author": "Moontae Lee, David Bindel, David Mimno",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5697"
+        "site": "https://nips.cc/virtual/2015/poster/5697",
+        "id": "5697"
     },
     {
         "title": "SGD Algorithms based on Incomplete U-statistics: Large-Scale Minimization of Empirical Risk",
         "author": "Guillaume Papa, St\u00e9phan Cl\u00e9men\u00e7on, Aur\u00e9lien Bellet",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5548"
+        "site": "https://nips.cc/virtual/2015/poster/5548",
+        "id": "5548"
     },
     {
         "title": "Saliency, Scale and Information: Towards a Unifying Theory",
         "author": "Shafin Rahman, Neil Bruce",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5649"
+        "site": "https://nips.cc/virtual/2015/poster/5649",
+        "id": "5649"
     },
     {
         "title": "Sample Complexity Bounds for Iterative Stochastic Policy Optimization",
         "author": "Marin Kobilarov",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5732"
+        "site": "https://nips.cc/virtual/2015/poster/5732",
+        "id": "5732"
     },
     {
         "title": "Sample Complexity of Episodic Fixed-Horizon Reinforcement Learning",
         "author": "Christoph Dann, Emma Brunskill",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5707"
+        "site": "https://nips.cc/virtual/2015/poster/5707",
+        "id": "5707"
     },
     {
         "title": "Sample Complexity of Learning Mahalanobis Distance Metrics",
         "author": "Nakul Verma, Kristin Branson",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5688"
+        "site": "https://nips.cc/virtual/2015/poster/5688",
+        "id": "5688"
     },
     {
         "title": "Sample Efficient Path Integral Control under Uncertainty",
         "author": "Yunpeng Pan, Evangelos Theodorou, Michail Kontitsis",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5663"
+        "site": "https://nips.cc/virtual/2015/poster/5663",
+        "id": "5663"
     },
     {
         "title": "Sampling from Probabilistic Submodular Models",
         "author": "Alkis Gotovos, Hamed Hassani, Andreas Krause",
         "status": "Oral",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5826"
+        "site": "https://nips.cc/virtual/2015/poster/5826",
+        "id": "5826"
     },
     {
         "title": "Scalable Adaptation of State Complexity for Nonparametric Hidden Markov Models",
         "author": "Michael Hughes, William Stephenson, Erik Sudderth",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5563"
+        "site": "https://nips.cc/virtual/2015/poster/5563",
+        "id": "5563"
     },
     {
         "title": "Scalable Inference for Gaussian Process Models with Black-Box Likelihoods",
         "author": "Amir Dezfouli, Edwin Bonilla",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5581"
+        "site": "https://nips.cc/virtual/2015/poster/5581",
+        "id": "5581"
     },
     {
         "title": "Scalable Semi-Supervised Aggregation of Classifiers",
         "author": "Akshay Balsubramani, Yoav Freund",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5893"
+        "site": "https://nips.cc/virtual/2015/poster/5893",
+        "id": "5893"
     },
     {
         "title": "Scale Up Nonlinear Component Analysis with Doubly Stochastic Gradients",
         "author": "Bo Xie, Yingyu Liang, Le Song",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5665"
+        "site": "https://nips.cc/virtual/2015/poster/5665",
+        "id": "5665"
     },
     {
         "title": "Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks",
         "author": "Samy Bengio, Oriol Vinyals, Navdeep Jaitly, Noam Shazeer",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5560"
+        "site": "https://nips.cc/virtual/2015/poster/5560",
+        "id": "5560"
     },
     {
         "title": "Secure Multi-party Differential Privacy",
         "author": "Peter Kairouz, Sewoong Oh, Pramod Viswanath",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5635"
+        "site": "https://nips.cc/virtual/2015/poster/5635",
+        "id": "5635"
     },
     {
         "title": "Segregated Graphs and Marginals of Chain Graph Models",
         "author": "Ilya Shpitser",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5608"
+        "site": "https://nips.cc/virtual/2015/poster/5608",
+        "id": "5608"
     },
     {
         "title": "Semi-Proximal Mirror-Prox for Nonsmooth Composite Minimization",
         "author": "Niao He, Zaid Harchaoui",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5758"
+        "site": "https://nips.cc/virtual/2015/poster/5758",
+        "id": "5758"
     },
     {
         "title": "Semi-Supervised Factored Logistic Regression for High-Dimensional Neuroimaging Data",
         "author": "Danilo Bzdok, Michael Eickenberg, Olivier Grisel, Bertrand Thirion, Gael Varoquaux",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5752"
+        "site": "https://nips.cc/virtual/2015/poster/5752",
+        "id": "5752"
     },
     {
         "title": "Semi-supervised Convolutional Neural Networks for Text Categorization via Region Embedding",
         "author": "Rie Johnson, Tong Zhang",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5862"
+        "site": "https://nips.cc/virtual/2015/poster/5862",
+        "id": "5862"
     },
     {
         "title": "Semi-supervised Learning with Ladder Networks",
         "author": "Antti Rasmus, Mathias Berglund, Mikko Honkala, Harri Valpola, Tapani Raiko",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5769"
+        "site": "https://nips.cc/virtual/2015/poster/5769",
+        "id": "5769"
     },
     {
         "title": "Semi-supervised Sequence Learning",
         "author": "Andrew Dai, Quoc V Le",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5730"
+        "site": "https://nips.cc/virtual/2015/poster/5730",
+        "id": "5730"
     },
     {
         "title": "Shepard Convolutional Neural Networks",
         "author": "Jimmy S. Ren, Li Xu, Qiong Yan, Wenxiu Sun",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5536"
+        "site": "https://nips.cc/virtual/2015/poster/5536",
+        "id": "5536"
     },
     {
         "title": "Skip-Thought Vectors",
         "author": "Jamie Kiros, Yukun Zhu, Russ Salakhutdinov, Richard Zemel, Raquel Urtasun, Antonio Torralba, Sanja Fidler",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5746"
+        "site": "https://nips.cc/virtual/2015/poster/5746",
+        "id": "5746"
     },
     {
         "title": "Smooth Interactive Submodular Set Cover",
         "author": "Bryan He, Yisong Yue",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5466"
+        "site": "https://nips.cc/virtual/2015/poster/5466",
+        "id": "5466"
     },
     {
         "title": "Smooth and Strong: MAP Inference with Linear Convergence",
         "author": "Ofer Meshi, Mehrdad Mahdavi, Alex Schwing",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5479"
+        "site": "https://nips.cc/virtual/2015/poster/5479",
+        "id": "5479"
     },
     {
         "title": "Softstar: Heuristic-Guided Probabilistic Inference",
         "author": "Mathew Monfort, Brenden M Lake, Brenden Lake, Brian Ziebart, Patrick Lucey, Josh Tenenbaum",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5701"
+        "site": "https://nips.cc/virtual/2015/poster/5701",
+        "id": "5701"
     },
     {
         "title": "Solving Random Quadratic Systems of Equations Is Nearly as Easy as Solving Linear Systems",
         "author": "Yuxin Chen, Emmanuel Candes",
         "status": "Oral",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5824"
+        "site": "https://nips.cc/virtual/2015/poster/5824",
+        "id": "5824"
     },
     {
         "title": "Space-Time Local Embeddings",
         "author": "Ke SUN, Jun Wang, Alexandros Kalousis, Stephane Marchand-Maillet",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5464"
+        "site": "https://nips.cc/virtual/2015/poster/5464",
+        "id": "5464"
     },
     {
         "title": "Sparse Linear Programming via Primal and Dual Augmented Coordinate Descent",
         "author": "Ian En-Hsu Yen, Kai Zhong, Cho-Jui Hsieh, Pradeep Ravikumar, Inderjit Dhillon",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5667"
+        "site": "https://nips.cc/virtual/2015/poster/5667",
+        "id": "5667"
     },
     {
         "title": "Sparse Local Embeddings for Extreme Multi-label Classification",
         "author": "Kush Bhatia, Himanshu Jain, Purushottam Kar, Manik Varma, Prateek Jain",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5520"
+        "site": "https://nips.cc/virtual/2015/poster/5520",
+        "id": "5520"
     },
     {
         "title": "Sparse PCA via Bipartite Matchings",
         "author": "Megasthenis Asteris, Dimitris Papailiopoulos, Anastasios Kyrillidis, Alex Dimakis",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5523"
+        "site": "https://nips.cc/virtual/2015/poster/5523",
+        "id": "5523"
     },
     {
         "title": "Sparse and Low-Rank Tensor Decomposition",
         "author": "Parikshit Shah, Nikhil Rao, Gongguo Tang",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5684"
+        "site": "https://nips.cc/virtual/2015/poster/5684",
+        "id": "5684"
     },
     {
         "title": "Spatial Transformer Networks",
         "author": "Max Jaderberg, Karen Simonyan, Andrew Zisserman, koray kavukcuoglu",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5854"
+        "site": "https://nips.cc/virtual/2015/poster/5854",
+        "id": "5854"
     },
     {
         "title": "Spectral Learning of Large Structured HMMs for Comparative Epigenomics",
         "author": "Chicheng Zhang, Jimin Song, Kamalika Chaudhuri, Kevin Chen",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5496"
+        "site": "https://nips.cc/virtual/2015/poster/5496",
+        "id": "5496"
     },
     {
         "title": "Spectral Norm Regularization of Orthonormal Representations for Graph Transduction",
         "author": "Rakesh Shivanna, Bibaswan K Chatterjee, Raman Sankaran, Chiranjib Bhattacharyya, Francis Bach",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5652"
+        "site": "https://nips.cc/virtual/2015/poster/5652",
+        "id": "5652"
     },
     {
         "title": "Spectral Representations for Convolutional Neural Networks",
         "author": "Oren Rippel, Jasper Snoek, Ryan Adams",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5674"
+        "site": "https://nips.cc/virtual/2015/poster/5674",
+        "id": "5674"
     },
     {
         "title": "Spherical Random Features for Polynomial Kernels",
         "author": "Jeffrey Pennington, Felix Yu, Sanjiv Kumar",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5895"
+        "site": "https://nips.cc/virtual/2015/poster/5895",
+        "id": "5895"
     },
     {
         "title": "Statistical Model Criticism using Kernel Two Sample Tests",
         "author": "James R Lloyd, Zoubin Ghahramani",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5529"
+        "site": "https://nips.cc/virtual/2015/poster/5529",
+        "id": "5529"
     },
     {
         "title": "Statistical Topological Data Analysis - A Kernel Perspective",
         "author": "Roland Kwitt, Stefan Huber, Marc Niethammer, Weili Lin, Ulrich Bauer",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5729"
+        "site": "https://nips.cc/virtual/2015/poster/5729",
+        "id": "5729"
     },
     {
         "title": "Stochastic Expectation Propagation",
         "author": "Yingzhen Li, Jos\u00e9 Miguel Hern\u00e1ndez-Lobato, Richard Turner",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5812"
+        "site": "https://nips.cc/virtual/2015/poster/5812",
+        "id": "5812"
     },
     {
         "title": "Stochastic Online Greedy Learning with Semi-bandit Feedbacks",
         "author": "Tian Lin, Jian Li, Wei Chen",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5484"
+        "site": "https://nips.cc/virtual/2015/poster/5484",
+        "id": "5484"
     },
     {
         "title": "StopWasting My Gradients: Practical SVRG",
         "author": "Reza Babanezhad Harikandeh, Mohamed Osama Ahmed, Alim Virani, Mark Schmidt, Jakub Kone\u010dn\u00fd, Scott Sallinen",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5656"
+        "site": "https://nips.cc/virtual/2015/poster/5656",
+        "id": "5656"
     },
     {
         "title": "Streaming Min-max Hypergraph Partitioning",
         "author": "Dan Alistarh, Jennifer Iglesias, Milan Vojnovic",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5627"
+        "site": "https://nips.cc/virtual/2015/poster/5627",
+        "id": "5627"
     },
     {
         "title": "Streaming, Distributed Variational Inference for Bayesian Nonparametrics",
         "author": "Trevor Campbell, Julian Straub, John Fisher III, Jonathan How",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5477"
+        "site": "https://nips.cc/virtual/2015/poster/5477",
+        "id": "5477"
     },
     {
         "title": "Structured Estimation with Atomic Norms: General Bounds and Applications",
         "author": "Sheng Chen, Arindam Banerjee",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5713"
+        "site": "https://nips.cc/virtual/2015/poster/5713",
+        "id": "5713"
     },
     {
         "title": "Structured Transforms for Small-Footprint Deep Learning",
         "author": "Vikas Sindhwani, Tara Sainath, Sanjiv Kumar",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5877"
+        "site": "https://nips.cc/virtual/2015/poster/5877",
+        "id": "5877"
     },
     {
         "title": "SubmodBoxes: Near-Optimal Search for a Set of Diverse Object Proposals",
         "author": "Qing Sun, Dhruv Batra",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5578"
+        "site": "https://nips.cc/virtual/2015/poster/5578",
+        "id": "5578"
     },
     {
         "title": "Submodular Hamming Metrics",
         "author": "Jennifer Gillenwater, Rishabh K Iyer, Bethany Lusch, Rahul Kidambi, Jeffrey A Bilmes",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5827"
+        "site": "https://nips.cc/virtual/2015/poster/5827",
+        "id": "5827"
     },
     {
         "title": "Subsampled Power Iteration: a Unified Algorithm for Block Models and Planted CSP's",
         "author": "Vitaly Feldman, Will Perkins, Santosh Vempala",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5709"
+        "site": "https://nips.cc/virtual/2015/poster/5709",
+        "id": "5709"
     },
     {
         "title": "Subset Selection by Pareto Optimization",
         "author": "Chao Qian, Yang Yu, Zhi-Hua Zhou",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5614"
+        "site": "https://nips.cc/virtual/2015/poster/5614",
+        "id": "5614"
     },
     {
         "title": "Subspace Clustering with Irrelevant Features via Robust Dantzig Selector",
         "author": "Chao Qu, Huan Xu",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5522"
+        "site": "https://nips.cc/virtual/2015/poster/5522",
+        "id": "5522"
     },
     {
         "title": "Sum-of-Squares Lower Bounds for Sparse PCA",
         "author": "Tengyu Ma, Avi Wigderson",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5598"
+        "site": "https://nips.cc/virtual/2015/poster/5598",
+        "id": "5598"
     },
     {
         "title": "Super-Resolution Off the Grid",
         "author": "Qingqing Huang, Sham Kakade",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5837"
+        "site": "https://nips.cc/virtual/2015/poster/5837",
+        "id": "5837"
     },
     {
         "title": "Supervised Learning for Dynamical System Learning",
         "author": "Ahmed Hefny, Carlton Downey, Geoffrey Gordon",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5631"
+        "site": "https://nips.cc/virtual/2015/poster/5631",
+        "id": "5631"
     },
     {
         "title": "Synaptic Sampling: A Bayesian Approach to Neural Network Plasticity and Rewiring",
         "author": "David Kappel, Stefan Habenschuss, Robert Legenstein, Wolfgang Maass",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5486"
+        "site": "https://nips.cc/virtual/2015/poster/5486",
+        "id": "5486"
     },
     {
         "title": "Taming the Wild: A Unified Analysis of Hogwild-Style Algorithms",
         "author": "Christopher M De Sa, Ce Zhang, Kunle Olukotun, Christopher R\u00e9, Christopher R\u00e9",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5695"
+        "site": "https://nips.cc/virtual/2015/poster/5695",
+        "id": "5695"
     },
     {
         "title": "Teaching Machines to Read and Comprehend",
         "author": "Karl Moritz Hermann, Tomas Kocisky, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, Phil Blunsom",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5605"
+        "site": "https://nips.cc/virtual/2015/poster/5605",
+        "id": "5605"
     },
     {
         "title": "Tensorizing Neural Networks",
         "author": "Alexander Novikov, Dmitrii Podoprikhin, Anton Osokin, Dmitry Vetrov",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5494"
+        "site": "https://nips.cc/virtual/2015/poster/5494",
+        "id": "5494"
     },
     {
         "title": "Testing Closeness With Unequal Sized Samples",
         "author": "Bhaswar Bhattacharya, Gregory Valiant",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5690"
+        "site": "https://nips.cc/virtual/2015/poster/5690",
+        "id": "5690"
     },
     {
         "title": "Texture Synthesis Using Convolutional Neural Networks",
         "author": "Leon A Gatys, Alexander Ecker, Matthias Bethge",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5476"
+        "site": "https://nips.cc/virtual/2015/poster/5476",
+        "id": "5476"
     },
     {
         "title": "The Brain Uses Reliability of Stimulus Information when Making Perceptual Decisions",
         "author": "Sebastian Bitzer, Stefan Kiebel",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5550"
+        "site": "https://nips.cc/virtual/2015/poster/5550",
+        "id": "5550"
     },
     {
         "title": "The Consistency of Common Neighbors for Link Prediction in Stochastic Blockmodels",
         "author": "Purnamrita Sarkar, Deepayan Chakrabarti, peter j bickel",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5723"
+        "site": "https://nips.cc/virtual/2015/poster/5723",
+        "id": "5723"
     },
     {
         "title": "The Human Kernel",
         "author": "Andrew Wilson, Christoph Dann, Chris Lucas, Eric Xing",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5806"
+        "site": "https://nips.cc/virtual/2015/poster/5806",
+        "id": "5806"
     },
     {
         "title": "The Pareto Regret Frontier for Bandits",
         "author": "Tor Lattimore",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5471"
+        "site": "https://nips.cc/virtual/2015/poster/5471",
+        "id": "5471"
     },
     {
         "title": "The Poisson Gamma Belief Network",
         "author": "Mingyuan Zhou, Yulai Cong, Bo Chen",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5726"
+        "site": "https://nips.cc/virtual/2015/poster/5726",
+        "id": "5726"
     },
     {
         "title": "The Population Posterior and Bayesian Modeling on Streams",
         "author": "James McInerney, Rajesh Ranganath, David Blei",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5559"
+        "site": "https://nips.cc/virtual/2015/poster/5559",
+        "id": "5559"
     },
     {
         "title": "The Return of the Gating Network: Combining Generative Models and Discriminative Training in Natural Image Priors",
         "author": "Dan Rosenbaum, Yair Weiss",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5863"
+        "site": "https://nips.cc/virtual/2015/poster/5863",
+        "id": "5863"
     },
     {
         "title": "The Self-Normalized Estimator for Counterfactual Learning",
         "author": "Adith Swaminathan, Thorsten Joachims",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5819"
+        "site": "https://nips.cc/virtual/2015/poster/5819",
+        "id": "5819"
     },
     {
         "title": "Time-Sensitive Recommendation From Recurrent User Activities",
         "author": "Nan Du, Yichen Wang, Niao He, Jimeng Sun, Le Song",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5764"
+        "site": "https://nips.cc/virtual/2015/poster/5764",
+        "id": "5764"
     },
     {
         "title": "Top-k Multiclass SVM",
         "author": "Maksim Lapin, Matthias Hein, Bernt Schiele",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5821"
+        "site": "https://nips.cc/virtual/2015/poster/5821",
+        "id": "5821"
     },
     {
         "title": "Tractable Bayesian Network Structure Learning with Bounded Vertex Cover Number",
         "author": "Janne H Korhonen, Pekka Parviainen",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5509"
+        "site": "https://nips.cc/virtual/2015/poster/5509",
+        "id": "5509"
     },
     {
         "title": "Tractable Learning for Complex Probability Queries",
         "author": "Jessa Bekker, Jesse Davis, Arthur Choi, Adnan Darwiche, Guy Van den Broeck",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5655"
+        "site": "https://nips.cc/virtual/2015/poster/5655",
+        "id": "5655"
     },
     {
         "title": "Training Restricted Boltzmann Machine via the \ufffcThouless-Anderson-Palmer free energy",
         "author": "Marylou Gabrie, Eric W Tramel, Florent Krzakala",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5511"
+        "site": "https://nips.cc/virtual/2015/poster/5511",
+        "id": "5511"
     },
     {
         "title": "Training Very Deep Networks",
         "author": "Rupesh K Srivastava, Klaus Greff, J\u00fcrgen Schmidhuber",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5855"
+        "site": "https://nips.cc/virtual/2015/poster/5855",
+        "id": "5855"
     },
     {
         "title": "Tree-Guided MCMC Inference for Normalized Random Measure Mixture Models",
         "author": "Juho Lee, Seungjin Choi",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5626"
+        "site": "https://nips.cc/virtual/2015/poster/5626",
+        "id": "5626"
     },
     {
         "title": "Unified View of Matrix Completion under General Structural Constraints",
         "author": "Suriya Gunasekar, Arindam Banerjee, Joydeep Ghosh",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5561"
+        "site": "https://nips.cc/virtual/2015/poster/5561",
+        "id": "5561"
     },
     {
         "title": "Unlocking neural population non-stationarities using hierarchical dynamics models",
         "author": "Mijung Park, Gergo Bohner, Jakob H Macke",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5468"
+        "site": "https://nips.cc/virtual/2015/poster/5468",
+        "id": "5468"
     },
     {
         "title": "Unsupervised Learning by Program Synthesis",
         "author": "Kevin Ellis, Armando Solar-Lezama, Josh Tenenbaum",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5543"
+        "site": "https://nips.cc/virtual/2015/poster/5543",
+        "id": "5543"
     },
     {
         "title": "Variance Reduced Stochastic Gradient Descent with Neighbors",
         "author": "Thomas Hofmann, Aurelien Lucchi, Simon Lacoste-Julien, Brian McWilliams",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5662"
+        "site": "https://nips.cc/virtual/2015/poster/5662",
+        "id": "5662"
     },
     {
         "title": "Variational Consensus Monte Carlo",
         "author": "Maxim Rabinovich, Elaine Angelino, Michael Jordan",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5564"
+        "site": "https://nips.cc/virtual/2015/poster/5564",
+        "id": "5564"
     },
     {
         "title": "Variational Dropout and the Local Reparameterization Trick",
         "author": "Diederik Kingma, Tim Salimans, Max Welling",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5687"
+        "site": "https://nips.cc/virtual/2015/poster/5687",
+        "id": "5687"
     },
     {
         "title": "Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning",
         "author": "Shakir Mohamed, Danilo Jimenez Rezende",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5643"
+        "site": "https://nips.cc/virtual/2015/poster/5643",
+        "id": "5643"
     },
     {
         "title": "Visalogy: Answering Visual Analogy Questions",
         "author": "Fereshteh Sadeghi, C. Lawrence Zitnick, Ali Farhadi",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5625"
+        "site": "https://nips.cc/virtual/2015/poster/5625",
+        "id": "5625"
     },
     {
         "title": "Weakly-supervised Disentangling with Recurrent Transformations for 3D View Synthesis",
         "author": "Jimei Yang, Scott E Reed, Ming-Hsuan Yang, Honglak Lee",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5556"
+        "site": "https://nips.cc/virtual/2015/poster/5556",
+        "id": "5556"
     },
     {
         "title": "Weighted Theta Functions and Embeddings with Applications to Max-Cut, Clustering and Summarization",
         "author": "Fredrik D Johansson, Ankani Chattoraj, Chiranjib Bhattacharyya, Devdatt Dubhashi",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5547"
+        "site": "https://nips.cc/virtual/2015/poster/5547",
+        "id": "5547"
     },
     {
         "title": "When are Kalman-Filter Restless Bandits Indexable?",
         "author": "Christopher R Dance, Tomi Silander",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5607"
+        "site": "https://nips.cc/virtual/2015/poster/5607",
+        "id": "5607"
     },
     {
         "title": "Where are they looking?",
         "author": "Adria Recasens, Aditya Khosla, Carl Vondrick, Antonio Torralba",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5853"
+        "site": "https://nips.cc/virtual/2015/poster/5853",
+        "id": "5853"
     },
     {
         "title": "Winner-Take-All Autoencoders",
         "author": "Alireza Makhzani, Brendan J Frey",
         "status": "Poster",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5704"
+        "site": "https://nips.cc/virtual/2015/poster/5704",
+        "id": "5704"
     },
     {
         "title": "b-bit Marginal Regression",
         "author": "Martin Slawski, Ping Li",
         "status": "Spotlight",
         "track": "main",
-        "site": "https://nips.cc/virtual/2015/poster/5831"
+        "site": "https://nips.cc/virtual/2015/poster/5831",
+        "id": "5831"
     }
 ]
