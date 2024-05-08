@@ -7,8 +7,12 @@
                     "url": "https://icml.cc/virtual/2024"
                 }
             },
-            "tname": {},
-            "tnum": {}
+            "tname": {
+                "0": "Poster"
+            },
+            "tnum": {
+                "0": 2609
+            }
         }
     },
     "2023": {
