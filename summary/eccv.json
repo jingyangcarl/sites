@@ -1,0 +1,38 @@
+{
+    "2022": {
+        "main": {
+            "src": {
+                "site": {
+                    "name": "eccv2022.ecva.net",
+                    "url": "https://eccv2022.ecva.net/"
+                }
+            },
+            "tname": {},
+            "tnum": {}
+        }
+    },
+    "2020": {
+        "main": {
+            "src": {
+                "site": {
+                    "name": "eccv2020.eu",
+                    "url": "http://eccv2020.eu"
+                }
+            },
+            "tname": {},
+            "tnum": {}
+        }
+    },
+    "2018": {
+        "main": {
+            "src": {
+                "site": {
+                    "name": "eccv2018.org",
+                    "url": "https://eccv2018.org"
+                }
+            },
+            "tname": {},
+            "tnum": {}
+        }
+    }
+}

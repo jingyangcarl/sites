@@ -1,0 +1,50 @@
+{
+    "2024": {
+        "main": {
+            "src": {
+                "site": {
+                    "name": "wacv2024.thecvf.com",
+                    "url": "https://wacv2024.thecvf.com/"
+                }
+            },
+            "tname": {},
+            "tnum": {}
+        }
+    },
+    "2023": {
+        "main": {
+            "src": {
+                "site": {
+                    "name": "wacv2023.thecvf.com",
+                    "url": "https://wacv2023.thecvf.com/"
+                }
+            },
+            "tname": {},
+            "tnum": {}
+        }
+    },
+    "2022": {
+        "main": {
+            "src": {
+                "site": {
+                    "name": "wacv2022.thecvf.com",
+                    "url": "https://wacv2022.thecvf.com/"
+                }
+            },
+            "tname": {},
+            "tnum": {}
+        }
+    },
+    "2021": {
+        "main": {
+            "src": {
+                "site": {
+                    "name": "wacv2021.thecvf.com",
+                    "url": "https://wacv2021.thecvf.com/"
+                }
+            },
+            "tname": {},
+            "tnum": {}
+        }
+    }
+}

@@ -8,10 +8,12 @@
                 }
             },
             "tname": {
-                "0": "Poster"
+                "0": "Poster",
+                "1": "Highlight"
             },
             "tnum": {
-                "0": 2694
+                "0": 2392,
+                "1": 324
             }
         }
     },
@@ -153,6 +155,42 @@
                 "1": 420,
                 "2": 128
             }
+        }
+    },
+    "2015": {
+        "main": {
+            "src": {
+                "site": {
+                    "name": "cvpr2015.thecvf.com",
+                    "url": "http://cvpr2015.thecvf.com/"
+                }
+            },
+            "tname": {},
+            "tnum": {}
+        }
+    },
+    "2014": {
+        "main": {
+            "src": {
+                "site": {
+                    "name": "cvpr2014.thecvf.com",
+                    "url": "http://cvpr2014.thecvf.com/"
+                }
+            },
+            "tname": {},
+            "tnum": {}
+        }
+    },
+    "2013": {
+        "main": {
+            "src": {
+                "site": {
+                    "name": "cvpr2013.thecvf.com",
+                    "url": "http://cvpr2013.thecvf.com/"
+                }
+            },
+            "tname": {},
+            "tnum": {}
         }
     }
 }

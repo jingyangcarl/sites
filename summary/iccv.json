@@ -88,5 +88,17 @@
                 "1": 50
             }
         }
+    },
+    "2013": {
+        "main": {
+            "src": {
+                "site": {
+                    "name": "pamitc.org",
+                    "url": "https://pamitc.org/iccv13.html"
+                }
+            },
+            "tname": {},
+            "tnum": {}
+        }
     }
 }
