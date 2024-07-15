@@ -1,0 +1,86 @@
+{
+    "2023": {
+        "main": {
+            "src": {
+                "site": {
+                    "name": "asia.siggraph.org",
+                    "url": "https://asia.siggraph.org/"
+                }
+            },
+            "tname": {
+                "0": "Technical Paper"
+            },
+            "tnum": {
+                "0": 224
+            }
+        }
+    },
+    "2022": {
+        "main": {
+            "src": {
+                "site": {
+                    "name": "sa2022.siggraph.org",
+                    "url": "https://sa2022.siggraph.org/"
+                }
+            },
+            "tname": {},
+            "tnum": {}
+        }
+    },
+    "2021": {
+        "main": {
+            "src": {
+                "site": {
+                    "name": "sa2021.conference-program.com",
+                    "url": "https://sa2021.conference-program.com/"
+                }
+            },
+            "tname": {},
+            "tnum": {}
+        }
+    },
+    "2020": {
+        "main": {
+            "src": {
+                "site": {
+                    "name": "sa2020.conference-program.com",
+                    "url": "https://sa2020.conference-program.com/"
+                }
+            },
+            "tname": {
+                "0": "Technical Paper"
+            },
+            "tnum": {
+                "0": 109
+            }
+        }
+    },
+    "2019": {
+        "main": {
+            "src": {
+                "site": {
+                    "name": "sa2019.conference-program.com",
+                    "url": "https://sa2019.conference-program.com/"
+                }
+            },
+            "tname": {},
+            "tnum": {}
+        }
+    },
+    "2018": {
+        "main": {
+            "src": {
+                "site": {
+                    "name": "sa2018.conference-program.com",
+                    "url": "https://sa2018.conference-program.com/"
+                }
+            },
+            "tname": {
+                "0": "Technical Paper"
+            },
+            "tnum": {
+                "0": 112
+            }
+        }
+    }
+}
