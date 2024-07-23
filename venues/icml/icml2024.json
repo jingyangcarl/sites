@@ -863,7 +863,8 @@
         "status": "Poster",
         "track": "main",
         "site": "https://icml.cc/virtual/2024/poster/35643",
-        "id": "35643"
+        "id": "35643",
+        "proceeding": ""
     },
     {
         "title": "A Unified View of FANOVA: A Comprehensive Bayesian Framework for Component Selection and Estimation",
@@ -1509,7 +1510,8 @@
         "status": "Poster",
         "track": "main",
         "site": "https://icml.cc/virtual/2024/poster/35641",
-        "id": "35641"
+        "id": "35641",
+        "proceeding": ""
     },
     {
         "title": "Adaptive Observation Cost Control for Variational Quantum Eigensolvers",
@@ -2452,7 +2454,8 @@
         "status": "Poster",
         "track": "main",
         "site": "https://icml.cc/virtual/2024/poster/35640",
-        "id": "35640"
+        "id": "35640",
+        "proceeding": ""
     },
     {
         "title": "Auctionformer: A Unified Deep Learning Algorithm for Solving Equilibrium Strategies in Auction Games",
@@ -6079,7 +6082,8 @@
         "status": "Poster",
         "track": "main",
         "site": "https://icml.cc/virtual/2024/poster/35631",
-        "id": "35631"
+        "id": "35631",
+        "proceeding": ""
     },
     {
         "title": "Decomposing Uncertainty for Large Language Models through Input Clarification Ensembling",
@@ -7737,7 +7741,8 @@
         "status": "Poster",
         "track": "main",
         "site": "https://icml.cc/virtual/2024/poster/35626",
-        "id": "35626"
+        "id": "35626",
+        "proceeding": ""
     },
     {
         "title": "Effective Federated Graph Matching",
@@ -8570,7 +8575,8 @@
         "status": "Poster",
         "track": "main",
         "site": "https://icml.cc/virtual/2024/poster/35621",
-        "id": "35621"
+        "id": "35621",
+        "proceeding": ""
     },
     {
         "title": "Evaluating Model Bias Requires Characterizing its Mistakes",
@@ -8996,7 +9002,8 @@
         "status": "Poster",
         "track": "main",
         "site": "https://icml.cc/virtual/2024/poster/35632",
-        "id": "35632"
+        "id": "35632",
+        "proceeding": ""
     },
     {
         "title": "Extending Test-Time Augmentation with Metamorphic Relations for Combinatorial Problems",
@@ -9125,7 +9132,8 @@
         "status": "Poster",
         "track": "main",
         "site": "https://icml.cc/virtual/2024/poster/35624",
-        "id": "35624"
+        "id": "35624",
+        "proceeding": ""
     },
     {
         "title": "Fair Federated Learning via the Proportional Veto Core",
@@ -10002,7 +10010,8 @@
         "status": "Poster",
         "track": "main",
         "site": "https://icml.cc/virtual/2024/poster/35625",
-        "id": "35625"
+        "id": "35625",
+        "proceeding": ""
     },
     {
         "title": "From Coarse to Fine: Enable Comprehensive Graph Self-supervised Learning with Multi-granular Semantic Ensemble",
@@ -10846,7 +10855,8 @@
         "status": "Poster",
         "track": "main",
         "site": "https://icml.cc/virtual/2024/poster/35638",
-        "id": "35638"
+        "id": "35638",
+        "proceeding": ""
     },
     {
         "title": "Graph Automorphism Group Equivariant Neural Networks",
@@ -15661,7 +15671,8 @@
         "status": "Poster",
         "track": "main",
         "site": "https://icml.cc/virtual/2024/poster/35644",
-        "id": "35644"
+        "id": "35644",
+        "proceeding": ""
     },
     {
         "title": "Matrix Information Theory for Self-Supervised Learning",
@@ -16494,7 +16505,8 @@
         "status": "Poster",
         "track": "main",
         "site": "https://icml.cc/virtual/2024/poster/35637",
-        "id": "35637"
+        "id": "35637",
+        "proceeding": ""
     },
     {
         "title": "Multi-group Learning for Hierarchical Groups",
@@ -17921,7 +17933,8 @@
         "status": "Poster",
         "track": "main",
         "site": "https://icml.cc/virtual/2024/poster/35629",
-        "id": "35629"
+        "id": "35629",
+        "proceeding": ""
     },
     {
         "title": "On the Hardness of Probabilistic Neurosymbolic Learning",
@@ -18050,7 +18063,8 @@
         "status": "Poster",
         "track": "main",
         "site": "https://icml.cc/virtual/2024/poster/35642",
-        "id": "35642"
+        "id": "35642",
+        "proceeding": ""
     },
     {
         "title": "On the Second-Order Convergence of Biased Policy Gradient Algorithms",
@@ -18322,7 +18336,8 @@
         "status": "Poster",
         "track": "main",
         "site": "https://icml.cc/virtual/2024/poster/35630",
-        "id": "35630"
+        "id": "35630",
+        "proceeding": ""
     },
     {
         "title": "Online Resource Allocation with Non-Stationary Customers",
@@ -19276,7 +19291,8 @@
         "status": "Poster",
         "track": "main",
         "site": "https://icml.cc/virtual/2024/poster/35634",
-        "id": "35634"
+        "id": "35634",
+        "proceeding": ""
     },
     {
         "title": "Physics and Lie symmetry informed Gaussian processes",
@@ -19460,7 +19476,8 @@
         "status": "Poster",
         "track": "main",
         "site": "https://icml.cc/virtual/2024/poster/35633",
-        "id": "35633"
+        "id": "35633",
+        "proceeding": ""
     },
     {
         "title": "Polynomial-based Self-Attention for Table Representation Learning",
@@ -20645,7 +20662,8 @@
         "status": "Poster",
         "track": "main",
         "site": "https://icml.cc/virtual/2024/poster/35639",
-        "id": "35639"
+        "id": "35639",
+        "proceeding": ""
     },
     {
         "title": "PriorBoost: An Adaptive Algorithm for Learning from Aggregate Responses",
@@ -21885,7 +21903,8 @@
         "status": "Poster",
         "track": "main",
         "site": "https://icml.cc/virtual/2024/poster/35623",
-        "id": "35623"
+        "id": "35623",
+        "proceeding": ""
     },
     {
         "title": "Ranking-based Client Imitation Selection for Efficient Federated Learning",
@@ -23741,7 +23760,8 @@
         "status": "Poster",
         "track": "main",
         "site": "https://icml.cc/virtual/2024/poster/35622",
-        "id": "35622"
+        "id": "35622",
+        "proceeding": ""
     },
     {
         "title": "Scalable Safe Policy Improvement for Factored Multi-Agent MDPs",
@@ -23859,7 +23879,8 @@
         "status": "Poster",
         "track": "main",
         "site": "https://icml.cc/virtual/2024/poster/35635",
-        "id": "35635"
+        "id": "35635",
+        "proceeding": ""
     },
     {
         "title": "Scaling Tractable Probabilistic Circuits: A Systems Perspective",
@@ -25649,7 +25670,8 @@
         "status": "Poster",
         "track": "main",
         "site": "https://icml.cc/virtual/2024/poster/35628",
-        "id": "35628"
+        "id": "35628",
+        "proceeding": ""
     },
     {
         "title": "Swallowing the Bitter Pill: Simplified Scalable Conformer Generation",
@@ -25767,7 +25789,8 @@
         "status": "Poster",
         "track": "main",
         "site": "https://icml.cc/virtual/2024/poster/35627",
-        "id": "35627"
+        "id": "35627",
+        "proceeding": ""
     },
     {
         "title": "TENG: Time-Evolving Natural Gradient for Solving PDEs With Deep Neural Nets Toward Machine Precision",
@@ -26270,7 +26293,8 @@
         "status": "Poster",
         "track": "main",
         "site": "https://icml.cc/virtual/2024/poster/35636",
-        "id": "35636"
+        "id": "35636",
+        "proceeding": ""
     },
     {
         "title": "Theoretical Analysis of Learned Database Operations under Distribution Shift through Distribution Learnability",
