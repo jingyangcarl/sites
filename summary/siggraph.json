@@ -1,4 +1,22 @@
 {
+    "2024": {
+        "main": {
+            "src": {
+                "site": {
+                    "name": "s2024.conference-program.org",
+                    "url": "https://s2024.conference-program.org/"
+                }
+            },
+            "tname": {
+                "0": "Technical Paper",
+                "1": "TOG Paper"
+            },
+            "tnum": {
+                "0": 252,
+                "1": 27
+            }
+        }
+    },
     "2023": {
         "main": {
             "src": {
