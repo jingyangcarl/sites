@@ -1,4 +1,22 @@
 {
+    "2024": {
+        "main": {
+            "src": {
+                "site": {
+                    "name": "eccv2024.ecva.net",
+                    "url": "https://eccv2024.ecva.net//virtual/2024"
+                }
+            },
+            "tname": {
+                "0": "Poster",
+                "1": "Oral"
+            },
+            "tnum": {
+                "0": 2187,
+                "1": 200
+            }
+        }
+    },
     "2022": {
         "main": {
             "src": {
