@@ -1,4 +1,42 @@
 {
+    "2024": {
+        "main": {
+            "src": {
+                "site": {
+                    "name": "nips.cc",
+                    "url": "https://nips.cc/virtual/2024"
+                }
+            },
+            "tname": {
+                "0": "Poster",
+                "1": "Oral"
+            },
+            "tnum": {
+                "0": 4428,
+                "1": 72
+            }
+        },
+        "Datasets & Benchmarks": {
+            "src": {
+                "site": {
+                    "name": "nips.cc",
+                    "url": "https://nips.cc/virtual/2024"
+                }
+            },
+            "tname": {},
+            "tnum": {}
+        },
+        "Journal": {
+            "src": {
+                "site": {
+                    "name": "nips.cc",
+                    "url": "https://nips.cc/virtual/2024"
+                }
+            },
+            "tname": {},
+            "tnum": {}
+        }
+    },
     "2023": {
         "main": {
             "src": {
