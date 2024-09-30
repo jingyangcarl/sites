@@ -889,7 +889,7 @@
     },
     {
         "title": "Adaptive Regret for Bandits Made Possible: Two Queries Suffice",
-        "author": "Zhou Lu, Qiuyi Zhang, Xinyi Chen, Fred Zhang, David Woodruff, Elad Hazan",
+        "author": "Zhou Lu, Qiuyi (Richard) Zhang, Xinyi Chen, Fred Zhang, David Woodruff, Elad Hazan",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19256",
@@ -1201,7 +1201,7 @@
     },
     {
         "title": "An Efficient Membership Inference Attack for the Diffusion Model by Proximal Initialization",
-        "author": "Fei Kong, Jinhao Duan, ruipeng ma, Heng Tao Shen, Xiaofeng Zhu, Xiaoshuang Shi, Kaidi Xu",
+        "author": "Fei Kong, Jinhao Duan, ruipeng ma, Heng Tao Shen, Xiaoshuang Shi, Xiaofeng Zhu, Kaidi Xu",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/17681",
@@ -1377,7 +1377,7 @@
     },
     {
         "title": "Approximately Piecewise E(3) Equivariant Point Networks",
-        "author": "Matan Atzmon, Francis Williams, Jiahui Huang, Or Litany",
+        "author": "Matan Atzmon, Jiahui Huang, Francis Williams, Or Litany",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18369",
@@ -1673,7 +1673,7 @@
     },
     {
         "title": "BadEdit: Backdooring Large Language Models by Model Editing",
-        "author": "Yanzhou Li, Kangjie Chen, Tianlin Li, Jian Zhang, Shangqing Liu, Wenhan Wang, Tianwei Zhang, Yang Liu",
+        "author": "Yanzhou Li, Tianlin Li, Kangjie Chen, Jian Zhang, Shangqing Liu, Wenhan Wang, Tianwei Zhang, Yang Liu",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18240",
@@ -2129,7 +2129,7 @@
     },
     {
         "title": "Bounding Box Stability against Feature Dropout Reflects Detector Generalization across Environments",
-        "author": "Yang2 Yang, Wenhai Wang, Zhe Chen, Jifeng Dai, Liang Zheng",
+        "author": "Yang Yang, Wenhai Wang, Zhe Chen, Jifeng Dai, Liang Zheng",
         "status": "Spotlight",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/17919",
@@ -2161,7 +2161,7 @@
     },
     {
         "title": "BrainLM: A foundation model for brain activity recordings",
-        "author": "Josue Ortega Caro, Antonio Henrique de Oliveira Fonseca, Christopher Averill, Syed Rizvi, Matteo Rosati, James Cross, Prateek Mittal, Emanuele Zappala, Rahul Dhodapkar, Chadi Abdallah, David Dijk",
+        "author": "Josue Ortega Caro, Antonio Henrique de Oliveira Fonseca, Syed Rizvi, Matteo Rosati, Christopher Averill, James Cross, Prateek Mittal, Emanuele Zappala, Rahul Dhodapkar, Chadi Abdallah, David Dijk",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18625",
@@ -2185,7 +2185,7 @@
     },
     {
         "title": "Breaking Physical and Linguistic Borders: Multilingual Federated Prompt Tuning for Low-Resource Languages",
-        "author": "Wanru Zhao, Royson Lee, Yihong Chen, Xinchi Qiu, Yan Gao, Hongxiang Fan, Nic Lane",
+        "author": "Wanru Zhao, Yihong Chen, Royson Lee, Xinchi Qiu, Yan Gao, Hongxiang Fan, Nic Lane",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/17365",
@@ -2473,7 +2473,7 @@
     },
     {
         "title": "Cameras as Rays: Pose Estimation via Ray Diffusion",
-        "author": "Jason Zhang, Amy Lin, MONEISH KUMAR, Tzu-Hsuan Yang, Deva Ramanan, Shubham Tulsiani",
+        "author": "Jason Zhang, Amy Lin, Moneish Kumar, Tzu-Hsuan Yang, Deva Ramanan, Shubham Tulsiani",
         "status": "Oral",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19101",
@@ -2889,7 +2889,7 @@
     },
     {
         "title": "Combinatorial Bandits for Maximum Value Reward Function under Value-Index Feedback",
-        "author": "Yiliu Wang, Milan Vojnovic, Wei Chen",
+        "author": "Yiliu Wang, Wei Chen, Milan Vojnovic",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18225",
@@ -3137,7 +3137,7 @@
     },
     {
         "title": "Conserve-Update-Revise to Cure Generalization and Robustness Trade-off in Adversarial Training",
-        "author": "Shruthi Gowda, Bahram Yoosefizonooz, Elahe Arani",
+        "author": "Shruthi Gowda, Bahram Zonooz, Elahe Arani",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19397",
@@ -3425,7 +3425,7 @@
     },
     {
         "title": "Correlated Noise Provably Beats Independent Noise for Differentially Private Learning",
-        "author": "Christopher A. Choquette-Choo, Krishnamurthy Dvijotham, Krishna Pillutla, Arun Ganesh, Thomas Steinke, Abhradeep Guha Thakurta",
+        "author": "Christopher Choquette-Choo, Krishnamurthy Dvijotham, Krishna Pillutla, Arun Ganesh, Thomas Steinke, Abhradeep Guha Thakurta",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/17459",
@@ -3609,7 +3609,7 @@
     },
     {
         "title": "DIG In: Evaluating Disparities in Image Generations with Indicators for Geographic Diversity",
-        "author": "Candace Ross, Melissa Hall, Nicolas Carion, Adriana Romero-Soriano, Michal Drozdzal, Adina Williams",
+        "author": "Melissa Hall, Candace Ross, Adina Williams, Nicolas Carion, Michal Drozdzal, Adriana Romero-Soriano",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/21751",
@@ -3769,7 +3769,7 @@
     },
     {
         "title": "De novo Protein Design Using Geometric Vector Field Networks",
-        "author": "weian mao, Zheng Sun, Muzhi Zhu, Shuaike Shen, Lin Yuanbo Wu, Hao Chen, Chunhua Shen",
+        "author": "weian mao, Muzhi Zhu, Zheng Sun, Shuaike Shen, Lin Yuanbo Wu, Hao Chen, Chunhua Shen",
         "status": "Spotlight",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19294",
@@ -3945,7 +3945,7 @@
     },
     {
         "title": "Deep Reinforcement Learning for Modelling Protein Complexes",
-        "author": "Tao Feng, Ziqi Gao, Jiaxuan You, Chenyi Zi, Yan Zhou, Chen Zhang, Jia Li",
+        "author": "Ziqi Gao, Tao Feng, Jiaxuan You, Chenyi Zi, Yan Zhou, Chen Zhang, Jia Li",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19469",
@@ -4393,7 +4393,7 @@
     },
     {
         "title": "Distinguished In Uniform: Self-Attention Vs. Virtual Nodes",
-        "author": "Jan T\u00f6nshoff, Eran Rosenbluth, Martin Ritzert, Berke Kisin, Martin Grohe",
+        "author": "Eran Rosenbluth, Jan T\u00f6nshoff, Martin Ritzert, Berke Kisin, Martin Grohe",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19249",
@@ -4529,7 +4529,7 @@
     },
     {
         "title": "Don't Play Favorites: Minority Guidance for Diffusion Models",
-        "author": "Soobin Um, Suhyeon Lee, Jong Ye",
+        "author": "Soobin Um, Suhyeon Lee, Jong Chul YE",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19517",
@@ -4721,7 +4721,7 @@
     },
     {
         "title": "Dynamic Layer Tying for Parameter-Efficient Transformers",
-        "author": "Tamir David Hay, Lior Wolf",
+        "author": "Tamir David-Hay, Lior Wolf",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18276",
@@ -4793,7 +4793,7 @@
     },
     {
         "title": "ED-NeRF: Efficient Text-Guided Editing of 3D Scene With Latent Space NeRF",
-        "author": "Jangho Park, Gihyun Kwon, Jong Ye",
+        "author": "Jangho Park, Gihyun Kwon, Jong Chul YE",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19301",
@@ -5785,7 +5785,7 @@
     },
     {
         "title": "Fantastic Generalization Measures are Nowhere to be Found",
-        "author": "Ido Nachum, Jonathan Shafer, Thomas Weinberger, Michael Gastpar",
+        "author": "Michael Gastpar, Ido Nachum, Jonathan Shafer, Thomas Weinberger",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18773",
@@ -6073,7 +6073,7 @@
     },
     {
         "title": "Few-shot Hybrid Domain Adaptation of Image Generator",
-        "author": "Hengjia Li, Yang Liu, Linxuan Xia, Yuqi Lin, Tu Zheng, Zheng Yang, Wenxiao Wang, Xiaohui Zhong, Xiaobo Ren, Xiaofei He",
+        "author": "Hengjia Li, Yang Liu, Linxuan Xia, Yuqi Lin, Wenxiao Wang, Tu Zheng, Zheng Yang, Xiaohui Zhong, Xiaobo Ren, Xiaofei He",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19076",
@@ -6729,7 +6729,7 @@
     },
     {
         "title": "Generating Images with 3D Annotations Using Diffusion Models",
-        "author": "Wufei Ma, Qihao Liu, Jiahao Wang, Xiaoding Yuan, Angtian Wang, Yi Zhang, Zihao Xiao, Guofeng Zhang, Beijia Lu, Ruxiao Duan, Yongrui Qi, Adam Kortylewski, Yaoyao Liu, Alan Yuille",
+        "author": "Wufei Ma, Qihao Liu, Jiahao Wang, Angtian Wang, Xiaoding Yuan, Yi Zhang, Zihao Xiao, Guofeng Zhang, Beijia Lu, Ruxiao Duan, Yongrui Qi, Adam Kortylewski, Yaoyao Liu, Alan Yuille",
         "status": "Spotlight",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18443",
@@ -7049,7 +7049,7 @@
     },
     {
         "title": "Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models",
-        "author": "Hyeonho Jeong, Jong Ye",
+        "author": "Hyeonho Jeong, Jong Chul YE",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19558",
@@ -8337,7 +8337,7 @@
     },
     {
         "title": "It's Never Too Late: Fusing Acoustic Information into Large Language Models for Automatic Speech Recognition",
-        "author": "CHEN CHEN, Ruizhe Li, Yuchen Hu, Sabato Siniscalchi, Pin-Yu Chen, Ensiong Chng, Huck Yang",
+        "author": "CHEN CHEN, Ruizhe Li, Yuchen Hu, Sabato Siniscalchi, Pin-Yu Chen, Ensiong Chng, Chao-Han Huck Yang",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18665",
@@ -8393,7 +8393,7 @@
     },
     {
         "title": "Jumanji: a Diverse Suite of Scalable Reinforcement Learning Environments in JAX",
-        "author": "Cl\u00e9ment Bonnet, Daniel Luo, Donal Byrne, Shikha Surana, Paul Duckworth, Vincent Coyette, Laurence Midgley, Sasha Abramowitz, Elshadai Tegegn, Tristan Kalloniatis, Omayma Mahjoub, Matthew Macfarlane, Andries Smit, Nathan Grinsztajn, Raphael Boige, Cemlyn Waters, Mohamed Ali Mimouni, Ulrich Mbou Sob, Ruan de Kock, Siddarth Singh, Daniel Furelos-Blanco, Victor Le, Arnu Pretorius, Alexandre Laterre",
+        "author": "Cl\u00e9ment Bonnet, Daniel Luo, Donal Byrne, Shikha Surana, Sasha Abramowitz, Paul Duckworth, Vincent Coyette, Laurence Midgley, Elshadai Tegegn, Tristan Kalloniatis, Omayma Mahjoub, Matthew Macfarlane, Andries Smit, Nathan Grinsztajn, Raphael Boige, Cemlyn Waters, Mohamed Ali Mimouni, Ulrich Mbou Sob, Ruan de Kock, Siddarth Singh, Daniel Furelos-Blanco, Victor Le, Arnu Pretorius, Alexandre Laterre",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19187",
@@ -8553,7 +8553,7 @@
     },
     {
         "title": "LEMON: Lossless model expansion",
-        "author": "Yite Wang, Jiahao Su, Lu, Cong Xie, Tianyi Liu, Jianbo Yuan, Haibin Lin, Ruoyu Sun, Hongxia Yang",
+        "author": "Yite Wang, Jiahao Su, Hanlin Lu, Cong Xie, Tianyi Liu, Jianbo Yuan, Haibin Lin, Ruoyu Sun, Hongxia Yang",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19508",
@@ -8601,7 +8601,7 @@
     },
     {
         "title": "LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation",
-        "author": "Suhyeon Lee, Won Jun Kim, Jinho Chang, Jong Ye",
+        "author": "Suhyeon Lee, Won Jun Kim, Jinho Chang, Jong Chul YE",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19198",
@@ -9241,7 +9241,7 @@
     },
     {
         "title": "Learning Planning Abstractions from Language",
-        "author": "Weiyu Liu, Geng Chen, Jiayuan Mao, Joy Hsu, Jiajun Wu",
+        "author": "Weiyu Liu, Geng Chen, Joy Hsu, Jiayuan Mao, Jiajun Wu",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19510",
@@ -9729,7 +9729,7 @@
     },
     {
         "title": "Linear attention is (maybe) all you need (to understand Transformer optimization)",
-        "author": "Kwangjun Ahn, Xiang Cheng, Minhak Song, Chulhee Yun, Suvrit Sra, Ali Jadbabaie",
+        "author": "Kwangjun Ahn, Xiang Cheng, Minhak Song, Chulhee Yun, Ali Jadbabaie, Suvrit Sra",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19602",
@@ -10049,7 +10049,7 @@
     },
     {
         "title": "MIntRec2.0: A Large-scale Benchmark Dataset for Multimodal Intent Recognition and Out-of-scope Detection in Conversations",
-        "author": "Hanlei Zhang, Xin Wang, Hua Xu, Qianrui Zhou, Jianhua Su, jinyue Zhao, Wenrui Li, Yanting Chen, Kai Gao",
+        "author": "Hanlei Zhang, Xin Wang, Hua Xu, Qianrui Zhou, Kai Gao, Jianhua Su, jinyue Zhao, Wenrui Li, Yanting Chen",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/17855",
@@ -10089,7 +10089,7 @@
     },
     {
         "title": "MOTOR: A Time-to-Event Foundation Model For Structured Medical Records",
-        "author": "Ethan Steinberg, Yizhe Xu, Jason Fries, Nigam Shah",
+        "author": "Ethan Steinberg, Jason Fries, Yizhe Xu, Nigam Shah",
         "status": "Spotlight",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18777",
@@ -10137,7 +10137,7 @@
     },
     {
         "title": "MaGIC: Multi-modality Guided Image Completion",
-        "author": "Yongsheng Yu, Hao Wang, Tiejian Luo, Heng Fan, Libo Zhang",
+        "author": "Hao Wang, Yongsheng Yu, Tiejian Luo, Heng Fan, Libo Zhang",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/17833",
@@ -11513,7 +11513,7 @@
     },
     {
         "title": "ODE Discovery for Longitudinal Heterogeneous Treatment Effects Inference",
-        "author": "Samuel Holt, Jeroen Berrevoets, Krzysztof Kacprzyk, Zhaozhi Qian, Mihaela van der Schaar",
+        "author": "Krzysztof Kacprzyk, Samuel Holt, Jeroen Berrevoets, Zhaozhi Qian, Mihaela van der Schaar",
         "status": "Spotlight",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/17759",
@@ -11601,7 +11601,7 @@
     },
     {
         "title": "OctoPack: Instruction Tuning Code Large Language Models",
-        "author": "Niklas Muennighoff, Qian Liu, Armel Zebaze, Qinkai Zheng, Binyuan Hui, Terry Yue Zhuo, Swayam Singh, xiangru tan\u2006h, Leandro Von Werra, Shayne Longpre",
+        "author": "Niklas Muennighoff, Qian Liu, Armel Zebaze, Qinkai Zheng, Binyuan Hui, Terry Yue Zhuo, Swayam Singh, Xiangru Tang, Leandro Von Werra, Shayne Longpre",
         "status": "Spotlight",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/17875",
@@ -11841,7 +11841,7 @@
     },
     {
         "title": "On the Learnability of Watermarks for Language Models",
-        "author": "Chenchen Gu, Xiang Li, Percy Liang, Tatsunori Hashimoto",
+        "author": "Chenchen Gu, XIANG LI, Percy Liang, Tatsunori Hashimoto",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19286",
@@ -11937,7 +11937,7 @@
     },
     {
         "title": "On the Scalability and Memory Efficiency of Semidefinite Programs for Lipschitz Constant Estimation of Neural Networks",
-        "author": "Zi Wang, Aaron Havens, Alexandre Araujo, Yang Zheng, Bin Hu, Yudong Chen, Somesh Jha",
+        "author": "Zi Wang, Bin Hu, Aaron Havens, Alexandre Araujo, Yang Zheng, Yudong Chen, Somesh Jha",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18238",
@@ -12529,7 +12529,7 @@
     },
     {
         "title": "PeFLL: Personalized Federated Learning by Learning to Learn",
-        "author": "Jonathan Scott, Hossein Zakerinia, Christop Lampert",
+        "author": "Jonathan Scott, Hossein Zakerinia, Christoph Lampert",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18806",
@@ -12649,7 +12649,7 @@
     },
     {
         "title": "Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks",
-        "author": "Murtaza Dalal, Tarun Chiruvolu, Devendra Singh Chaplot, Ruslan Salakhutdinov",
+        "author": "Murtaza Dalal, Tarun Chiruvolu, Devendra Chaplot, Ruslan Salakhutdinov",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18096",
@@ -12673,7 +12673,7 @@
     },
     {
         "title": "Plug-and-Play: An Efficient Post-training Pruning Method for Large Language Models",
-        "author": "Yingtao Zhang, Haoli Bai, Jialin Zhao, Haokun Lin, LU HOU, Carlo Vittorio Cannistraci",
+        "author": "Yingtao Zhang, Haoli Bai, Haokun Lin, Jialin Zhao, LU HOU, Carlo Vittorio Cannistraci",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18549",
@@ -12721,7 +12721,7 @@
     },
     {
         "title": "Policy Rehearsing: Training Generalizable Policies for Reinforcement Learning",
-        "author": "Chengxing Jia, Chen-Xiao Gao, Hao Yin, Fuxiang Zhang, XiongHui Chen, Tian Xu, Lei Yuan, Zongzhang Zhang, Yang Yu, Zhi-Hua Zhou",
+        "author": "Chengxing Jia, Chen-Xiao Gao, Hao Yin, Fuxiang Zhang, XiongHui Chen, Tian Xu, Lei Yuan, Zongzhang Zhang, Zhi-Hua Zhou, Yang Yu",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/17908",
@@ -12729,7 +12729,7 @@
     },
     {
         "title": "Poly-View Contrastive Learning",
-        "author": "Amitis Shidani, Dan Busbridge, R Devon Hjelm, Jason Ramapuram, Eeshan Gunesh Dhekane, Russell Webb",
+        "author": "Amitis Shidani, R Devon Hjelm, Jason Ramapuram, Russell Webb, Eeshan Gunesh Dhekane, Dan Busbridge",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18069",
@@ -12913,7 +12913,7 @@
     },
     {
         "title": "Privacy Amplification for Matrix Mechanisms",
-        "author": "Christopher A. Choquette-Choo, Arun Ganesh, Thomas Steinke, Abhradeep Guha Thakurta",
+        "author": "Christopher Choquette-Choo, Arun Ganesh, Thomas Steinke, Abhradeep Guha Thakurta",
         "status": "Spotlight",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/17452",
@@ -13393,7 +13393,7 @@
     },
     {
         "title": "RA-DIT: Retrieval-Augmented Dual Instruction Tuning",
-        "author": "Xi Lin, Xilun Chen, Mingda Chen, Weijia Shi, Maria Lomeli, Richard James, Pedro Rodriguez, Jacob Kahn, Gergely Szilvasy, Mike Lewis, Luke Zettlemoyer, Scott Yih",
+        "author": "Victoria Lin, Xilun Chen, Mingda Chen, Weijia Shi, Maria Lomeli, Richard James, Pedro Rodriguez, Jacob Kahn, Gergely Szilvasy, Mike Lewis, Luke Zettlemoyer, Scott Yih",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/19562",
@@ -14145,7 +14145,7 @@
     },
     {
         "title": "Robust Training of Federated Models with Extremely Label Deficiency",
-        "author": "Yonggang Zhang, Zhiqin Yang, Xinmei Tian, Nannan Wang, Tongliang Liu, Bo Han",
+        "author": "Yonggang Zhang, Yang, Xinmei Tian, Nannan Wang, Tongliang Liu, Bo Han",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/17708",
@@ -14553,7 +14553,7 @@
     },
     {
         "title": "SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation",
-        "author": "Chongyu Fan, Jiancheng Liu, Yihua Zhang, Dennis Wei, Eric Wong, Sijia Liu",
+        "author": "Chongyu Fan, Jiancheng Liu, Yihua Zhang, Eric Wong, Dennis Wei, Sijia Liu",
         "status": "Spotlight",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18130",
@@ -14985,7 +14985,7 @@
     },
     {
         "title": "Set Learning for Accurate and Calibrated Models",
-        "author": "Lukas Muttenthaler, Robert A Vandermeulen, Qiuyi Zhang, Thomas Unterthiner, Klaus R Muller",
+        "author": "Lukas Muttenthaler, Robert A Vandermeulen, Qiuyi (Richard) Zhang, Thomas Unterthiner, Klaus R Muller",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18987",
@@ -15593,7 +15593,7 @@
     },
     {
         "title": "Structural Estimation of Partially Observed Linear Non-Gaussian Acyclic Model: A Practical Approach with Identifiability",
-        "author": "songyao jin, Feng Xie, Guangyi Chen, Biwei Huang, Zhengming Chen, Xinshuai Dong, Kun Zhang",
+        "author": "Songyao Jin, Feng Xie, Guangyi Chen, Biwei Huang, Zhengming Chen, Xinshuai Dong, Kun Zhang",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/17863",
@@ -15689,7 +15689,7 @@
     },
     {
         "title": "Sum-Product-Set Networks: Deep Tractable Models for Tree-Structured Graphs",
-        "author": "Milan Papez, Martin Rektoris, Tom\u00e1\u0161 Pevn\u00fd, Vaclav Smidl",
+        "author": "Milan Papez, Martin Rektoris, Vaclav Smidl, Tom\u00e1\u0161 Pevn\u00fd",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/17901",
@@ -15809,7 +15809,7 @@
     },
     {
         "title": "TAB: Temporal Accumulated Batch Normalization in Spiking Neural Networks",
-        "author": "Haiyan Jiang, Vincent Zoonekynd, Giulia De Masi, Huan Xiong, Bin Gu",
+        "author": "Haiyan Jiang, Vincent Zoonekynd, Giulia De Masi, Bin Gu, Huan Xiong",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/17995",
@@ -15977,7 +15977,7 @@
     },
     {
         "title": "Task Planning for Visual Room Rearrangement under Partial Observability",
-        "author": "DIPANJAN DAS, Karan Mirakhor, Sourav Ghosh, Brojeshwar Bhowmick",
+        "author": "Karan Mirakhor, Sourav Ghosh, DIPANJAN DAS, Brojeshwar Bhowmick",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18030",
@@ -16185,7 +16185,7 @@
     },
     {
         "title": "The Effectiveness of Random Forgetting for Robust Generalization",
-        "author": "Vijaya Raghavan T Ramkumar, Bahram Yoosefizonooz, Elahe Arani",
+        "author": "Vijaya Raghavan T Ramkumar, Bahram Zonooz, Elahe Arani",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18836",
@@ -16561,7 +16561,7 @@
     },
     {
         "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs",
-        "author": "Yujia Qin, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, Yankai Lin, Xin Cong, xiangru tan\u2006h, Bill Qian, Sihan Zhao, Lauren Hong, Runchu Tian, Ruobing Xie, Jie Zhou, Mark Gerstein, dahai li, Zhiyuan Liu, Maosong Sun",
+        "author": "Yujia Qin, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, Yankai Lin, Xin Cong, Xiangru Tang, Bill Qian, Sihan Zhao, Lauren Hong, Runchu Tian, Ruobing Xie, Jie Zhou, Mark Gerstein, dahai li, Zhiyuan Liu, Maosong Sun",
         "status": "Spotlight",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/18267",
@@ -16665,7 +16665,7 @@
     },
     {
         "title": "Towards Characterizing Domain Counterfactuals for Invertible Latent Causal Models",
-        "author": "Sean Kulinski, Zeyu Zhou, Ruqi Bai, Murat Kocaoglu, David Inouye",
+        "author": "Zeyu Zhou, Ruqi Bai, Sean Kulinski, Murat Kocaoglu, David Inouye",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/17554",
@@ -16921,7 +16921,7 @@
     },
     {
         "title": "Towards Robust and Efficient Cloud-Edge Elastic Model Adaptation via Selective Entropy Distillation",
-        "author": "Yaofo Chen, Shuaicheng Niu, Shoukai Xu, Hengjie Song, Mingkui Tan, Yaowei Wang",
+        "author": "Yaofo Chen, Shuaicheng Niu, Yaowei Wang, Shoukai Xu, Hengjie Song, Mingkui Tan",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/17525",
@@ -17145,7 +17145,7 @@
     },
     {
         "title": "Traveling Waves Encode The Recent Past and Enhance Sequence Learning",
-        "author": "Andy Keller, Lyle Muller, Terrence Sejnowski, Max Welling",
+        "author": "T. Anderson Keller, Lyle Muller, Terrence Sejnowski, Max Welling",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/17796",
@@ -17433,7 +17433,7 @@
     },
     {
         "title": "Understanding the robustness difference between stochastic gradient descent and adaptive gradient methods",
-        "author": "Amir-massoud Farahmand, Yangchen Pan, Avery Ma",
+        "author": "Avery Ma, Yangchen Pan, Amir-massoud Farahmand",
         "status": "Poster",
         "track": "main",
         "site": "https://iclr.cc/virtual/2024/poster/21770",
