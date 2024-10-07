@@ -5113,7 +5113,7 @@
     },
     {
         "title": "Can Large Language Models Analyze Graphs like Professionals? A Benchmark and Dataset",
-        "author": "Xin Li, Weize Chen, Qizhi Chu, Haopeng Li, Zhaojun Sun, Ran Li, Qian, Yiwei Wei, Chuan Shi, Zhiyuan Liu, Maosong Sun, Cheng Yang",
+        "author": "Xin Li, Weize Chen, Qizhi Chu, Haopeng Li, Zhaojun Sun, Ran Li, Chen Qian, Yiwei Wei, Chuan Shi, Zhiyuan Liu, Maosong Sun, Cheng Yang",
         "status": "Poster",
         "track": "main",
         "site": "https://nips.cc/virtual/2024/poster/97519",
@@ -19505,7 +19505,7 @@
     },
     {
         "title": "Magnet: We Never Know How Text-to-Image Diffusion Models Work, Until We Learn How Vision-Language Models Function",
-        "author": "CHENYI ZHUANG, Ying Hu, Pan Gao",
+        "author": "Chenyi Zhuang, Ying Hu, Pan Gao",
         "status": "Poster",
         "track": "main",
         "site": "https://nips.cc/virtual/2024/poster/96637",
@@ -20305,7 +20305,7 @@
     },
     {
         "title": "Mining and Transferring Feature-Geometry Coherence for Unsupervised Point Cloud Registration",
-        "author": "Kezheng Xiong, Haoen Xiang, Qingshan Xu, Chenglu Wen, Siqi Shen, Jonathan Jun LI, Cheng Wang",
+        "author": "KeZheng Xiong, Haoen Xiang, Qingshan Xu, Chenglu Wen, Siqi Shen, Jonathan Jun LI, Cheng Wang",
         "status": "Poster",
         "track": "main",
         "site": "https://nips.cc/virtual/2024/poster/95385",
@@ -26921,7 +26921,7 @@
     },
     {
         "title": "Resfusion: Denoising Diffusion Probabilistic Models for Image Restoration Based on Prior Residual Noise",
-        "author": "Shi Zhenning, haoshuai zheng, Chen Xu, Changsheng Dong, Bin Pan, Xie xueshuo, Along He, Tao Li, Huazhu Fu",
+        "author": "Zhenning Shi, haoshuai zheng, Chen Xu, Changsheng Dong, Bin Pan, Xie xueshuo, Along He, Tao Li, Huazhu Fu",
         "status": "Poster",
         "track": "main",
         "site": "https://nips.cc/virtual/2024/poster/95696",
@@ -32249,7 +32249,7 @@
     },
     {
         "title": "Toward Conditional Distribution Calibration in Survival Prediction",
-        "author": "Shiang Qi, Yakun Yu, Russell Greiner",
+        "author": "Shi-ang Qi, Yakun Yu, Russell Greiner",
         "status": "Poster",
         "track": "main",
         "site": "https://nips.cc/virtual/2024/poster/93851",
