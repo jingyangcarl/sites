@@ -1,196 +1,244 @@
 {
     "2024": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Poster",
+                    "1": "Highlight"
+                }
+            },
             "src": {
                 "site": {
                     "name": "cvpr.thecvf.com",
                     "url": "https://cvpr.thecvf.com/virtual/2024"
                 }
             },
-            "tname": {
-                "0": "Poster",
-                "1": "Highlight"
-            },
-            "tnum": {
-                "0": 2392,
-                "1": 324
+            "sum": {
+                "count": {
+                    "0": 2392,
+                    "1": 324
+                }
             }
         }
     },
     "2023": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Poster",
+                    "1": "Highlight"
+                }
+            },
             "src": {
                 "site": {
                     "name": "cvpr.thecvf.com",
                     "url": "https://cvpr.thecvf.com/virtual/2023"
                 }
             },
-            "tname": {
-                "0": "Poster",
-                "1": "Highlight"
-            },
-            "tnum": {
-                "0": 2136,
-                "1": 223
+            "sum": {
+                "count": {
+                    "0": 2136,
+                    "1": 223
+                }
             }
         }
     },
     "2022": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Poster",
+                    "1": "Oral"
+                }
+            },
             "src": {
                 "site": {
                     "name": "cvpr2022.thecvf.com",
                     "url": "https://cvpr2022.thecvf.com/"
                 }
             },
-            "tname": {
-                "0": "Poster",
-                "1": "Oral"
-            },
-            "tnum": {
-                "0": 1720,
-                "1": 342
+            "sum": {
+                "count": {
+                    "0": 1720,
+                    "1": 342
+                }
             }
         }
     },
     "2021": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Poster"
+                }
+            },
             "src": {
                 "site": {
                     "name": "cvpr2021.thecvf.com",
                     "url": "https://cvpr2021.thecvf.com/"
                 }
             },
-            "tname": {
-                "0": "Poster"
-            },
-            "tnum": {
-                "0": 1661
+            "sum": {
+                "count": {
+                    "0": 1661
+                }
             }
         }
     },
     "2020": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Poster",
+                    "1": "Oral"
+                }
+            },
             "src": {
                 "site": {
                     "name": "cvpr2020.thecvf.com",
                     "url": "https://cvpr2020.thecvf.com/"
                 }
             },
-            "tname": {
-                "0": "Poster",
-                "1": "Oral"
-            },
-            "tnum": {
-                "0": 1132,
-                "1": 335
+            "sum": {
+                "count": {
+                    "0": 1132,
+                    "1": 335
+                }
             }
         }
     },
     "2019": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Oral",
+                    "1": "Poster"
+                }
+            },
             "src": {
                 "site": {
                     "name": "cvpr2019.thecvf.com",
                     "url": "http://cvpr2019.thecvf.com/"
                 }
             },
-            "tname": {
-                "0": "Oral",
-                "1": "Poster"
-            },
-            "tnum": {
-                "0": 288,
-                "1": 1006
+            "sum": {
+                "count": {
+                    "0": 288,
+                    "1": 1006
+                }
             }
         }
     },
     "2018": {
         "main": {
+            "name": {
+                "tier": {}
+            },
             "src": {
                 "site": {
                     "name": "cvpr2018.thecvf.com",
                     "url": "http://cvpr2018.thecvf.com/"
                 }
             },
-            "tname": {},
-            "tnum": {}
+            "sum": {
+                "count": {}
+            }
         }
     },
     "2017": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Poster",
+                    "1": "Spotlight",
+                    "2": "Oral"
+                }
+            },
             "src": {
                 "site": {
                     "name": "cvpr2017.thecvf.com",
                     "url": "http://cvpr2017.thecvf.com/"
                 }
             },
-            "tname": {
-                "0": "Poster",
-                "1": "Spotlight",
-                "2": "Oral"
-            },
-            "tnum": {
-                "0": 568,
-                "1": 144,
-                "2": 71
+            "sum": {
+                "count": {
+                    "0": 568,
+                    "1": 144,
+                    "2": 71
+                }
             }
         }
     },
     "2016": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Oral",
+                    "1": "Poster",
+                    "2": "Spotlight"
+                }
+            },
             "src": {
                 "site": {
                     "name": "cvpr2016.thecvf.com",
                     "url": "http://cvpr2016.thecvf.com/"
                 }
             },
-            "tname": {
-                "0": "Oral",
-                "1": "Poster",
-                "2": "Spotlight"
-            },
-            "tnum": {
-                "0": 85,
-                "1": 420,
-                "2": 128
+            "sum": {
+                "count": {
+                    "0": 85,
+                    "1": 420,
+                    "2": 128
+                }
             }
         }
     },
     "2015": {
         "main": {
+            "name": {
+                "tier": {}
+            },
             "src": {
                 "site": {
                     "name": "cvpr2015.thecvf.com",
                     "url": "http://cvpr2015.thecvf.com/"
                 }
             },
-            "tname": {},
-            "tnum": {}
+            "sum": {
+                "count": {}
+            }
         }
     },
     "2014": {
         "main": {
+            "name": {
+                "tier": {}
+            },
             "src": {
                 "site": {
                     "name": "cvpr2014.thecvf.com",
                     "url": "http://cvpr2014.thecvf.com/"
                 }
             },
-            "tname": {},
-            "tnum": {}
+            "sum": {
+                "count": {}
+            }
         }
     },
     "2013": {
         "main": {
+            "name": {
+                "tier": {}
+            },
             "src": {
                 "site": {
                     "name": "cvpr2013.thecvf.com",
                     "url": "http://cvpr2013.thecvf.com/"
                 }
             },
-            "tname": {},
-            "tnum": {}
+            "sum": {
+                "count": {}
+            }
         }
     }
 }
