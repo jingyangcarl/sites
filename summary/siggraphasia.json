@@ -21,17 +21,21 @@
     },
     "2023": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Technical Paper"
+                }
+            },
             "src": {
                 "site": {
                     "name": "asia.siggraph.org",
                     "url": "https://asia.siggraph.org/"
                 }
             },
-            "tname": {
-                "0": "Technical Paper"
-            },
-            "tnum": {
-                "0": 224
+            "sum": {
+                "count": {
+                    "0": 224
+                }
             }
         }
     },
