@@ -1,137 +1,169 @@
 {
     "2024": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Poster",
+                    "1": "Oral"
+                }
+            },
             "src": {
                 "site": {
                     "name": "icml.cc",
                     "url": "https://icml.cc/virtual/2024"
                 }
             },
-            "tname": {
-                "0": "Poster",
-                "1": "Oral"
-            },
-            "tnum": {
-                "0": 2490,
-                "1": 144
+            "sum": {
+                "count": {
+                    "0": 2490,
+                    "1": 144
+                }
             }
         }
     },
     "2023": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Poster",
+                    "1": "Oral"
+                }
+            },
             "src": {
                 "site": {
                     "name": "icml.cc",
                     "url": "https://icml.cc/virtual/2023"
                 }
             },
-            "tname": {
-                "0": "Poster",
-                "1": "Oral"
-            },
-            "tnum": {
-                "0": 1710,
-                "1": 155
+            "sum": {
+                "count": {
+                    "0": 1710,
+                    "1": 155
+                }
             }
         }
     },
     "2022": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Spotlight",
+                    "1": "Oral"
+                }
+            },
             "src": {
                 "site": {
                     "name": "icml.cc",
                     "url": "https://icml.cc/virtual/2022"
                 }
             },
-            "tname": {
-                "0": "Spotlight",
-                "1": "Oral"
-            },
-            "tnum": {
-                "0": 1115,
-                "1": 118
+            "sum": {
+                "count": {
+                    "0": 1115,
+                    "1": 118
+                }
             }
         }
     },
     "2021": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Spotlight",
+                    "1": "Oral"
+                }
+            },
             "src": {
                 "site": {
                     "name": "icml.cc",
                     "url": "https://icml.cc/virtual/2021"
                 }
             },
-            "tname": {
-                "0": "Spotlight",
-                "1": "Oral"
-            },
-            "tnum": {
-                "0": 1017,
-                "1": 166
+            "sum": {
+                "count": {
+                    "0": 1017,
+                    "1": 166
+                }
             }
         }
     },
     "2020": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Poster"
+                }
+            },
             "src": {
                 "site": {
                     "name": "icml.cc",
                     "url": "https://icml.cc/virtual/2020"
                 }
             },
-            "tname": {
-                "0": "Poster"
-            },
-            "tnum": {
-                "0": 1084
+            "sum": {
+                "count": {
+                    "0": 1084
+                }
             }
         }
     },
     "2019": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Oral"
+                }
+            },
             "src": {
                 "site": {
                     "name": "icml.cc",
                     "url": "https://icml.cc/virtual/2019"
                 }
             },
-            "tname": {
-                "0": "Oral"
-            },
-            "tnum": {
-                "0": 773
+            "sum": {
+                "count": {
+                    "0": 773
+                }
             }
         }
     },
     "2018": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Oral"
+                }
+            },
             "src": {
                 "site": {
                     "name": "icml.cc",
                     "url": "https://icml.cc/virtual/2018"
                 }
             },
-            "tname": {
-                "0": "Oral"
-            },
-            "tnum": {
-                "0": 621
+            "sum": {
+                "count": {
+                    "0": 621
+                }
             }
         }
     },
     "2017": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Poster"
+                }
+            },
             "src": {
                 "site": {
                     "name": "icml.cc",
                     "url": "https://icml.cc/virtual/2017"
                 }
             },
-            "tname": {
-                "0": "Poster"
-            },
-            "tnum": {
-                "0": 434
+            "sum": {
+                "count": {
+                    "0": 434
+                }
             }
         }
     }
