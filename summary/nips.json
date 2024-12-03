@@ -1,40 +1,62 @@
 {
     "2024": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Poster",
+                    "1": "Oral"
+                }
+            },
             "src": {
                 "site": {
                     "name": "nips.cc",
                     "url": "https://nips.cc/virtual/2024"
                 }
             },
-            "tname": {
-                "0": "Poster",
-                "1": "Oral"
-            },
-            "tnum": {
-                "0": 4481,
-                "1": 72
+            "sum": {
+                "count": {
+                    "0": 3979,
+                    "1": 61
+                }
             }
         },
         "Datasets & Benchmarks": {
+            "name": {
+                "tier": {
+                    "0": "Poster",
+                    "1": "Oral"
+                }
+            },
             "src": {
                 "site": {
                     "name": "nips.cc",
                     "url": "https://nips.cc/virtual/2024"
                 }
             },
-            "tname": {},
-            "tnum": {}
+            "sum": {
+                "count": {
+                    "0": 449,
+                    "1": 11
+                }
+            }
         },
         "Journal": {
+            "name": {
+                "tier": {
+                    "0": "Journal"
+                }
+            },
             "src": {
                 "site": {
                     "name": "nips.cc",
                     "url": "https://nips.cc/virtual/2024"
                 }
             },
-            "tname": {},
-            "tnum": {}
+            "sum": {
+                "count": {
+                    "0": 44
+                }
+            }
         }
     },
     "2023": {
