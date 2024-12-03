@@ -1,56 +1,72 @@
 {
     "2024": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Poster",
+                    "1": "Oral"
+                }
+            },
             "src": {
                 "site": {
                     "name": "eccv2024.ecva.net",
                     "url": "https://eccv2024.ecva.net//virtual/2024"
                 }
             },
-            "tname": {
-                "0": "Poster",
-                "1": "Oral"
-            },
-            "tnum": {
-                "0": 2187,
-                "1": 200
+            "sum": {
+                "count": {
+                    "0": 2187,
+                    "1": 200
+                }
             }
         }
     },
     "2022": {
         "main": {
+            "name": {
+                "tier": {}
+            },
             "src": {
                 "site": {
                     "name": "eccv2022.ecva.net",
                     "url": "https://eccv2022.ecva.net/"
                 }
             },
-            "tname": {},
-            "tnum": {}
+            "sum": {
+                "count": {}
+            }
         }
     },
     "2020": {
         "main": {
+            "name": {
+                "tier": {}
+            },
             "src": {
                 "site": {
                     "name": "eccv2020.eu",
                     "url": "http://eccv2020.eu"
                 }
             },
-            "tname": {},
-            "tnum": {}
+            "sum": {
+                "count": {}
+            }
         }
     },
     "2018": {
         "main": {
+            "name": {
+                "tier": {}
+            },
             "src": {
                 "site": {
                     "name": "eccv2018.org",
                     "url": "https://eccv2018.org"
                 }
             },
-            "tname": {},
-            "tnum": {}
+            "sum": {
+                "count": {}
+            }
         }
     }
 }
