@@ -1,135 +1,163 @@
 {
     "2024": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Technical Paper",
+                    "1": "TOG Paper"
+                }
+            },
             "src": {
                 "site": {
                     "name": "s2024.conference-program.org",
                     "url": "https://s2024.conference-program.org/"
                 }
             },
-            "tname": {
-                "0": "Technical Paper",
-                "1": "TOG Paper"
-            },
-            "tnum": {
-                "0": 252,
-                "1": 27
+            "sum": {
+                "count": {
+                    "0": 252,
+                    "1": 27
+                }
             }
         }
     },
     "2023": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Technical Paper",
+                    "1": "TOG Paper"
+                }
+            },
             "src": {
                 "site": {
                     "name": "s2023.siggraph.org",
                     "url": "https://s2023.siggraph.org/"
                 }
             },
-            "tname": {
-                "0": "Technical Paper",
-                "1": "TOG Paper"
-            },
-            "tnum": {
-                "0": 212,
-                "1": 27
+            "sum": {
+                "count": {
+                    "0": 212,
+                    "1": 27
+                }
             }
         }
     },
     "2022": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Technical Paper",
+                    "1": "TOG Paper",
+                    "2": "Poster"
+                }
+            },
             "src": {
                 "site": {
                     "name": "s2022.siggraph.org",
                     "url": "https://s2022.siggraph.org/"
                 }
             },
-            "tname": {
-                "0": "Technical Paper",
-                "1": "TOG Paper",
-                "2": "Poster"
-            },
-            "tnum": {
-                "0": 194,
-                "1": 53,
-                "2": 66
+            "sum": {
+                "count": {
+                    "0": 194,
+                    "1": 53,
+                    "2": 66
+                }
             }
         }
     },
     "2021": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Technical Paper",
+                    "1": "TOG Paper",
+                    "2": "Poster"
+                }
+            },
             "src": {
                 "site": {
                     "name": "s2021.siggraph.org",
                     "url": "https://s2021.siggraph.org/"
                 }
             },
-            "tname": {
-                "0": "Technical Paper",
-                "1": "TOG Paper",
-                "2": "Poster"
-            },
-            "tnum": {
-                "0": 149,
-                "1": 28,
-                "2": 45
+            "sum": {
+                "count": {
+                    "0": 149,
+                    "1": 28,
+                    "2": 45
+                }
             }
         }
     },
     "2020": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Poster",
+                    "1": "TOG Paper",
+                    "2": "Technical Paper"
+                }
+            },
             "src": {
                 "site": {
                     "name": "s2020.siggraph.org",
                     "url": "https://s2020.siggraph.org/"
                 }
             },
-            "tname": {
-                "0": "Poster",
-                "1": "TOG Paper",
-                "2": "Technical Paper"
-            },
-            "tnum": {
-                "0": 58,
-                "1": 40,
-                "2": 123
+            "sum": {
+                "count": {
+                    "0": 58,
+                    "1": 40,
+                    "2": 123
+                }
             }
         }
     },
     "2019": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Poster",
+                    "1": "Technical Paper",
+                    "2": "TOG Paper"
+                }
+            },
             "src": {
                 "site": {
                     "name": "s2019.siggraph.org",
                     "url": "https://s2019.siggraph.org/"
                 }
             },
-            "tname": {
-                "0": "Poster",
-                "1": "Technical Paper",
-                "2": "TOG Paper"
-            },
-            "tnum": {
-                "0": 74,
-                "1": 111,
-                "2": 31
+            "sum": {
+                "count": {
+                    "0": 74,
+                    "1": 111,
+                    "2": 31
+                }
             }
         }
     },
     "2018": {
         "main": {
+            "name": {
+                "tier": {
+                    "0": "Technical Paper",
+                    "1": "TOG Paper"
+                }
+            },
             "src": {
                 "site": {
                     "name": "s2018.siggraph.org",
                     "url": "https://s2018.siggraph.org/"
                 }
             },
-            "tname": {
-                "0": "Technical Paper",
-                "1": "TOG Paper"
-            },
-            "tnum": {
-                "0": 128,
-                "1": 39
+            "sum": {
+                "count": {
+                    "0": 128,
+                    "1": 39
+                }
             }
         }
     }
