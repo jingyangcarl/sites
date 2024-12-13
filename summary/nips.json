@@ -9,13 +9,13 @@
             },
             "src": {
                 "site": {
-                    "name": "nips.cc",
-                    "url": "https://nips.cc/virtual/2024"
+                    "name": "neurips.cc",
+                    "url": "https://neurips.cc/virtual/2024"
                 }
             },
             "sum": {
                 "count": {
-                    "0": 3979,
+                    "0": 3977,
                     "1": 61
                 }
             }
@@ -29,8 +29,8 @@
             },
             "src": {
                 "site": {
-                    "name": "nips.cc",
-                    "url": "https://nips.cc/virtual/2024"
+                    "name": "neurips.cc",
+                    "url": "https://neurips.cc/virtual/2024"
                 }
             },
             "sum": {
@@ -48,8 +48,8 @@
             },
             "src": {
                 "site": {
-                    "name": "nips.cc",
-                    "url": "https://nips.cc/virtual/2024"
+                    "name": "neurips.cc",
+                    "url": "https://neurips.cc/virtual/2024"
                 }
             },
             "sum": {
