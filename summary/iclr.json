@@ -202,5 +202,29 @@
                 "count": {}
             }
         }
+    },
+    "2025": {
+        "main": {
+            "name": {
+                "tier": {
+                    "0": "Poster",
+                    "1": "Spotlight",
+                    "2": "Oral"
+                }
+            },
+            "src": {
+                "site": {
+                    "name": "iclr.cc",
+                    "url": "https://iclr.cc/virtual/2025"
+                }
+            },
+            "sum": {
+                "count": {
+                    "0": 3178,
+                    "1": 373,
+                    "2": 207
+                }
+            }
+        }
     }
 }
