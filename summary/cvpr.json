@@ -240,5 +240,25 @@
                 "count": {}
             }
         }
+    },
+    "2025": {
+        "main": {
+            "name": {
+                "tier": {
+                    "0": "Poster"
+                }
+            },
+            "src": {
+                "site": {
+                    "name": "cvpr.thecvf.com",
+                    "url": "https://cvpr.thecvf.com/virtual/2025"
+                }
+            },
+            "sum": {
+                "count": {
+                    "0": 2880
+                }
+            }
+        }
     }
 }
